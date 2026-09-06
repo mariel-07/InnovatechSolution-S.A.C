@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import HTMLResponse
+from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 import os
 
@@ -13,13 +14,20 @@ from procesos.prediccionNN import predecir_nn_desde_diccionario
 
 
 # ============================================================
-# CONFIGURACIÓN DE FASTAPI
+# CONFIGURACIÓN DE RUTAS Y FASTAPI
 # ============================================================
 
 app = FastAPI(
     title="Innovatech Solutions API",
     version="2.5"
 )
+
+# Definir rutas absolutas para compatibilidad total con Vercel
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+STYLE_DIR = os.path.join(BASE_DIR, "style")
+
+# Montar la carpeta estática para que carguen el CSS y JS correctamente
+app.mount("/style", StaticFiles(directory=STYLE_DIR), name="style")
 
 
 # ============================================================
@@ -130,8 +138,9 @@ def predecir_nn(datos: DatosNN):
 
 @app.get("/", response_class=HTMLResponse)
 def inicio():
-    if os.path.exists("index.html"):
-        with open("index.html", "r", encoding="utf-8") as f:
+    index_path = os.path.join(BASE_DIR, "index.html")
+    if os.path.exists(index_path):
+        with open(index_path, "r", encoding="utf-8") as f:
             return f.read()
     
     return """
@@ -139,7 +148,7 @@ def inicio():
         <head><title>Innovatech Solutions API</title></head>
         <body style="font-family: Arial; text-align: center; margin-top: 50px;">
             <h1>Innovatech Solutions API funcionando correctamente</h1>
-            <p>Versión: 2.5</p>
+            <p>Versión: 2.5 - Advertencia: index.html no encontrado en la ruta raíz.</p>
         </body>
     </html>
     """
