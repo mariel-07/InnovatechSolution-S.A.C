@@ -1,6 +1,8 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import HTMLResponse
 from pydantic import BaseModel
+import os
 
 # ============================================================
 # IMPORTAR LOS MODELOS DESDE LA CARPETA procesos
@@ -38,13 +40,9 @@ app.add_middleware(
 # ============================================================
 
 class DatosML(BaseModel):
-
     presupuesto_usd: float
-
     deadline_dias: int
-
     tipo_servicio: str
-
     infraestructura_cloud: int
 
 
@@ -54,40 +52,28 @@ class DatosML(BaseModel):
 
 @app.post("/api/predecir-ml")
 def predecir_ml(datos: DatosML):
-
     try:
-
         datos_diccionario = datos.model_dump()
-
         prediccion = predecir_desde_diccionario(
             datos_diccionario
         )
-
         costo = prediccion * 35.0
-
 
         return {
             "success": True,
-
             "modelo": "Random Forest Regressor",
-
             "horas_hombre": round(
                 float(prediccion),
                 1
             ),
-
             "costo_usd": round(
                 float(costo),
                 2
             )
         }
-
-
     except Exception as e:
-
         return {
             "success": False,
-
             "error": str(e)
         }
 
@@ -97,19 +83,12 @@ def predecir_ml(datos: DatosML):
 # ============================================================
 
 class DatosNN(BaseModel):
-
     presupuesto_estimado: float
-
     deadline_dias: int
-
     cantidad_bugs: int
-
     numero_desarrolladores: int
-
     infraestructura_nube_previa: str
-
     renovacion_contrato: str
-
     tipo_servicio: str
 
 
@@ -119,58 +98,48 @@ class DatosNN(BaseModel):
 
 @app.post("/api/predecir-nn")
 def predecir_nn(datos: DatosNN):
-
     try:
-
         datos_diccionario = datos.model_dump()
-
         prediccion = predecir_nn_desde_diccionario(
             datos_diccionario
         )
-
         costo = prediccion * 120.0
-
 
         return {
             "success": True,
-
             "modelo": "MLP Regressor - Red Neuronal",
-
             "horas_hombre": round(
                 float(prediccion),
                 1
             ),
-
             "costo_pen": round(
                 float(costo),
                 2
             )
         }
-
-
     except Exception as e:
-
         return {
             "success": False,
-
             "error": str(e)
         }
 
 
 # ============================================================
-# RUTA PRINCIPAL DE PRUEBA
+# RUTA PRINCIPAL - CARGAR INTERFAZ GRÁFICA (HTML)
 # ============================================================
 
-@app.get("/")
+@app.get("/", response_class=HTMLResponse)
 def inicio():
-
-    return {
-        "mensaje": "Innovatech Solutions API funcionando correctamente",
-
-        "version": "2.5",
-
-        "endpoints": {
-            "machine_learning": "/api/predecir-ml",
-            "red_neuronal": "/api/predecir-nn"
-        }
-    }
+    if os.path.exists("index.html"):
+        with open("index.html", "r", encoding="utf-8") as f:
+            return f.read()
+    
+    return """
+    <html>
+        <head><title>Innovatech Solutions API</title></head>
+        <body style="font-family: Arial; text-align: center; margin-top: 50px;">
+            <h1>Innovatech Solutions API funcionando correctamente</h1>
+            <p>Versión: 2.5</p>
+        </body>
+    </html>
+    """
