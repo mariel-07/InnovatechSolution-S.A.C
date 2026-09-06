@@ -12,10 +12,6 @@
       "destination": "app.py"
     },
     {
-      "src": "/style/(.*)",
-      "destination": "/style/$1"
-    },
-    {
       "src": "/(.*)",
       "destination": "/index.html"
     }
