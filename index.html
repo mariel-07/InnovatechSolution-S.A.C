@@ -1,572 +1,1167 @@
 <!DOCTYPE html>
-
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+    <title>Innovatech Solutions S.A.C.</title>
 
-<title>Innovatech Solutions S.A.C.</title>
+    <!-- Font Awesome -->
+    <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    >
 
-<!-- Font Awesome -->
-<link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
->
-
-<!-- CSS propio -->
-<link
-    rel="stylesheet"
-    href="/style/css/styles.css"
->
-
-
+    <!-- CSS -->
+    <link
+        rel="stylesheet"
+        href="/style/css/styles.css"
+    >
 </head>
 
 <body>
 
+<!-- =========================================================
+     SIDEBAR
+========================================================= -->
 
-<!-- =====================================================
-     HEADER
-====================================================== -->
-<header class="topbar">
+<aside class="sidebar">
 
-    <div class="brand">
+    <div class="sidebar-brand">
 
-        <div class="brand-icon">
+        <div class="brand-logo">
             <i class="fa-solid fa-brain"></i>
         </div>
 
-        <div class="brand-text">
-            <h1>INNOVATECH SOLUTIONS S.A.C.</h1>
-            <p>Sistema Inteligente conectado a Modelos Python</p>
-        </div>
-
-    </div>
-
-    <div class="system-status">
-        <span class="status-dot"></span>
-        <span>Sistema conectado</span>
-    </div>
-
-</header>
-
-
-<!-- =====================================================
-     CONTENEDOR PRINCIPAL
-====================================================== -->
-<main class="main-container">
-
-
-    <!-- =================================================
-         TÍTULO
-    ================================================== -->
-    <section class="page-heading">
-
         <div>
-            <span class="section-label">
-                <i class="fa-solid fa-chart-line"></i>
-                SISTEMA DE PREDICCIÓN
-            </span>
-
-            <h2>
-                Estimación inteligente de proyectos
-            </h2>
-
-            <p>
-                Utiliza modelos de Machine Learning y Redes Neuronales
-                para estimar horas-hombre y costos de desarrollo.
-            </p>
+            <strong>INNOVATECH</strong>
+            <span>SOLUTIONS S.A.C.</span>
         </div>
 
-    </section>
+    </div>
 
 
-    <!-- =================================================
-         TABS
-    ================================================== -->
-    <div class="tabs">
+    <div class="sidebar-section-title">
+        PLATAFORMA
+    </div>
+
+
+    <nav class="sidebar-nav">
 
         <button
-            type="button"
-            onclick="switchTab('tab-ml', this)"
-            id="btn-ml"
-            class="tab-btn active"
+            class="nav-item active"
+            onclick="showSection('dashboard', this)"
+        >
+            <i class="fa-solid fa-chart-pie"></i>
+            <span>Dashboard</span>
+        </button>
+
+
+        <button
+            class="nav-item"
+            onclick="showSection('ml-section', this)"
         >
             <i class="fa-solid fa-robot"></i>
-            Machine Learning
-            <span>Random Forest</span>
+            <span>Machine Learning</span>
         </button>
 
 
         <button
-            type="button"
-            onclick="switchTab('tab-nn', this)"
-            id="btn-nn"
-            class="tab-btn"
+            class="nav-item"
+            onclick="showSection('nn-section', this)"
         >
             <i class="fa-solid fa-network-wired"></i>
-            Redes Neuronales
-            <span>MLP</span>
+            <span>Red Neuronal</span>
         </button>
+
+
+        <button
+            class="nav-item"
+            onclick="showSection('datos-section', this)"
+        >
+            <i class="fa-solid fa-database"></i>
+            <span>Base de datos</span>
+        </button>
+
+    </nav>
+
+
+    <div class="sidebar-bottom">
+
+        <div class="system-card">
+
+            <span class="online-dot"></span>
+
+            <div>
+                <strong>Sistema operativo</strong>
+                <small>API conectada</small>
+            </div>
+
+        </div>
+
+        <div class="sidebar-version">
+            Innovatech AI v3.0
+        </div>
 
     </div>
 
+</aside>
 
-    <!-- =================================================
-         MACHINE LEARNING
-    ================================================== -->
-    <section
-        id="tab-ml"
-        class="tab-content"
-    >
 
-        <div class="model-header">
+<!-- =========================================================
+     CONTENIDO PRINCIPAL
+========================================================= -->
 
-            <div class="model-icon ml-icon">
-                <i class="fa-solid fa-robot"></i>
-            </div>
+<div class="main-wrapper">
+
+
+    <!-- =====================================================
+         HEADER
+    ====================================================== -->
+
+    <header class="topbar">
+
+        <div class="topbar-left">
+
+            <button
+                class="mobile-menu"
+                onclick="toggleSidebar()"
+            >
+                <i class="fa-solid fa-bars"></i>
+            </button>
 
             <div>
-                <span class="model-tag">
-                    MODELO DE MACHINE LEARNING
+
+                <span class="breadcrumb">
+                    INNOVATECH / INTELLIGENCE
                 </span>
 
-                <h3>
-                    Predicción con Random Forest
-                </h3>
+                <h1 id="page-title">
+                    Centro de Inteligencia
+                </h1>
 
-                <p>
-                    Modelo entrenado utilizando el conjunto de datos
-                    <strong>DATOS.csv</strong>.
-                </p>
             </div>
 
         </div>
 
 
-        <!-- FORMULARIO ML -->
-        <form
-            id="form-ml"
-            onsubmit="predictML(event)"
-            class="prediction-form"
-        >
+        <div class="topbar-right">
 
-            <div class="form-group">
+            <div class="api-status">
 
-                <label for="ml-presupuesto">
-                    <i class="fa-solid fa-dollar-sign"></i>
-                    Presupuesto
-                </label>
-
-                <div class="input-wrapper">
-
-                    <span class="input-prefix">
-                        USD
-                    </span>
-
-                    <input
-                        type="number"
-                        id="ml-presupuesto"
-                        value="15000"
-                        min="0"
-                        step="0.01"
-                        required
-                    >
-
-                </div>
-
-            </div>
-
-
-            <div class="form-group">
-
-                <label for="ml-deadline">
-                    <i class="fa-regular fa-calendar"></i>
-                    Plazo / Deadline
-                </label>
-
-                <div class="input-wrapper">
-
-                    <span class="input-prefix">
-                        DÍAS
-                    </span>
-
-                    <input
-                        type="number"
-                        id="ml-deadline"
-                        value="90"
-                        min="1"
-                        required
-                    >
-
-                </div>
-
-            </div>
-
-
-            <div class="form-group">
-
-                <label for="ml-servicio">
-                    <i class="fa-solid fa-code"></i>
-                    Tipo de Servicio
-                </label>
-
-                <select
-                    id="ml-servicio"
-                    required
-                >
-                    <option value="Plataforma_SaaS">
-                        Plataforma SaaS
-                    </option>
-
-                    <option value="Desarrollo_Web">
-                        Desarrollo Web
-                    </option>
-                </select>
-
-            </div>
-
-
-            <div class="form-group">
-
-                <label for="ml-infra">
-                    <i class="fa-solid fa-cloud"></i>
-                    Infraestructura Cloud
-                </label>
-
-                <select
-                    id="ml-infra"
-                    required
-                >
-                    <option value="1">
-                        Sí
-                    </option>
-
-                    <option value="0">
-                        No
-                    </option>
-                </select>
-
-            </div>
-
-
-            <div class="form-submit">
-
-                <button
-                    type="submit"
-                    id="btn-predict-ml"
-                    class="btn-primary ml-button"
-                >
-                    <i class="fa-solid fa-wand-magic-sparkles"></i>
-                    REALIZAR PREDICCIÓN
-                </button>
-
-            </div>
-
-        </form>
-
-
-        <!-- RESULTADO ML -->
-        <div
-            id="result-ml"
-            class="result-box hidden"
-        >
-
-            <div class="result-title">
+                <span class="status-dot"></span>
 
                 <div>
-                    <span>
-                        RESULTADO DEL MODELO
-                    </span>
-
-                    <h4>
-                        Predicción completada
-                    </h4>
+                    <strong>API Online</strong>
+                    <small>FastAPI</small>
                 </div>
 
-                <div class="success-icon">
-                    <i class="fa-solid fa-check"></i>
+            </div>
+
+            <div class="topbar-date">
+
+                <i class="fa-regular fa-calendar"></i>
+
+                <span id="current-date">
+                    --
+                </span>
+
+            </div>
+
+        </div>
+
+    </header>
+
+
+    <!-- =====================================================
+         CONTENIDO
+    ====================================================== -->
+
+    <main class="content">
+
+
+        <!-- =================================================
+             DASHBOARD
+        ================================================== -->
+
+        <section
+            id="dashboard"
+            class="page-section active-section"
+        >
+
+            <div class="welcome-header">
+
+                <div>
+
+                    <span class="eyebrow">
+                        <i class="fa-solid fa-bolt"></i>
+                        SISTEMA INTELIGENTE
+                    </span>
+
+                    <h2>
+                        Estimación inteligente de proyectos
+                    </h2>
+
+                    <p>
+                        Plataforma empresarial para estimar
+                        horas-hombre y costos utilizando
+                        Machine Learning e Inteligencia Artificial.
+                    </p>
+
+                </div>
+
+                <div class="welcome-icon">
+                    <i class="fa-solid fa-chart-line"></i>
                 </div>
 
             </div>
 
 
-            <div class="result-grid">
+            <!-- TARJETAS -->
 
-                <div class="result-card">
+            <div class="stats-grid">
 
-                    <div class="result-card-icon">
-                        <i class="fa-solid fa-clock"></i>
+                <div class="stat-card">
+
+                    <div class="stat-icon purple">
+                        <i class="fa-solid fa-robot"></i>
                     </div>
 
                     <div>
+
+                        <span>MODELO PRINCIPAL</span>
+
+                        <strong>
+                            Random Forest
+                        </strong>
+
+                        <small>
+                            Machine Learning
+                        </small>
+
+                    </div>
+
+                </div>
+
+
+                <div class="stat-card">
+
+                    <div class="stat-icon green">
+                        <i class="fa-solid fa-network-wired"></i>
+                    </div>
+
+                    <div>
+
+                        <span>MODELO AVANZADO</span>
+
+                        <strong>
+                            MLP Regressor
+                        </strong>
+
+                        <small>
+                            Red Neuronal
+                        </small>
+
+                    </div>
+
+                </div>
+
+
+                <div class="stat-card">
+
+                    <div class="stat-icon orange">
+                        <i class="fa-solid fa-database"></i>
+                    </div>
+
+                    <div>
+
+                        <span>DATASET PRINCIPAL</span>
+
+                        <strong>
+                            datos.csv
+                        </strong>
+
+                        <small>
+                            Dataset histórico
+                        </small>
+
+                    </div>
+
+                </div>
+
+
+                <div class="stat-card">
+
+                    <div class="stat-icon blue">
+                        <i class="fa-solid fa-layer-group"></i>
+                    </div>
+
+                    <div>
+
+                        <span>DATASET IA</span>
+
+                        <strong>
+                            20k.csv
+                        </strong>
+
+                        <small>
+                            Datos simulados
+                        </small>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <!-- MODELOS -->
+
+            <div class="dashboard-grid">
+
+                <div class="enterprise-card">
+
+                    <div class="card-heading">
+
+                        <div>
+
+                            <span class="card-label">
+                                MODELO 01
+                            </span>
+
+                            <h3>
+                                Random Forest Regressor
+                            </h3>
+
+                        </div>
+
+                        <div class="heading-icon purple-bg">
+                            <i class="fa-solid fa-robot"></i>
+                        </div>
+
+                    </div>
+
+                    <p>
+                        Modelo de Machine Learning supervisado
+                        utilizado para estimar las horas-hombre
+                        necesarias para un proyecto.
+                    </p>
+
+                    <div class="feature-list">
+
+                        <div>
+                            <i class="fa-solid fa-check"></i>
+                            Entrenamiento 80/20
+                        </div>
+
+                        <div>
+                            <i class="fa-solid fa-check"></i>
+                            Datos históricos
+                        </div>
+
+                        <div>
+                            <i class="fa-solid fa-check"></i>
+                            Predicción de horas-hombre
+                        </div>
+
+                    </div>
+
+                    <button
+                        class="outline-button"
+                        onclick="showSection('ml-section')"
+                    >
+                        Abrir modelo
+                        <i class="fa-solid fa-arrow-right"></i>
+                    </button>
+
+                </div>
+
+
+                <div class="enterprise-card">
+
+                    <div class="card-heading">
+
+                        <div>
+
+                            <span class="card-label green-label">
+                                MODELO 02
+                            </span>
+
+                            <h3>
+                                Red Neuronal MLP
+                            </h3>
+
+                        </div>
+
+                        <div class="heading-icon green-bg">
+                            <i class="fa-solid fa-network-wired"></i>
+                        </div>
+
+                    </div>
+
+                    <p>
+                        Modelo basado en una red neuronal
+                        multicapa entrenada con el conjunto
+                        de datos de 20,000 registros.
+                    </p>
+
+                    <div class="feature-list">
+
+                        <div>
+                            <i class="fa-solid fa-check"></i>
+                            Dataset 20k
+                        </div>
+
+                        <div>
+                            <i class="fa-solid fa-check"></i>
+                            Arquitectura MLP
+                        </div>
+
+                        <div>
+                            <i class="fa-solid fa-check"></i>
+                            Predicción avanzada
+                        </div>
+
+                    </div>
+
+                    <button
+                        class="outline-button green-outline"
+                        onclick="showSection('nn-section')"
+                    >
+                        Abrir modelo
+                        <i class="fa-solid fa-arrow-right"></i>
+                    </button>
+
+                </div>
+
+            </div>
+
+
+            <!-- PROCESO -->
+
+            <div class="enterprise-card process-card">
+
+                <div class="card-heading">
+
+                    <div>
+
+                        <span class="card-label">
+                            FLUJO DEL SISTEMA
+                        </span>
+
+                        <h3>
+                            Proceso de estimación
+                        </h3>
+
+                    </div>
+
+                </div>
+
+
+                <div class="process-flow">
+
+                    <div class="process-step">
+
+                        <div class="process-number">
+                            01
+                        </div>
+
+                        <i class="fa-solid fa-file-lines"></i>
+
+                        <strong>
+                            Requerimientos
+                        </strong>
+
                         <span>
-                            HORAS-HOMBRE
+                            Datos iniciales
+                        </span>
+
+                    </div>
+
+
+                    <div class="process-line"></div>
+
+
+                    <div class="process-step">
+
+                        <div class="process-number">
+                            02
+                        </div>
+
+                        <i class="fa-solid fa-microchip"></i>
+
+                        <strong>
+                            Procesamiento
+                        </strong>
+
+                        <span>
+                            Modelo IA
+                        </span>
+
+                    </div>
+
+
+                    <div class="process-line"></div>
+
+
+                    <div class="process-step">
+
+                        <div class="process-number">
+                            03
+                        </div>
+
+                        <i class="fa-solid fa-clock"></i>
+
+                        <strong>
+                            Horas-hombre
+                        </strong>
+
+                        <span>
+                            Predicción
+                        </span>
+
+                    </div>
+
+
+                    <div class="process-line"></div>
+
+
+                    <div class="process-step">
+
+                        <div class="process-number">
+                            04
+                        </div>
+
+                        <i class="fa-solid fa-file-invoice-dollar"></i>
+
+                        <strong>
+                            Cotización
+                        </strong>
+
+                        <span>
+                            Costo estimado
+                        </span>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =================================================
+             MACHINE LEARNING
+        ================================================== -->
+
+        <section
+            id="ml-section"
+            class="page-section"
+        >
+
+            <div class="section-header">
+
+                <div>
+
+                    <span class="eyebrow">
+                        MODELO DE MACHINE LEARNING
+                    </span>
+
+                    <h2>
+                        Random Forest Regressor
+                    </h2>
+
+                    <p>
+                        Estima las horas-hombre requeridas
+                        para completar un proyecto.
+                    </p>
+
+                </div>
+
+                <div class="model-status">
+                    <span class="status-dot"></span>
+                    Modelo disponible
+                </div>
+
+            </div>
+
+
+            <div class="prediction-layout">
+
+                <!-- FORMULARIO -->
+
+                <div class="enterprise-card">
+
+                    <div class="card-title-row">
+
+                        <div>
+
+                            <span class="card-label">
+                                VARIABLES DEL PROYECTO
+                            </span>
+
+                            <h3>
+                                Datos de entrada
+                            </h3>
+
+                        </div>
+
+                        <i class="fa-solid fa-sliders"></i>
+
+                    </div>
+
+
+                    <form
+                        id="form-ml"
+                        onsubmit="predictML(event)"
+                    >
+
+                        <div class="form-grid">
+
+                            <div class="form-group">
+
+                                <label>
+                                    <i class="fa-solid fa-dollar-sign"></i>
+                                    Presupuesto estimado
+                                </label>
+
+                                <div class="input-wrapper">
+
+                                    <span>PEN</span>
+
+                                    <input
+                                        type="number"
+                                        id="ml-presupuesto"
+                                        value="33090.51"
+                                        min="0"
+                                        step="0.01"
+                                        required
+                                    >
+
+                                </div>
+
+                            </div>
+
+
+                            <div class="form-group">
+
+                                <label>
+                                    <i class="fa-regular fa-calendar"></i>
+                                    Deadline
+                                </label>
+
+                                <div class="input-wrapper">
+
+                                    <span>DÍAS</span>
+
+                                    <input
+                                        type="number"
+                                        id="ml-deadline"
+                                        value="287"
+                                        min="1"
+                                        required
+                                    >
+
+                                </div>
+
+                            </div>
+
+
+                            <div class="form-group">
+
+                                <label>
+                                    <i class="fa-solid fa-bug"></i>
+                                    Cantidad de bugs
+                                </label>
+
+                                <input
+                                    type="number"
+                                    id="ml-bugs"
+                                    value="12"
+                                    min="0"
+                                    required
+                                >
+
+                            </div>
+
+
+                            <div class="form-group">
+
+                                <label>
+                                    <i class="fa-solid fa-users"></i>
+                                    Desarrolladores
+                                </label>
+
+                                <input
+                                    type="number"
+                                    id="ml-devs"
+                                    value="6"
+                                    min="1"
+                                    required
+                                >
+
+                            </div>
+
+
+                            <div class="form-group">
+
+                                <label>
+                                    <i class="fa-solid fa-code"></i>
+                                    Tipo de servicio
+                                </label>
+
+                                <select
+                                    id="ml-servicio"
+                                    required
+                                >
+
+                                    <option value="App Móvil">
+                                        App Móvil
+                                    </option>
+
+                                    <option value="E-commerce">
+                                        E-commerce
+                                    </option>
+
+                                    <option value="Portal Web">
+                                        Portal Web
+                                    </option>
+
+                                    <option value="Sistema SaaS">
+                                        Sistema SaaS
+                                    </option>
+
+                                </select>
+
+                            </div>
+
+
+                            <div class="form-group">
+
+                                <label>
+                                    <i class="fa-solid fa-cloud"></i>
+                                    Infraestructura nube previa
+                                </label>
+
+                                <select
+                                    id="ml-infra"
+                                    required
+                                >
+
+                                    <option value="Sí">
+                                        Sí
+                                    </option>
+
+                                    <option value="No">
+                                        No
+                                    </option>
+
+                                </select>
+
+                            </div>
+
+
+                            <div class="form-group">
+
+                                <label>
+                                    <i class="fa-solid fa-rotate"></i>
+                                    Renovación de contrato
+                                </label>
+
+                                <select
+                                    id="ml-renovacion"
+                                    required
+                                >
+
+                                    <option value="Sí">
+                                        Sí
+                                    </option>
+
+                                    <option value="No">
+                                        No
+                                    </option>
+
+                                </select>
+
+                            </div>
+
+                        </div>
+
+
+                        <button
+                            type="submit"
+                            id="btn-predict-ml"
+                            class="primary-button"
+                        >
+
+                            <i class="fa-solid fa-wand-magic-sparkles"></i>
+
+                            Ejecutar predicción
+
+                        </button>
+
+                    </form>
+
+                </div>
+
+
+                <!-- RESULTADO -->
+
+                <div
+                    id="result-ml"
+                    class="prediction-result hidden"
+                >
+
+                    <div class="result-top">
+
+                        <div>
+
+                            <span>
+                                RESULTADO
+                            </span>
+
+                            <h3>
+                                Estimación generada
+                            </h3>
+
+                        </div>
+
+                        <div class="result-check">
+                            <i class="fa-solid fa-check"></i>
+                        </div>
+
+                    </div>
+
+
+                    <div class="big-result">
+
+                        <span>
+                            HORAS-HOMBRE ESTIMADAS
                         </span>
 
                         <strong id="res-ml-horas">
                             0 hrs
                         </strong>
+
                     </div>
 
-                </div>
 
+                    <div class="cost-result">
 
-                <div class="result-card">
-
-                    <div class="result-card-icon cost-icon">
-                        <i class="fa-solid fa-money-bill-wave"></i>
-                    </div>
-
-                    <div>
                         <span>
-                            COSTO ESTIMADO
+                            COTIZACIÓN ESTIMADA
                         </span>
 
                         <strong id="res-ml-costo">
-                            $0.00 USD
+                            $0.00 PEN
                         </strong>
+
+                    </div>
+
+
+                    <div class="result-info">
+
+                        <i class="fa-solid fa-circle-info"></i>
+
+                        <span>
+                            Tarifa aplicada:
+                            <strong>PEN 35.00 / hora</strong>
+                        </span>
+
                     </div>
 
                 </div>
 
             </div>
 
-        </div>
-
-    </section>
+        </section>
 
 
-    <!-- =================================================
-         RED NEURONAL
-    ================================================== -->
-    <section
-        id="tab-nn"
-        class="tab-content hidden"
-    >
+        <!-- =================================================
+             RED NEURONAL
+        ================================================== -->
 
-        <div class="model-header">
-
-            <div class="model-icon nn-icon">
-                <i class="fa-solid fa-network-wired"></i>
-            </div>
-
-            <div>
-
-                <span class="model-tag">
-                    MODELO DE INTELIGENCIA ARTIFICIAL
-                </span>
-
-                <h3>
-                    Predicción con Red Neuronal MLP
-                </h3>
-
-                <p>
-                    Modelo basado en datos simulados mediante
-                    <strong>20k.csv</strong>.
-                </p>
-
-            </div>
-
-        </div>
-
-
-        <!-- FORMULARIO NN -->
-        <form
-            id="form-nn"
-            onsubmit="predictNN(event)"
-            class="prediction-form"
+        <section
+            id="nn-section"
+            class="page-section"
         >
 
-            <div class="form-group">
-
-                <label for="nn-presupuesto">
-                    <i class="fa-solid fa-money-bill"></i>
-                    Presupuesto Estimado
-                </label>
-
-                <div class="input-wrapper">
-
-                    <span class="input-prefix">
-                        PEN
-                    </span>
-
-                    <input
-                        type="number"
-                        id="nn-presupuesto"
-                        value="18000"
-                        min="0"
-                        step="0.01"
-                        required
-                    >
-
-                </div>
-
-            </div>
-
-
-            <div class="form-group">
-
-                <label for="nn-deadline">
-                    <i class="fa-regular fa-calendar-days"></i>
-                    Deadline
-                </label>
-
-                <div class="input-wrapper">
-
-                    <span class="input-prefix">
-                        DÍAS
-                    </span>
-
-                    <input
-                        type="number"
-                        id="nn-deadline"
-                        value="90"
-                        min="1"
-                        required
-                    >
-
-                </div>
-
-            </div>
-
-
-            <div class="form-group">
-
-                <label for="nn-bugs">
-                    <i class="fa-solid fa-bug"></i>
-                    Cantidad de Bugs
-                </label>
-
-                <input
-                    type="number"
-                    id="nn-bugs"
-                    value="2"
-                    min="0"
-                    required
-                >
-
-            </div>
-
-
-            <div class="form-group">
-
-                <label for="nn-devs">
-                    <i class="fa-solid fa-users"></i>
-                    Número de Desarrolladores
-                </label>
-
-                <input
-                    type="number"
-                    id="nn-devs"
-                    value="4"
-                    min="1"
-                    required
-                >
-
-            </div>
-
-
-            <div class="form-group">
-
-                <label for="nn-infra">
-                    <i class="fa-solid fa-cloud-arrow-up"></i>
-                    Infraestructura Nube Previa
-                </label>
-
-                <select id="nn-infra">
-
-                    <option value="Sí">
-                        Sí
-                    </option>
-
-                    <option value="No">
-                        No
-                    </option>
-
-                </select>
-
-            </div>
-
-
-            <div class="form-group">
-
-                <label for="nn-renovacion">
-                    <i class="fa-solid fa-rotate"></i>
-                    Renovación de Contrato
-                </label>
-
-                <select id="nn-renovacion">
-
-                    <option value="Sí">
-                        Sí
-                    </option>
-
-                    <option value="No">
-                        No
-                    </option>
-
-                </select>
-
-            </div>
-
-
-            <div class="form-submit">
-
-                <button
-                    type="submit"
-                    id="btn-predict-nn"
-                    class="btn-primary nn-button"
-                >
-                    <i class="fa-solid fa-brain"></i>
-                    REALIZAR PREDICCIÓN
-                </button>
-
-            </div>
-
-        </form>
-
-
-        <!-- RESULTADO NN -->
-        <div
-            id="result-nn"
-            class="result-box hidden"
-        >
-
-            <div class="result-title">
+            <div class="section-header">
 
                 <div>
 
-                    <span>
-                        RESULTADO DEL MODELO
+                    <span class="eyebrow green-label">
+                        INTELIGENCIA ARTIFICIAL
                     </span>
 
-                    <h4>
-                        Predicción completada
-                    </h4>
+                    <h2>
+                        Red Neuronal MLP
+                    </h2>
+
+                    <p>
+                        Predicción basada en el dataset
+                        simulado de 20,000 registros.
+                    </p>
 
                 </div>
 
-                <div class="success-icon">
-                    <i class="fa-solid fa-check"></i>
+                <div class="model-status green-status">
+                    <span class="status-dot"></span>
+                    Modelo disponible
                 </div>
 
             </div>
 
 
-            <div class="result-grid">
+            <div class="prediction-layout">
 
-                <div class="result-card">
+                <div class="enterprise-card">
 
-                    <div class="result-card-icon nn-result-icon">
-                        <i class="fa-solid fa-clock"></i>
+                    <div class="card-title-row">
+
+                        <div>
+
+                            <span class="card-label green-label">
+                                VARIABLES DEL PROYECTO
+                            </span>
+
+                            <h3>
+                                Datos de entrada
+                            </h3>
+
+                        </div>
+
+                        <i class="fa-solid fa-brain"></i>
+
                     </div>
 
-                    <div>
+
+                    <form
+                        id="form-nn"
+                        onsubmit="predictNN(event)"
+                    >
+
+                        <div class="form-grid">
+
+                            <div class="form-group">
+
+                                <label>
+                                    <i class="fa-solid fa-dollar-sign"></i>
+                                    Presupuesto estimado
+                                </label>
+
+                                <div class="input-wrapper">
+
+                                    <span>PEN</span>
+
+                                    <input
+                                        type="number"
+                                        id="nn-presupuesto"
+                                        value="33090.51"
+                                        min="0"
+                                        step="0.01"
+                                        required
+                                    >
+
+                                </div>
+
+                            </div>
+
+
+                            <div class="form-group">
+
+                                <label>
+                                    <i class="fa-regular fa-calendar"></i>
+                                    Deadline
+                                </label>
+
+                                <div class="input-wrapper">
+
+                                    <span>DÍAS</span>
+
+                                    <input
+                                        type="number"
+                                        id="nn-deadline"
+                                        value="287"
+                                        min="1"
+                                        required
+                                    >
+
+                                </div>
+
+                            </div>
+
+
+                            <div class="form-group">
+
+                                <label>
+                                    <i class="fa-solid fa-bug"></i>
+                                    Cantidad de bugs
+                                </label>
+
+                                <input
+                                    type="number"
+                                    id="nn-bugs"
+                                    value="12"
+                                    min="0"
+                                    required
+                                >
+
+                            </div>
+
+
+                            <div class="form-group">
+
+                                <label>
+                                    <i class="fa-solid fa-users"></i>
+                                    Desarrolladores
+                                </label>
+
+                                <input
+                                    type="number"
+                                    id="nn-devs"
+                                    value="6"
+                                    min="1"
+                                    required
+                                >
+
+                            </div>
+
+
+                            <div class="form-group">
+
+                                <label>
+                                    <i class="fa-solid fa-code"></i>
+                                    Tipo de servicio
+                                </label>
+
+                                <select
+                                    id="nn-servicio"
+                                    required
+                                >
+
+                                    <option value="App Móvil">
+                                        App Móvil
+                                    </option>
+
+                                    <option value="E-commerce">
+                                        E-commerce
+                                    </option>
+
+                                    <option value="Portal Web">
+                                        Portal Web
+                                    </option>
+
+                                    <option value="Sistema SaaS">
+                                        Sistema SaaS
+                                    </option>
+
+                                </select>
+
+                            </div>
+
+
+                            <div class="form-group">
+
+                                <label>
+                                    <i class="fa-solid fa-cloud"></i>
+                                    Infraestructura nube previa
+                                </label>
+
+                                <select
+                                    id="nn-infra"
+                                    required
+                                >
+
+                                    <option value="Sí">
+                                        Sí
+                                    </option>
+
+                                    <option value="No">
+                                        No
+                                    </option>
+
+                                </select>
+
+                            </div>
+
+
+                            <div class="form-group">
+
+                                <label>
+                                    <i class="fa-solid fa-rotate"></i>
+                                    Renovación de contrato
+                                </label>
+
+                                <select
+                                    id="nn-renovacion"
+                                    required
+                                >
+
+                                    <option value="Sí">
+                                        Sí
+                                    </option>
+
+                                    <option value="No">
+                                        No
+                                    </option>
+
+                                </select>
+
+                            </div>
+
+                        </div>
+
+
+                        <button
+                            type="submit"
+                            id="btn-predict-nn"
+                            class="primary-button neural-button"
+                        >
+
+                            <i class="fa-solid fa-brain"></i>
+
+                            Ejecutar predicción
+
+                        </button>
+
+                    </form>
+
+                </div>
+
+
+                <div
+                    id="result-nn"
+                    class="prediction-result neural-result hidden"
+                >
+
+                    <div class="result-top">
+
+                        <div>
+
+                            <span>
+                                RESULTADO
+                            </span>
+
+                            <h3>
+                                Estimación generada
+                            </h3>
+
+                        </div>
+
+                        <div class="result-check">
+                            <i class="fa-solid fa-check"></i>
+                        </div>
+
+                    </div>
+
+
+                    <div class="big-result">
 
                         <span>
-                            HORAS-HOMBRE
+                            HORAS-HOMBRE ESTIMADAS
                         </span>
 
                         <strong id="res-nn-horas">
@@ -575,19 +1170,11 @@
 
                     </div>
 
-                </div>
 
-
-                <div class="result-card">
-
-                    <div class="result-card-icon">
-                        <i class="fa-solid fa-money-bill-wave"></i>
-                    </div>
-
-                    <div>
+                    <div class="cost-result">
 
                         <span>
-                            COSTO ESTIMADO
+                            COTIZACIÓN ESTIMADA
                         </span>
 
                         <strong id="res-nn-costo">
@@ -596,37 +1183,284 @@
 
                     </div>
 
+
+                    <div class="result-info">
+
+                        <i class="fa-solid fa-circle-info"></i>
+
+                        <span>
+                            Tarifa aplicada:
+                            <strong>S/ 120.00 / hora</strong>
+                        </span>
+
+                    </div>
+
                 </div>
 
             </div>
 
-        </div>
-
-    </section>
+        </section>
 
 
-</main>
+        <!-- =================================================
+             DATOS
+        ================================================== -->
+
+        <section
+            id="datos-section"
+            class="page-section"
+        >
+
+            <div class="section-header">
+
+                <div>
+
+                    <span class="eyebrow">
+                        GESTIÓN DE DATOS
+                    </span>
+
+                    <h2>
+                        Datos de entrenamiento
+                    </h2>
+
+                    <p>
+                        Visualiza los registros utilizados
+                        por los modelos de Inteligencia Artificial.
+                    </p>
+
+                </div>
+
+            </div>
 
 
-<!-- =====================================================
-     FOOTER
-====================================================== -->
-<footer class="footer">
+            <!-- DATASET SELECTOR -->
 
-    <p>
-        © 2026 Innovatech Solutions S.A.C.
-    </p>
+            <div class="dataset-toolbar">
 
-    <span>
-        Machine Learning • Inteligencia Artificial • Desarrollo de Software
-    </span>
+                <div class="dataset-selector">
 
-</footer>
+                    <label>
+                        Dataset
+                    </label>
+
+                    <select id="dataset-select">
+
+                        <option value="datos.csv">
+                            datos.csv
+                        </option>
+
+                        <option value="20k.csv">
+                            20k.csv
+                        </option>
+
+                    </select>
+
+                </div>
 
 
-<!-- JavaScript propio -->
+                <div class="search-box">
+
+                    <i class="fa-solid fa-magnifying-glass"></i>
+
+                    <input
+                        type="text"
+                        id="data-search"
+                        placeholder="Buscar proyecto..."
+                    >
+
+                </div>
+
+
+                <button
+                    class="refresh-button"
+                    onclick="loadData()"
+                >
+
+                    <i class="fa-solid fa-rotate"></i>
+
+                    Actualizar
+
+                </button>
+
+            </div>
+
+
+            <!-- RESUMEN DATOS -->
+
+            <div class="data-summary">
+
+                <div>
+
+                    <span>
+                        REGISTROS
+                    </span>
+
+                    <strong id="data-total">
+                        0
+                    </strong>
+
+                </div>
+
+
+                <div>
+
+                    <span>
+                        VARIABLES
+                    </span>
+
+                    <strong>
+                        10
+                    </strong>
+
+                </div>
+
+
+                <div>
+
+                    <span>
+                        VARIABLE OBJETIVO
+                    </span>
+
+                    <strong>
+                        Horas-hombre
+                    </strong>
+
+                </div>
+
+            </div>
+
+
+            <!-- TABLA -->
+
+            <div class="table-card">
+
+                <div class="table-header">
+
+                    <div>
+
+                        <span class="card-label">
+                            REGISTROS DEL DATASET
+                        </span>
+
+                        <h3 id="table-title">
+                            datos.csv
+                        </h3>
+
+                    </div>
+
+                    <span
+                        class="records-badge"
+                        id="records-badge"
+                    >
+                        0 registros
+                    </span>
+
+                </div>
+
+
+                <div class="table-responsive">
+
+                    <table>
+
+                        <thead>
+
+                            <tr>
+
+                                <th>ID PROYECTO</th>
+
+                                <th>PRESUPUESTO</th>
+
+                                <th>DEADLINE</th>
+
+                                <th>BUGS</th>
+
+                                <th>DESARROLLADORES</th>
+
+                                <th>SERVICIO</th>
+
+                                <th>NUBE</th>
+
+                                <th>RENOVACIÓN</th>
+
+                                <th>HORAS-HOMBRE</th>
+
+                                <th>FECHA</th>
+
+                            </tr>
+
+                        </thead>
+
+                        <tbody id="data-table-body">
+
+                            <tr>
+
+                                <td colspan="10">
+                                    Cargando datos...
+                                </td>
+
+                            </tr>
+
+                        </tbody>
+
+                    </table>
+
+                </div>
+
+
+                <div class="pagination">
+
+                    <button
+                        id="prev-page"
+                        onclick="changePage(-1)"
+                    >
+                        <i class="fa-solid fa-chevron-left"></i>
+                    </button>
+
+                    <span id="page-info">
+                        Página 1
+                    </span>
+
+                    <button
+                        id="next-page"
+                        onclick="changePage(1)"
+                    >
+                        <i class="fa-solid fa-chevron-right"></i>
+                    </button>
+
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <!-- =====================================================
+         FOOTER
+    ====================================================== -->
+
+    <footer class="footer">
+
+        <span>
+            © 2026 Innovatech Solutions S.A.C.
+        </span>
+
+        <span>
+            Machine Learning • Inteligencia Artificial
+            • Desarrollo de Software
+        </span>
+
+    </footer>
+
+</div>
+
+
+<!-- =========================================================
+     JAVASCRIPT
+========================================================= -->
+
 <script src="/style/js/app.js"></script>
-
 
 </body>
 </html>

@@ -3,7 +3,7 @@ import pandas as pd
 
 # Fijar semilla para que los datos sean estables
 np.random.seed(42)
-n_registros = 2000
+n_registros = 100
 
 # 1. Generar datos lógicos y coherentes para las 2,000 cotizaciones
 id_proyecto = [f"PRJ-{i:05d}" for i in range(1, n_registros + 1)]

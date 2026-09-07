@@ -1,2001 +1,2001 @@
-presupuesto_usd,deadline_dias,tipo_servicio,infraestructura_cloud,horas_hombre
-1564.01,112,Sitio_Web,0,77.3
-10843.77,27,Plataforma_SaaS,0,516.0
-6700.3,70,App_Movil,1,311.3
-9336.28,171,App_Movil,0,506.9
-1495.85,33,Sitio_Web,0,75.8
-1973.37,61,Sitio_Web,1,93.8
-2050.94,35,Sitio_Web,0,121.6
-24576.22,154,Plataforma_SaaS,1,966.2
-11592.0,31,App_Movil,0,633.1
-10201.24,76,App_Movil,0,548.6
-1573.31,69,Sitio_Web,0,80.5
-8224.67,170,Plataforma_SaaS,0,380.3
-12704.27,136,Plataforma_SaaS,1,519.2
-1653.74,156,Sitio_Web,0,95.4
-2418.96,22,Sitio_Web,0,157.0
-3288.73,152,Sitio_Web,0,213.0
-3546.63,106,Sitio_Web,0,223.0
-10603.78,36,App_Movil,1,471.8
-6237.08,51,App_Movil,0,311.8
-2999.15,25,Sitio_Web,1,153.1
-5815.51,40,App_Movil,1,282.6
-994.9,147,Sitio_Web,0,59.3
-3045.01,177,Sitio_Web,1,132.4
-831.45,68,Sitio_Web,0,43.1
-6682.64,124,App_Movil,0,359.0
-12928.83,106,Plataforma_SaaS,0,609.6
-3018.81,28,Sitio_Web,1,125.3
-9896.21,117,App_Movil,1,444.4
-5736.85,170,App_Movil,0,301.9
-3397.21,79,Sitio_Web,1,187.6
-5645.25,153,App_Movil,0,305.9
-2228.24,44,Sitio_Web,0,138.4
-3126.46,76,Sitio_Web,0,186.4
-19472.56,122,Plataforma_SaaS,1,779.8
-24772.63,85,Plataforma_SaaS,1,974.4
-11052.9,154,Plataforma_SaaS,0,520.1
-2919.42,15,Sitio_Web,0,186.1
-2750.98,38,Sitio_Web,0,167.2
-11235.89,138,App_Movil,0,602.8
-4407.26,56,App_Movil,0,242.9
-3205.75,88,Sitio_Web,1,165.3
-8114.42,11,App_Movil,0,458.1
-1678.93,154,Sitio_Web,0,102.4
-15539.83,93,Plataforma_SaaS,0,735.3
-1868.09,132,Sitio_Web,1,92.2
-8213.82,81,App_Movil,1,375.7
-3644.8,171,Sitio_Web,0,228.6
-8123.74,28,App_Movil,1,349.4
-8685.5,74,App_Movil,0,471.6
-2459.99,50,Sitio_Web,0,138.6
-7920.98,40,Plataforma_SaaS,0,374.5
-11191.45,83,Plataforma_SaaS,0,545.6
-15856.03,48,Plataforma_SaaS,0,768.6
-12584.24,143,Plataforma_SaaS,1,496.6
-4635.87,112,App_Movil,1,207.0
-16074.39,101,Plataforma_SaaS,1,637.6
-1832.99,141,Sitio_Web,0,138.9
-1625.94,74,Sitio_Web,0,100.3
-2284.75,153,Sitio_Web,1,105.8
-1226.51,165,Sitio_Web,0,86.8
-3768.79,134,Sitio_Web,0,239.7
-3576.65,169,Sitio_Web,0,232.5
-19737.17,91,Plataforma_SaaS,1,810.4
-1139.88,165,Sitio_Web,0,75.5
-3282.81,89,Sitio_Web,0,193.5
-10271.62,101,App_Movil,1,460.2
-3256.85,38,Sitio_Web,0,192.5
-9051.39,72,Plataforma_SaaS,0,430.4
-2860.51,122,Sitio_Web,0,184.0
-22017.85,144,Plataforma_SaaS,0,1056.9
-17392.36,136,Plataforma_SaaS,1,705.4
-2868.5,66,Sitio_Web,0,178.9
-2266.76,23,Sitio_Web,0,125.0
-16516.73,102,Plataforma_SaaS,1,643.5
-3309.39,150,App_Movil,1,136.6
-8750.67,22,App_Movil,1,389.5
-8466.05,52,Plataforma_SaaS,0,407.7
-2192.05,173,Sitio_Web,0,125.0
-1736.5,165,Sitio_Web,1,93.9
-2545.37,113,Sitio_Web,1,122.0
-9401.49,94,Plataforma_SaaS,0,453.8
-9224.79,135,App_Movil,0,499.3
-3344.04,145,Sitio_Web,0,218.0
-1322.73,125,Sitio_Web,1,56.4
-1133.8,91,Sitio_Web,0,90.1
-1265.65,10,Sitio_Web,0,70.0
-10894.15,77,App_Movil,0,574.9
-7753.7,160,App_Movil,1,346.7
-15410.7,117,Plataforma_SaaS,1,648.8
-3960.41,56,App_Movil,0,222.8
-2878.58,146,Sitio_Web,1,150.0
-10812.0,101,App_Movil,1,494.5
-21907.35,98,Plataforma_SaaS,0,1043.9
-8634.49,71,App_Movil,0,469.5
-8355.02,53,Plataforma_SaaS,0,401.1
-4011.57,112,App_Movil,1,198.6
-3443.78,136,App_Movil,0,184.9
-5317.31,112,App_Movil,1,235.5
-1234.12,30,Sitio_Web,1,50.1
-1632.15,10,Sitio_Web,0,99.3
-2032.19,114,Sitio_Web,1,104.5
-11486.85,25,App_Movil,0,608.3
-2753.2,160,Sitio_Web,0,169.7
-10514.76,46,App_Movil,1,475.5
-19786.33,56,Plataforma_SaaS,1,801.6
-1160.01,177,Sitio_Web,0,81.7
-9623.28,81,App_Movil,1,434.0
-11951.78,18,Plataforma_SaaS,1,467.7
-2845.15,33,Sitio_Web,0,162.4
-1891.08,119,Sitio_Web,1,112.2
-3992.55,55,Sitio_Web,0,241.2
-1643.36,150,Sitio_Web,0,116.1
-12024.35,136,Plataforma_SaaS,0,582.2
-23752.1,66,Plataforma_SaaS,1,957.6
-3221.8,36,App_Movil,1,154.4
-19540.4,90,Plataforma_SaaS,0,925.7
-20055.88,172,Plataforma_SaaS,0,965.8
-3476.41,34,Sitio_Web,1,161.5
-24539.91,31,Plataforma_SaaS,0,1175.1
-11780.42,102,App_Movil,1,536.5
-8174.98,131,Plataforma_SaaS,1,316.7
-21793.11,16,Plataforma_SaaS,0,1051.7
-2868.19,48,Sitio_Web,1,128.4
-2871.49,46,Sitio_Web,0,183.7
-1210.72,83,Sitio_Web,1,53.9
-8851.68,111,App_Movil,1,388.1
-24684.69,124,Plataforma_SaaS,1,973.0
-23412.73,48,Plataforma_SaaS,0,1118.0
-2205.22,53,Sitio_Web,1,91.2
-3359.53,171,App_Movil,0,175.9
-6260.64,28,App_Movil,0,349.1
-3444.45,113,Sitio_Web,0,204.8
-3044.8,33,Sitio_Web,0,170.9
-2269.9,47,Sitio_Web,0,138.5
-7991.83,86,Plataforma_SaaS,1,321.1
-2166.06,168,Sitio_Web,1,127.9
-7221.22,166,App_Movil,0,397.9
-11357.0,95,App_Movil,1,514.1
-2851.48,72,Sitio_Web,0,180.1
-12609.75,18,Plataforma_SaaS,1,503.0
-16455.73,174,Plataforma_SaaS,1,657.5
-1011.38,79,Sitio_Web,0,77.3
-11753.11,82,App_Movil,1,512.5
-1952.19,96,Sitio_Web,0,126.8
-2329.18,16,Sitio_Web,0,138.6
-1936.91,102,Sitio_Web,1,93.9
-9142.61,26,App_Movil,0,488.2
-8960.09,45,App_Movil,0,485.4
-3089.03,66,Sitio_Web,0,184.9
-1658.06,72,Sitio_Web,1,78.8
-12682.03,71,Plataforma_SaaS,0,601.7
-1200.8,130,Sitio_Web,0,53.0
-2897.63,170,Sitio_Web,1,137.6
-3358.17,158,App_Movil,1,146.0
-17758.28,161,Plataforma_SaaS,0,853.9
-3583.03,136,Sitio_Web,0,234.6
-11017.49,165,App_Movil,0,588.8
-15082.68,63,Plataforma_SaaS,0,713.7
-2269.77,84,Sitio_Web,0,129.0
-3692.72,35,App_Movil,1,167.7
-2946.45,21,Sitio_Web,1,153.2
-10391.33,18,App_Movil,1,474.9
-5201.9,107,App_Movil,0,289.2
-6791.71,162,App_Movil,1,315.3
-3484.29,90,Sitio_Web,0,206.3
-22788.17,131,Plataforma_SaaS,1,932.1
-1578.18,109,Sitio_Web,1,75.4
-2561.83,30,Sitio_Web,0,154.8
-1415.98,155,Sitio_Web,1,83.8
-3916.91,144,App_Movil,0,217.2
-11200.08,116,App_Movil,1,481.6
-3425.62,84,Sitio_Web,0,205.6
-9840.31,107,App_Movil,0,540.0
-956.05,152,Sitio_Web,1,34.4
-10593.56,148,App_Movil,0,579.6
-2201.74,168,Sitio_Web,1,114.0
-6081.56,134,App_Movil,0,340.2
-2548.72,64,Sitio_Web,1,120.5
-8644.36,82,Plataforma_SaaS,1,355.7
-3221.27,156,Sitio_Web,0,194.9
-2663.79,42,Sitio_Web,0,177.5
-1397.09,179,Sitio_Web,0,111.7
-10388.18,170,Plataforma_SaaS,0,514.0
-10316.48,28,Plataforma_SaaS,0,500.0
-982.41,133,Sitio_Web,1,72.3
-8290.19,86,App_Movil,1,379.1
-22126.27,106,Plataforma_SaaS,1,876.0
-3157.48,102,App_Movil,1,141.7
-3441.04,167,App_Movil,1,162.5
-2632.86,179,Sitio_Web,1,139.9
-3422.39,170,Sitio_Web,0,194.1
-12881.3,154,Plataforma_SaaS,1,504.3
-13293.06,24,Plataforma_SaaS,1,528.3
-8367.12,44,App_Movil,0,457.2
-1677.48,157,Sitio_Web,0,107.3
-885.15,115,Sitio_Web,0,54.5
-9617.06,129,App_Movil,0,511.0
-18261.7,150,Plataforma_SaaS,1,747.8
-17453.61,155,Plataforma_SaaS,0,827.1
-20350.31,110,Plataforma_SaaS,0,989.8
-9077.08,146,App_Movil,1,415.9
-1458.82,150,Sitio_Web,0,100.3
-1927.94,87,Sitio_Web,0,111.2
-9269.98,93,Plataforma_SaaS,0,443.5
-4168.71,148,App_Movil,1,188.1
-2963.83,67,Sitio_Web,1,143.4
-3547.52,52,Sitio_Web,0,215.1
-11664.59,38,App_Movil,1,540.7
-2810.71,21,Sitio_Web,0,155.7
-1389.12,50,Sitio_Web,1,62.9
-3950.85,151,App_Movil,1,170.1
-10315.66,175,App_Movil,1,463.3
-8208.81,60,App_Movil,0,441.9
-2778.51,50,Sitio_Web,1,146.6
-10033.16,104,App_Movil,1,451.8
-3050.49,11,Sitio_Web,0,186.1
-3470.27,115,Sitio_Web,1,177.5
-3505.93,33,App_Movil,0,191.8
-9727.69,122,App_Movil,1,444.8
-22315.35,93,Plataforma_SaaS,0,1069.9
-5575.22,110,App_Movil,1,267.3
-8764.03,129,App_Movil,0,498.7
-1805.32,85,Sitio_Web,0,115.4
-3865.51,49,Sitio_Web,0,234.2
-906.96,103,Sitio_Web,0,60.7
-2655.34,37,Sitio_Web,0,148.3
-9997.06,105,Plataforma_SaaS,0,481.7
-3079.1,23,Sitio_Web,0,177.4
-10166.03,89,Plataforma_SaaS,0,493.1
-5118.45,116,App_Movil,0,269.1
-15898.67,38,Plataforma_SaaS,1,632.5
-11233.51,174,App_Movil,0,587.9
-4905.43,147,App_Movil,1,209.0
-4298.16,41,App_Movil,1,197.0
-3228.73,139,Sitio_Web,1,152.7
-7505.58,35,App_Movil,0,415.9
-3717.71,76,Sitio_Web,1,176.3
-1269.17,159,Sitio_Web,0,80.7
-8813.35,101,App_Movil,0,468.3
-1545.21,28,Sitio_Web,0,96.6
-9821.69,179,Plataforma_SaaS,1,377.5
-19301.73,75,Plataforma_SaaS,0,922.0
-17686.32,95,Plataforma_SaaS,0,840.5
-3215.45,78,Sitio_Web,1,169.6
-1790.28,135,Sitio_Web,1,94.1
-15063.49,178,Plataforma_SaaS,0,710.7
-6649.25,93,App_Movil,0,357.0
-24713.61,102,Plataforma_SaaS,1,980.8
-12260.48,81,Plataforma_SaaS,0,598.0
-12306.71,173,Plataforma_SaaS,0,603.4
-1934.55,60,Sitio_Web,0,101.7
-2606.7,94,Sitio_Web,1,138.6
-11541.81,163,Plataforma_SaaS,1,453.4
-3728.93,60,Sitio_Web,1,183.9
-1650.19,22,Sitio_Web,1,82.8
-11062.34,105,App_Movil,0,615.5
-8862.55,26,Plataforma_SaaS,0,415.4
-8909.06,52,App_Movil,0,489.4
-11162.87,133,App_Movil,0,591.1
-1340.0,64,Sitio_Web,0,68.0
-11714.94,117,App_Movil,1,527.5
-15151.9,135,Plataforma_SaaS,1,606.3
-3826.29,87,Sitio_Web,1,163.0
-9091.38,163,App_Movil,0,502.5
-12428.56,90,Plataforma_SaaS,1,475.8
-4694.72,76,App_Movil,1,209.8
-5733.62,14,App_Movil,0,322.9
-3837.16,35,App_Movil,1,194.8
-1260.38,118,Sitio_Web,0,72.0
-1134.91,167,Sitio_Web,0,53.8
-14612.98,137,Plataforma_SaaS,0,714.3
-21320.41,169,Plataforma_SaaS,0,1032.0
-9544.9,114,Plataforma_SaaS,0,453.3
-9345.77,115,Plataforma_SaaS,1,367.7
-8790.86,26,App_Movil,1,388.4
-4774.65,79,App_Movil,1,211.4
-8756.98,173,Plataforma_SaaS,1,353.4
-4501.64,10,App_Movil,0,237.4
-11313.58,25,App_Movil,1,504.7
-21786.48,108,Plataforma_SaaS,0,1052.2
-13373.16,179,Plataforma_SaaS,0,627.1
-2898.63,177,Sitio_Web,0,170.2
-2519.28,147,Sitio_Web,0,134.4
-2966.8,147,Sitio_Web,0,179.1
-9144.04,92,App_Movil,0,474.4
-2811.95,58,Sitio_Web,0,177.6
-5394.91,117,App_Movil,1,229.6
-3351.06,115,App_Movil,0,163.2
-2257.81,92,Sitio_Web,0,131.8
-11018.76,49,App_Movil,0,612.1
-2622.39,48,Sitio_Web,1,138.2
-3463.65,96,Sitio_Web,0,188.6
-24849.24,121,Plataforma_SaaS,0,1179.3
-1323.57,32,Sitio_Web,0,75.5
-3013.69,157,Sitio_Web,0,203.2
-9068.64,49,App_Movil,0,480.3
-24639.2,83,Plataforma_SaaS,0,1173.4
-3953.92,162,Sitio_Web,0,252.5
-9180.11,143,App_Movil,0,497.7
-1579.57,26,Sitio_Web,0,105.3
-3355.38,45,Sitio_Web,1,160.5
-3963.26,18,App_Movil,0,213.0
-10026.29,17,App_Movil,0,554.6
-11191.77,160,App_Movil,0,602.9
-6445.5,48,App_Movil,1,301.3
-18351.44,161,Plataforma_SaaS,0,884.7
-6871.28,17,App_Movil,0,360.7
-2200.85,44,Sitio_Web,1,109.9
-12586.68,104,Plataforma_SaaS,0,614.0
-3238.81,177,Sitio_Web,0,201.0
-11425.59,25,App_Movil,0,616.6
-3810.4,140,Sitio_Web,1,171.6
-1359.3,180,Sitio_Web,0,63.6
-22745.39,122,Plataforma_SaaS,1,894.0
-20273.77,119,Plataforma_SaaS,1,805.8
-5275.54,176,App_Movil,0,281.1
-3605.56,71,App_Movil,0,179.9
-1657.59,105,Sitio_Web,0,109.7
-3719.07,78,Sitio_Web,0,210.5
-2826.17,58,Sitio_Web,0,155.9
-9489.49,124,App_Movil,1,427.9
-5314.37,126,App_Movil,1,248.9
-9474.49,13,App_Movil,1,446.9
-889.99,17,Sitio_Web,0,59.2
-13755.78,109,Plataforma_SaaS,1,566.0
-8640.78,67,App_Movil,1,376.7
-4314.87,74,App_Movil,1,215.8
-10407.03,159,App_Movil,0,543.4
-5115.28,146,App_Movil,1,225.1
-2887.3,160,Sitio_Web,0,178.8
-2096.63,108,Sitio_Web,0,109.7
-17728.78,116,Plataforma_SaaS,0,841.7
-1143.84,146,Sitio_Web,1,46.3
-854.12,177,Sitio_Web,1,39.6
-3710.61,57,Sitio_Web,0,236.9
-1662.82,123,Sitio_Web,0,99.9
-21754.19,171,Plataforma_SaaS,0,1039.6
-11994.15,52,App_Movil,0,618.8
-4902.88,59,App_Movil,0,269.4
-1648.55,94,Sitio_Web,0,106.8
-8965.74,127,App_Movil,1,386.5
-11689.04,19,App_Movil,0,630.5
-3730.61,95,Sitio_Web,0,225.8
-7525.88,131,App_Movil,0,416.0
-3344.35,124,Sitio_Web,1,160.0
-4221.71,60,App_Movil,1,181.2
-11796.94,122,App_Movil,1,526.3
-3885.93,124,Sitio_Web,0,246.0
-1323.93,10,Sitio_Web,0,89.9
-5694.81,81,App_Movil,0,307.3
-3901.39,55,App_Movil,1,185.8
-11890.92,13,Plataforma_SaaS,1,451.9
-10343.6,116,App_Movil,1,473.4
-2010.61,128,Sitio_Web,1,89.3
-1082.87,17,Sitio_Web,1,71.8
-6080.03,98,App_Movil,0,317.7
-3940.43,179,Sitio_Web,1,188.5
-8667.15,29,App_Movil,0,473.7
-14490.9,34,Plataforma_SaaS,0,702.2
-4498.85,117,App_Movil,0,238.5
-3955.77,63,Sitio_Web,0,241.1
-10387.64,32,App_Movil,0,565.9
-5533.3,159,App_Movil,0,302.7
-3630.62,60,App_Movil,0,192.0
-8019.26,35,Plataforma_SaaS,0,390.0
-1185.21,103,Sitio_Web,0,85.2
-17453.83,170,Plataforma_SaaS,0,825.5
-23717.74,20,Plataforma_SaaS,0,1130.1
-2389.58,84,Sitio_Web,0,143.6
-3497.43,41,Sitio_Web,1,164.3
-2226.84,36,Sitio_Web,1,93.3
-3067.47,98,Sitio_Web,1,164.3
-3141.99,23,Sitio_Web,1,134.8
-4565.67,164,App_Movil,0,242.5
-1955.89,99,Sitio_Web,1,105.4
-2839.37,179,Sitio_Web,0,173.0
-8272.54,85,Plataforma_SaaS,0,393.2
-1956.93,116,Sitio_Web,1,86.9
-16626.39,108,Plataforma_SaaS,0,801.5
-3987.92,112,Sitio_Web,1,189.5
-2318.51,53,Sitio_Web,1,118.6
-10344.51,70,App_Movil,1,466.9
-6888.61,172,App_Movil,1,311.5
-21335.03,70,Plataforma_SaaS,0,1017.7
-8358.73,93,App_Movil,0,471.7
-22958.72,13,Plataforma_SaaS,0,1105.6
-2115.02,28,Sitio_Web,0,124.1
-2733.77,87,Sitio_Web,1,139.3
-18340.34,175,Plataforma_SaaS,1,725.9
-14512.89,80,Plataforma_SaaS,1,576.7
-9597.62,144,Plataforma_SaaS,0,484.6
-3842.03,141,App_Movil,0,199.8
-853.35,131,Sitio_Web,0,50.4
-22723.62,56,Plataforma_SaaS,0,1086.2
-1556.72,58,Sitio_Web,1,67.4
-10807.12,167,Plataforma_SaaS,0,523.0
-20248.64,7,Plataforma_SaaS,0,972.3
-5880.15,168,App_Movil,0,326.6
-16108.8,10,Plataforma_SaaS,1,652.5
-9925.2,151,Plataforma_SaaS,1,406.0
-3871.19,138,Sitio_Web,0,223.1
-22328.47,177,Plataforma_SaaS,0,1078.2
-10774.11,10,App_Movil,0,588.5
-14321.93,7,Plataforma_SaaS,0,677.2
-3239.56,77,Sitio_Web,1,158.8
-9589.77,41,Plataforma_SaaS,1,369.0
-827.58,14,Sitio_Web,0,56.4
-863.91,158,Sitio_Web,0,58.5
-17558.83,42,Plataforma_SaaS,1,716.7
-2257.26,129,Sitio_Web,0,133.1
-2457.65,49,Sitio_Web,1,127.4
-7134.34,33,Plataforma_SaaS,0,352.3
-14608.36,38,Plataforma_SaaS,0,693.7
-9462.61,84,App_Movil,0,501.9
-6984.24,127,App_Movil,0,369.9
-9589.97,152,App_Movil,1,428.1
-1545.66,162,Sitio_Web,0,84.0
-3402.05,163,Sitio_Web,0,197.3
-8295.88,22,App_Movil,0,456.8
-10793.74,105,Plataforma_SaaS,0,517.1
-11260.97,53,Plataforma_SaaS,0,543.6
-18304.55,37,Plataforma_SaaS,0,873.1
-3455.81,10,Sitio_Web,1,166.6
-6740.65,171,App_Movil,0,366.9
-1626.56,23,Sitio_Web,0,98.9
-10803.1,45,App_Movil,1,493.9
-9023.41,54,App_Movil,0,500.3
-15065.54,180,Plataforma_SaaS,1,595.7
-2361.28,45,Sitio_Web,0,150.3
-1453.62,138,Sitio_Web,1,61.9
-2805.77,36,Sitio_Web,1,161.0
-13457.37,164,Plataforma_SaaS,1,530.4
-11960.81,28,App_Movil,1,545.1
-2336.59,72,Sitio_Web,0,129.3
-2354.83,114,Sitio_Web,1,116.2
-8092.67,18,App_Movil,0,452.5
-3733.62,42,Sitio_Web,0,215.8
-21414.73,24,Plataforma_SaaS,0,1049.9
-7060.17,96,App_Movil,0,381.2
-3099.84,7,Sitio_Web,0,195.7
-2675.95,133,Sitio_Web,0,164.6
-15862.61,96,Plataforma_SaaS,0,766.0
-1415.41,93,Sitio_Web,1,56.5
-2284.6,96,Sitio_Web,1,109.5
-11424.73,140,Plataforma_SaaS,0,560.3
-23467.16,76,Plataforma_SaaS,0,1123.0
-13037.32,50,Plataforma_SaaS,0,627.2
-24140.75,158,Plataforma_SaaS,0,1143.3
-2505.78,92,Sitio_Web,0,145.0
-2820.94,25,Sitio_Web,0,180.5
-16772.93,107,Plataforma_SaaS,0,792.3
-4164.43,152,App_Movil,1,194.6
-6382.39,101,App_Movil,0,346.4
-8784.63,107,Plataforma_SaaS,0,419.3
-2793.45,36,Sitio_Web,0,164.8
-7021.87,176,App_Movil,0,374.3
-3289.55,39,Sitio_Web,0,193.4
-4984.23,18,App_Movil,1,233.6
-1326.61,124,Sitio_Web,0,75.3
-2100.26,100,Sitio_Web,0,144.1
-3765.07,161,Sitio_Web,1,191.2
-9393.8,173,App_Movil,1,417.0
-6770.31,143,App_Movil,1,314.4
-7655.45,155,App_Movil,0,419.6
-8515.83,82,Plataforma_SaaS,1,324.1
-3950.64,35,Sitio_Web,0,226.7
-2932.5,167,Sitio_Web,0,174.8
-12137.27,123,Plataforma_SaaS,0,566.8
-2674.59,21,Sitio_Web,0,181.4
-8970.68,8,Plataforma_SaaS,0,438.8
-3890.68,123,Sitio_Web,0,233.3
-10146.13,178,Plataforma_SaaS,1,402.4
-2873.7,24,Sitio_Web,1,137.7
-11418.18,9,Plataforma_SaaS,1,437.1
-9458.05,141,App_Movil,0,493.4
-20982.78,177,Plataforma_SaaS,1,858.3
-2954.94,172,Sitio_Web,0,193.0
-8530.5,171,App_Movil,1,378.1
-23064.44,167,Plataforma_SaaS,0,1116.2
-3707.64,114,App_Movil,1,171.9
-5978.23,101,App_Movil,0,329.1
-5234.59,128,App_Movil,1,221.3
-11892.13,17,App_Movil,1,517.1
-6504.51,74,App_Movil,0,363.1
-9593.51,129,App_Movil,0,498.3
-19325.05,119,Plataforma_SaaS,1,771.5
-1478.66,104,Sitio_Web,0,85.0
-1564.79,99,Sitio_Web,1,73.6
-12063.12,28,Plataforma_SaaS,0,582.2
-14400.29,178,Plataforma_SaaS,0,684.4
-5108.93,133,App_Movil,0,279.8
-3176.86,140,App_Movil,0,173.0
-3614.06,176,Sitio_Web,1,201.7
-3889.95,31,Sitio_Web,0,219.5
-6074.13,91,App_Movil,0,328.3
-1883.22,61,Sitio_Web,0,117.3
-3063.83,150,App_Movil,0,162.9
-2976.8,101,Sitio_Web,1,135.5
-21857.92,148,Plataforma_SaaS,1,886.9
-9638.95,173,Plataforma_SaaS,0,466.0
-4437.0,162,App_Movil,1,187.0
-10110.75,125,App_Movil,1,459.4
-2772.13,15,Sitio_Web,0,183.3
-7807.49,179,Plataforma_SaaS,1,311.9
-8602.92,156,App_Movil,0,464.5
-1788.54,166,Sitio_Web,0,123.0
-13637.05,48,Plataforma_SaaS,1,535.8
-20855.17,59,Plataforma_SaaS,0,1018.3
-21596.83,80,Plataforma_SaaS,1,873.6
-6603.21,45,App_Movil,1,287.9
-11524.38,128,App_Movil,0,615.6
-6658.16,21,App_Movil,1,294.4
-20893.05,163,Plataforma_SaaS,0,984.5
-15709.79,129,Plataforma_SaaS,0,756.7
-3672.1,117,Sitio_Web,1,174.8
-3704.84,137,Sitio_Web,1,188.2
-1079.73,89,Sitio_Web,0,51.9
-23856.88,16,Plataforma_SaaS,0,1154.4
-21859.63,98,Plataforma_SaaS,1,881.8
-3332.19,35,Sitio_Web,1,159.6
-4808.2,41,App_Movil,1,220.0
-3376.38,12,Sitio_Web,0,203.4
-22302.39,146,Plataforma_SaaS,0,1085.3
-12204.71,117,Plataforma_SaaS,0,575.5
-24140.68,44,Plataforma_SaaS,1,964.1
-3448.74,83,App_Movil,0,179.8
-4349.18,99,App_Movil,0,235.3
-2520.26,153,Sitio_Web,1,131.3
-2642.54,73,Sitio_Web,0,152.0
-18612.7,142,Plataforma_SaaS,1,740.9
-7305.44,14,Plataforma_SaaS,1,301.9
-24286.6,128,Plataforma_SaaS,1,985.0
-7802.59,90,Plataforma_SaaS,0,379.5
-4287.56,138,App_Movil,0,230.1
-7252.26,91,Plataforma_SaaS,1,287.8
-17203.45,51,Plataforma_SaaS,1,693.6
-23780.8,142,Plataforma_SaaS,1,953.5
-2931.03,93,Sitio_Web,0,159.4
-10403.92,22,App_Movil,1,473.9
-842.5,83,Sitio_Web,1,33.5
-16756.28,15,Plataforma_SaaS,1,656.1
-7136.07,66,App_Movil,1,304.4
-2396.7,84,Sitio_Web,1,117.7
-3649.92,83,App_Movil,1,154.1
-9159.92,77,App_Movil,0,471.4
-2410.31,21,Sitio_Web,0,141.0
-3248.48,77,Sitio_Web,0,190.0
-7367.62,108,App_Movil,0,396.4
-4344.43,175,App_Movil,0,228.3
-18668.63,28,Plataforma_SaaS,0,914.4
-4551.48,158,App_Movil,0,251.0
-22703.1,119,Plataforma_SaaS,0,1084.8
-8518.05,178,App_Movil,1,382.7
-4414.83,7,App_Movil,1,212.8
-24322.09,16,Plataforma_SaaS,0,1177.0
-7665.29,116,App_Movil,1,331.0
-1033.28,119,Sitio_Web,0,52.3
-2805.87,56,Sitio_Web,0,160.5
-11557.58,18,Plataforma_SaaS,0,550.4
-10233.24,95,App_Movil,0,546.6
-10360.4,160,App_Movil,1,466.6
-3932.63,118,Sitio_Web,1,204.0
-2405.98,84,Sitio_Web,0,153.4
-2255.86,175,Sitio_Web,0,132.1
-3211.12,170,Sitio_Web,0,176.3
-4192.24,127,App_Movil,0,216.0
-2550.13,29,Sitio_Web,0,147.8
-7916.23,177,App_Movil,0,415.0
-8610.52,140,Plataforma_SaaS,1,355.8
-2137.55,177,Sitio_Web,1,95.1
-10679.56,31,App_Movil,0,582.9
-22410.77,24,Plataforma_SaaS,1,879.6
-1117.56,147,Sitio_Web,0,73.6
-3816.49,49,App_Movil,0,204.7
-11728.52,84,Plataforma_SaaS,0,578.1
-22745.79,34,Plataforma_SaaS,1,898.5
-1212.49,152,Sitio_Web,1,55.0
-19959.94,65,Plataforma_SaaS,1,794.7
-3910.49,69,App_Movil,0,209.6
-2794.04,98,Sitio_Web,1,136.2
-6204.61,62,App_Movil,0,331.8
-21200.45,161,Plataforma_SaaS,1,844.6
-5103.21,166,App_Movil,0,254.9
-2845.45,117,Sitio_Web,0,180.7
-5121.14,143,App_Movil,0,305.2
-3083.71,74,Sitio_Web,1,157.2
-3595.77,52,Sitio_Web,0,204.4
-1205.77,73,Sitio_Web,1,49.9
-3573.11,160,Sitio_Web,0,220.5
-2699.44,142,Sitio_Web,1,138.8
-1206.75,12,Sitio_Web,1,57.5
-6847.88,30,App_Movil,1,315.7
-1314.75,100,Sitio_Web,0,58.2
-3041.11,179,Sitio_Web,0,190.0
-20659.63,19,Plataforma_SaaS,0,994.0
-3952.17,31,App_Movil,1,167.9
-7555.26,154,App_Movil,0,393.7
-3406.8,124,Sitio_Web,0,205.6
-3795.72,88,Sitio_Web,0,241.8
-2443.26,117,Sitio_Web,0,144.3
-3840.89,88,Sitio_Web,1,183.5
-2514.2,72,Sitio_Web,0,152.8
-2061.41,51,Sitio_Web,1,121.3
-3514.25,120,Sitio_Web,0,215.2
-2377.54,69,Sitio_Web,0,148.0
-7247.12,82,App_Movil,0,403.6
-2369.0,120,Sitio_Web,0,146.9
-3509.71,117,Sitio_Web,0,202.8
-10487.47,153,App_Movil,1,454.5
-6631.68,41,App_Movil,0,348.9
-1866.56,59,Sitio_Web,1,82.3
-15854.7,32,Plataforma_SaaS,0,767.6
-8154.95,20,App_Movil,0,448.4
-1562.68,124,Sitio_Web,1,79.9
-21291.19,51,Plataforma_SaaS,0,1009.3
-15756.69,178,Plataforma_SaaS,0,774.2
-1868.95,57,Sitio_Web,0,108.0
-1141.83,177,Sitio_Web,0,74.5
-11299.21,125,Plataforma_SaaS,1,452.5
-11543.53,157,App_Movil,0,625.4
-1776.32,25,Sitio_Web,1,94.5
-1340.35,88,Sitio_Web,1,60.1
-2274.15,82,Sitio_Web,0,149.5
-5763.79,98,App_Movil,1,243.6
-3316.43,39,App_Movil,0,168.7
-1834.06,153,Sitio_Web,1,104.6
-7896.98,34,App_Movil,0,432.3
-7965.41,129,App_Movil,1,383.8
-1940.99,132,Sitio_Web,0,117.1
-2231.37,43,Sitio_Web,0,150.9
-11689.66,160,App_Movil,1,507.5
-13792.27,105,Plataforma_SaaS,1,537.6
-5324.04,104,App_Movil,0,296.5
-5191.2,133,App_Movil,0,262.9
-2264.85,174,Sitio_Web,1,111.3
-9835.68,86,App_Movil,1,454.3
-4853.89,44,App_Movil,1,223.4
-3069.75,83,Sitio_Web,1,153.6
-867.68,132,Sitio_Web,1,38.9
-2140.59,93,Sitio_Web,1,109.1
-3282.77,60,Sitio_Web,0,202.7
-1883.95,156,Sitio_Web,0,106.4
-2603.96,22,Sitio_Web,1,133.9
-1455.93,34,Sitio_Web,1,83.6
-3174.39,169,Sitio_Web,0,188.2
-7941.02,179,Plataforma_SaaS,0,381.9
-10672.88,52,App_Movil,1,485.1
-4783.77,78,App_Movil,0,263.8
-22739.16,91,Plataforma_SaaS,0,1100.3
-6172.76,32,App_Movil,0,323.2
-3112.59,91,Sitio_Web,0,181.5
-5873.03,159,App_Movil,0,312.2
-11153.21,71,App_Movil,0,593.2
-4139.73,140,App_Movil,0,205.6
-4606.68,157,App_Movil,1,174.8
-2377.7,121,Sitio_Web,0,154.6
-1062.2,70,Sitio_Web,1,37.6
-1427.14,93,Sitio_Web,1,87.0
-11493.9,177,App_Movil,0,628.1
-11788.41,113,App_Movil,1,526.4
-2004.03,157,Sitio_Web,0,126.4
-23619.15,102,Plataforma_SaaS,1,949.0
-7903.42,164,App_Movil,0,415.8
-1663.18,83,Sitio_Web,1,83.0
-3047.68,152,Sitio_Web,1,142.6
-2908.49,93,Sitio_Web,0,181.1
-3965.2,155,Sitio_Web,0,230.8
-1648.15,63,Sitio_Web,1,81.4
-2950.59,109,Sitio_Web,1,146.1
-966.48,157,Sitio_Web,0,59.2
-1163.67,97,Sitio_Web,1,74.8
-7070.53,51,Plataforma_SaaS,0,337.0
-3998.27,178,Sitio_Web,1,212.1
-10220.46,94,App_Movil,0,556.7
-10080.51,121,App_Movil,1,467.8
-16175.07,53,Plataforma_SaaS,0,773.0
-1760.21,174,Sitio_Web,0,112.6
-1284.05,176,Sitio_Web,0,76.5
-12124.15,141,Plataforma_SaaS,0,552.1
-13767.48,56,Plataforma_SaaS,0,649.9
-20613.58,90,Plataforma_SaaS,0,995.3
-2526.92,97,Sitio_Web,1,131.5
-1047.95,140,Sitio_Web,0,49.9
-3162.26,97,App_Movil,0,173.0
-8841.98,143,Plataforma_SaaS,0,429.4
-6694.49,115,App_Movil,0,361.2
-11398.74,63,App_Movil,0,622.8
-2839.69,37,Sitio_Web,0,176.3
-21432.87,27,Plataforma_SaaS,0,1028.4
-2292.4,96,Sitio_Web,0,132.4
-1957.33,46,Sitio_Web,0,127.9
-3975.6,118,App_Movil,0,219.3
-10883.4,51,App_Movil,0,573.9
-3306.11,83,Sitio_Web,0,200.6
-1337.98,93,Sitio_Web,1,55.4
-7610.35,154,App_Movil,0,401.3
-2359.6,107,Sitio_Web,1,111.5
-8625.82,123,App_Movil,0,466.2
-3827.8,98,Sitio_Web,1,195.1
-8217.94,151,App_Movil,1,365.7
-7861.96,34,App_Movil,0,420.9
-961.03,175,Sitio_Web,1,43.0
-1001.3,31,Sitio_Web,0,70.6
-1399.51,64,Sitio_Web,0,55.4
-903.91,47,Sitio_Web,1,42.1
-20380.35,140,Plataforma_SaaS,1,830.7
-3114.66,81,Sitio_Web,0,192.1
-9449.01,44,Plataforma_SaaS,0,466.2
-3475.45,140,Sitio_Web,0,188.2
-4393.07,179,App_Movil,0,224.8
-12421.16,81,Plataforma_SaaS,1,502.0
-5240.79,148,App_Movil,0,298.5
-6350.76,72,App_Movil,0,331.5
-5291.97,174,App_Movil,0,281.9
-2364.64,9,Sitio_Web,0,145.9
-14333.34,123,Plataforma_SaaS,0,673.5
-24758.25,105,Plataforma_SaaS,1,995.5
-8006.67,158,Plataforma_SaaS,1,293.5
-1254.98,25,Sitio_Web,1,67.7
-3475.43,152,App_Movil,0,177.7
-18265.14,122,Plataforma_SaaS,1,726.1
-974.43,131,Sitio_Web,1,55.2
-3476.61,94,Sitio_Web,1,178.3
-7607.45,41,App_Movil,0,410.7
-7743.07,7,App_Movil,0,427.8
-17108.7,159,Plataforma_SaaS,0,804.2
-1346.6,179,Sitio_Web,0,82.8
-10558.43,132,Plataforma_SaaS,0,498.9
-1820.22,95,Sitio_Web,0,118.4
-2699.19,150,Sitio_Web,0,168.8
-1472.38,153,Sitio_Web,1,80.9
-9093.97,157,Plataforma_SaaS,0,453.0
-11731.05,31,App_Movil,0,644.7
-3197.84,22,App_Movil,1,142.3
-3368.63,79,Sitio_Web,1,168.4
-21184.63,135,Plataforma_SaaS,1,853.4
-1751.09,48,Sitio_Web,1,88.9
-9441.28,153,Plataforma_SaaS,0,460.2
-4310.66,168,App_Movil,1,171.7
-3031.78,86,Sitio_Web,0,200.7
-8785.26,110,App_Movil,0,475.0
-3304.79,152,Sitio_Web,0,182.1
-11437.33,40,App_Movil,0,608.5
-9227.35,95,App_Movil,0,477.0
-1298.72,131,Sitio_Web,1,54.0
-11381.97,51,Plataforma_SaaS,1,453.9
-3495.02,140,Sitio_Web,0,224.8
-4883.75,27,App_Movil,0,267.8
-8305.4,128,Plataforma_SaaS,1,334.5
-9329.52,76,App_Movil,1,408.5
-2088.08,102,Sitio_Web,0,117.0
-23560.72,111,Plataforma_SaaS,1,935.0
-8852.3,54,App_Movil,0,471.0
-1089.34,45,Sitio_Web,0,61.8
-3833.14,37,Sitio_Web,1,188.9
-11654.03,16,Plataforma_SaaS,0,556.0
-6034.91,36,App_Movil,0,319.2
-6620.34,24,App_Movil,1,299.3
-7922.04,94,Plataforma_SaaS,1,313.7
-15937.28,131,Plataforma_SaaS,0,749.0
-1194.62,79,Sitio_Web,0,72.0
-2083.11,21,Sitio_Web,0,123.8
-1922.27,10,Sitio_Web,1,80.3
-9955.56,174,App_Movil,0,531.7
-3370.15,15,Sitio_Web,0,208.2
-4380.72,115,App_Movil,1,185.8
-13597.92,143,Plataforma_SaaS,0,640.3
-13720.36,160,Plataforma_SaaS,0,655.3
-1284.51,138,Sitio_Web,0,83.3
-21372.16,22,Plataforma_SaaS,1,873.0
-3063.13,149,Sitio_Web,0,190.4
-10426.87,105,Plataforma_SaaS,0,511.3
-1973.51,127,Sitio_Web,1,102.1
-1138.58,58,Sitio_Web,0,61.5
-18307.72,75,Plataforma_SaaS,0,885.3
-1188.39,11,Sitio_Web,0,70.4
-3954.99,26,Sitio_Web,0,241.1
-10026.14,85,App_Movil,0,532.0
-6512.15,152,App_Movil,0,356.3
-8207.08,117,App_Movil,0,442.0
-11202.08,8,App_Movil,0,607.2
-7986.89,99,App_Movil,1,358.6
-1358.4,19,Sitio_Web,1,65.1
-2011.85,10,Sitio_Web,1,105.4
-3498.06,176,Sitio_Web,1,170.8
-18595.83,115,Plataforma_SaaS,0,876.7
-8856.52,80,App_Movil,1,379.8
-10801.39,101,App_Movil,0,585.1
-11045.76,111,App_Movil,1,492.6
-23556.27,14,Plataforma_SaaS,1,925.0
-1103.52,73,Sitio_Web,1,56.2
-7897.13,116,App_Movil,1,354.4
-9664.59,15,App_Movil,0,516.9
-9812.34,123,App_Movil,0,532.3
-2741.49,17,Sitio_Web,0,177.6
-10002.17,105,Plataforma_SaaS,0,493.0
-21353.57,48,Plataforma_SaaS,0,1026.4
-9481.0,147,App_Movil,1,425.8
-3775.22,170,App_Movil,1,171.5
-15348.58,126,Plataforma_SaaS,0,739.8
-4565.8,147,App_Movil,1,202.8
-1879.93,18,Sitio_Web,1,95.7
-3162.73,43,App_Movil,1,126.6
-6602.97,80,App_Movil,1,297.9
-7948.89,79,App_Movil,0,434.0
-8576.24,58,App_Movil,1,381.0
-18942.83,136,Plataforma_SaaS,1,756.8
-22053.24,62,Plataforma_SaaS,0,1047.4
-4939.17,66,App_Movil,0,254.2
-1185.54,29,Sitio_Web,1,61.4
-22327.67,109,Plataforma_SaaS,0,1064.4
-9819.03,46,Plataforma_SaaS,1,375.0
-3919.23,70,Sitio_Web,1,184.8
-22165.69,91,Plataforma_SaaS,0,1054.3
-16015.78,157,Plataforma_SaaS,0,776.5
-11832.79,163,App_Movil,1,534.3
-3876.39,95,App_Movil,0,200.6
-1769.81,37,Sitio_Web,0,100.3
-2842.32,26,Sitio_Web,0,183.7
-1920.02,136,Sitio_Web,0,124.6
-23710.71,159,Plataforma_SaaS,1,937.2
-1010.0,19,Sitio_Web,0,72.2
-2558.12,128,Sitio_Web,1,127.1
-2690.77,109,Sitio_Web,0,169.4
-8874.55,112,App_Movil,0,477.6
-11601.99,125,Plataforma_SaaS,1,475.9
-1966.61,76,Sitio_Web,1,86.7
-3499.78,105,Sitio_Web,0,207.4
-4754.48,88,App_Movil,0,268.9
-10441.81,81,App_Movil,0,539.9
-2600.5,124,Sitio_Web,0,155.6
-9859.69,90,App_Movil,1,439.8
-3083.54,75,Sitio_Web,0,191.9
-1464.04,65,Sitio_Web,0,98.5
-8119.31,132,App_Movil,0,445.7
-10809.51,117,App_Movil,1,488.8
-14778.09,68,Plataforma_SaaS,1,591.5
-3893.09,150,Sitio_Web,0,230.2
-7069.94,134,App_Movil,1,320.2
-4285.07,111,App_Movil,0,246.0
-2046.19,74,Sitio_Web,0,114.5
-11565.32,21,App_Movil,1,516.4
-1823.11,41,Sitio_Web,1,90.4
-22625.77,20,Plataforma_SaaS,1,915.0
-3620.0,108,Sitio_Web,0,219.4
-6151.68,106,App_Movil,0,342.0
-1066.42,13,Sitio_Web,1,63.7
-20042.04,36,Plataforma_SaaS,0,967.9
-5803.61,55,App_Movil,0,302.8
-10046.31,150,App_Movil,0,559.1
-2216.5,117,Sitio_Web,1,124.9
-7367.4,78,App_Movil,0,398.5
-3289.31,86,Sitio_Web,0,183.5
-13882.54,89,Plataforma_SaaS,1,539.7
-2218.01,48,Sitio_Web,0,135.6
-2003.81,23,Sitio_Web,0,113.2
-1975.49,179,Sitio_Web,0,101.4
-7733.52,13,App_Movil,0,401.8
-10279.2,161,App_Movil,0,550.4
-1957.66,16,Sitio_Web,0,119.4
-16436.58,40,Plataforma_SaaS,1,671.5
-9036.55,42,App_Movil,0,492.8
-5424.96,159,App_Movil,1,240.3
-5497.71,12,App_Movil,0,300.7
-11400.72,158,App_Movil,0,618.5
-9511.81,152,App_Movil,0,521.0
-2647.0,140,Sitio_Web,0,158.4
-2872.7,35,Sitio_Web,1,154.0
-7527.39,132,Plataforma_SaaS,0,369.6
-18125.85,159,Plataforma_SaaS,0,870.9
-2430.43,87,Sitio_Web,1,120.3
-2546.4,180,Sitio_Web,1,136.5
-6234.81,158,App_Movil,1,273.4
-3733.27,81,App_Movil,0,186.5
-1418.69,32,Sitio_Web,1,55.8
-3842.38,133,Sitio_Web,0,222.6
-6678.3,121,App_Movil,0,367.2
-7200.15,132,App_Movil,0,384.6
-968.67,34,Sitio_Web,0,60.2
-920.21,137,Sitio_Web,0,50.3
-3094.98,81,Sitio_Web,0,180.8
-7842.85,172,App_Movil,1,342.7
-2427.86,84,Sitio_Web,0,144.8
-1578.0,96,Sitio_Web,0,92.9
-20405.51,27,Plataforma_SaaS,0,983.6
-1338.36,60,Sitio_Web,1,69.8
-4709.41,109,App_Movil,0,252.3
-2274.28,65,Sitio_Web,0,121.4
-1716.1,78,Sitio_Web,1,96.5
-1591.88,26,Sitio_Web,1,78.7
-8807.14,118,App_Movil,0,476.4
-18717.49,65,Plataforma_SaaS,1,764.7
-21841.31,77,Plataforma_SaaS,1,882.7
-2136.67,143,Sitio_Web,1,111.3
-3657.77,115,App_Movil,0,197.5
-1675.73,135,Sitio_Web,1,83.7
-3936.02,163,Sitio_Web,0,238.6
-17732.65,62,Plataforma_SaaS,0,855.2
-3071.16,41,Sitio_Web,0,201.4
-823.55,129,Sitio_Web,0,74.1
-2458.26,137,Sitio_Web,0,150.4
-920.09,110,Sitio_Web,1,24.5
-2621.54,13,Sitio_Web,0,147.8
-11286.94,33,App_Movil,0,627.6
-11715.77,7,App_Movil,0,639.8
-16729.95,178,Plataforma_SaaS,0,807.3
-15247.69,93,Plataforma_SaaS,1,608.2
-3824.05,47,Sitio_Web,0,217.6
-2955.55,129,Sitio_Web,0,194.1
-1007.68,81,Sitio_Web,0,52.2
-7191.53,48,App_Movil,0,395.6
-1568.78,123,Sitio_Web,0,81.1
-7228.24,167,App_Movil,1,323.1
-7099.19,69,App_Movil,1,329.4
-8239.3,171,App_Movil,0,442.4
-6210.93,133,App_Movil,1,275.8
-1325.67,139,Sitio_Web,1,66.4
-16066.95,54,Plataforma_SaaS,1,629.3
-21943.65,9,Plataforma_SaaS,0,1038.1
-2924.84,122,Sitio_Web,0,182.6
-13090.62,105,Plataforma_SaaS,0,624.1
-11419.71,122,App_Movil,1,521.0
-23419.74,20,Plataforma_SaaS,1,948.0
-10768.27,118,Plataforma_SaaS,0,528.9
-3354.76,67,App_Movil,0,164.9
-3172.19,165,Sitio_Web,1,151.6
-3448.35,101,Sitio_Web,1,177.8
-11710.78,23,App_Movil,1,532.5
-11008.53,130,App_Movil,1,517.9
-2721.71,30,Sitio_Web,0,154.2
-2496.17,122,Sitio_Web,0,161.5
-7501.14,157,Plataforma_SaaS,1,303.8
-11439.82,88,Plataforma_SaaS,0,532.7
-7136.53,56,App_Movil,0,379.9
-2811.21,85,Sitio_Web,1,143.2
-2583.21,85,Sitio_Web,0,137.9
-3176.44,76,Sitio_Web,1,138.1
-12035.8,33,Plataforma_SaaS,0,560.1
-2607.85,21,Sitio_Web,1,133.0
-3793.28,56,App_Movil,0,200.0
-2123.73,42,Sitio_Web,0,121.2
-9751.45,14,App_Movil,1,433.0
-9240.61,85,App_Movil,0,484.8
-24831.57,137,Plataforma_SaaS,1,988.7
-1689.25,53,Sitio_Web,1,66.3
-2394.21,111,Sitio_Web,0,155.5
-1854.5,104,Sitio_Web,0,128.2
-14930.86,102,Plataforma_SaaS,0,693.4
-22425.1,166,Plataforma_SaaS,0,1071.7
-9157.88,122,App_Movil,1,408.1
-10941.97,19,App_Movil,1,490.6
-4831.6,7,App_Movil,1,227.4
-3594.76,40,Sitio_Web,1,175.1
-8075.72,85,Plataforma_SaaS,0,386.8
-10997.39,84,App_Movil,1,524.7
-1853.04,127,Sitio_Web,1,91.5
-5831.29,99,App_Movil,1,280.1
-2438.68,104,Sitio_Web,1,127.0
-3810.21,88,Sitio_Web,0,223.1
-3430.03,165,App_Movil,1,147.1
-1927.14,159,Sitio_Web,0,115.6
-10709.15,44,App_Movil,0,567.0
-2067.37,20,Sitio_Web,0,115.4
-1437.3,142,Sitio_Web,1,67.6
-2159.34,97,Sitio_Web,1,110.9
-2033.77,60,Sitio_Web,1,119.9
-11238.75,136,App_Movil,1,500.9
-3238.19,107,Sitio_Web,0,198.9
-7546.04,95,App_Movil,1,323.3
-11895.34,62,App_Movil,0,653.0
-7187.5,100,App_Movil,0,370.9
-8048.28,99,Plataforma_SaaS,0,394.3
-5360.47,90,App_Movil,1,240.4
-2195.43,91,Sitio_Web,1,108.6
-1302.09,28,Sitio_Web,0,75.1
-3832.21,41,Sitio_Web,0,216.9
-9901.64,22,App_Movil,1,433.1
-1658.52,56,Sitio_Web,0,107.9
-8317.24,128,App_Movil,1,374.4
-9493.04,134,App_Movil,1,424.1
-3812.09,119,Sitio_Web,0,233.2
-22869.44,177,Plataforma_SaaS,0,1098.7
-2448.62,23,Sitio_Web,1,114.5
-3278.89,86,Sitio_Web,1,188.6
-8059.3,136,App_Movil,0,442.6
-7974.34,138,App_Movil,1,360.1
-4032.68,91,App_Movil,0,212.6
-4135.24,173,App_Movil,0,232.8
-2494.51,100,Sitio_Web,1,116.8
-11839.51,140,Plataforma_SaaS,1,464.9
-7378.66,87,Plataforma_SaaS,0,371.1
-9505.55,75,App_Movil,1,428.1
-903.96,75,Sitio_Web,0,46.6
-8357.49,154,App_Movil,0,451.4
-2525.42,22,Sitio_Web,0,160.0
-3900.21,57,Sitio_Web,1,201.2
-15715.84,111,Plataforma_SaaS,0,764.1
-1003.52,171,Sitio_Web,0,47.7
-16930.38,176,Plataforma_SaaS,0,822.1
-10569.87,72,App_Movil,1,473.9
-3989.92,15,Sitio_Web,1,200.4
-6873.09,113,App_Movil,1,321.4
-12765.38,106,Plataforma_SaaS,0,619.8
-11159.88,92,App_Movil,1,505.7
-10442.36,70,Plataforma_SaaS,0,481.4
-8538.86,28,App_Movil,1,383.8
-6651.43,168,App_Movil,1,291.5
-7739.48,163,Plataforma_SaaS,0,378.6
-1911.32,172,Sitio_Web,1,105.5
-5387.06,116,App_Movil,0,287.9
-2995.49,103,Sitio_Web,0,173.1
-24078.23,24,Plataforma_SaaS,0,1171.3
-11824.85,77,Plataforma_SaaS,0,561.6
-3396.69,133,Sitio_Web,0,191.9
-3498.24,103,App_Movil,1,149.1
-16686.18,7,Plataforma_SaaS,0,795.4
-1025.76,138,Sitio_Web,1,42.7
-11406.3,10,App_Movil,0,624.4
-20794.32,131,Plataforma_SaaS,0,976.1
-2905.44,88,Sitio_Web,1,136.4
-10415.07,33,App_Movil,0,561.9
-2872.06,177,Sitio_Web,0,174.4
-24441.0,65,Plataforma_SaaS,1,994.6
-19851.24,38,Plataforma_SaaS,0,968.3
-23643.85,167,Plataforma_SaaS,0,1118.9
-7654.19,34,App_Movil,0,394.2
-9107.16,112,Plataforma_SaaS,1,364.5
-16507.2,111,Plataforma_SaaS,1,653.6
-1205.99,76,Sitio_Web,1,48.4
-17664.88,68,Plataforma_SaaS,1,706.8
-2343.98,40,Sitio_Web,0,142.9
-8603.18,93,App_Movil,0,456.2
-832.15,120,Sitio_Web,1,35.4
-1423.49,112,Sitio_Web,0,77.8
-2372.26,62,Sitio_Web,0,138.2
-11554.53,119,App_Movil,0,629.4
-2027.55,19,Sitio_Web,0,110.9
-6819.35,24,App_Movil,1,300.5
-3087.03,119,Sitio_Web,0,181.2
-2732.14,177,Sitio_Web,0,163.9
-5690.34,45,App_Movil,0,310.0
-14394.7,176,Plataforma_SaaS,1,596.2
-1496.64,85,Sitio_Web,0,95.5
-11694.19,152,App_Movil,0,637.4
-9351.42,157,Plataforma_SaaS,1,371.4
-6346.53,36,App_Movil,1,275.8
-882.68,104,Sitio_Web,0,47.7
-1509.69,64,Sitio_Web,0,83.5
-21048.48,73,Plataforma_SaaS,0,1014.2
-1443.76,77,Sitio_Web,0,70.1
-8441.14,152,Plataforma_SaaS,0,411.1
-7270.08,112,App_Movil,0,391.4
-7179.45,13,Plataforma_SaaS,0,351.9
-8525.79,46,Plataforma_SaaS,0,402.0
-21537.27,76,Plataforma_SaaS,1,852.5
-3268.71,74,Sitio_Web,1,159.4
-23472.5,55,Plataforma_SaaS,1,934.6
-10690.64,58,App_Movil,0,585.4
-9148.58,120,App_Movil,0,502.0
-3471.0,113,App_Movil,1,175.2
-21091.28,35,Plataforma_SaaS,0,1007.4
-22219.19,155,Plataforma_SaaS,0,1033.0
-21383.48,84,Plataforma_SaaS,0,1022.3
-7576.31,15,App_Movil,1,343.2
-5096.12,82,App_Movil,1,236.5
-10607.97,48,App_Movil,0,575.9
-3126.92,134,Sitio_Web,0,182.7
-3938.44,26,Sitio_Web,1,214.1
-1298.22,161,Sitio_Web,0,67.6
-1522.13,172,Sitio_Web,1,73.4
-1477.75,78,Sitio_Web,1,63.1
-3336.13,71,Sitio_Web,1,167.0
-1398.1,119,Sitio_Web,0,99.8
-1013.31,30,Sitio_Web,0,59.4
-24974.09,134,Plataforma_SaaS,0,1197.4
-3223.35,89,App_Movil,1,128.1
-3472.78,69,Sitio_Web,1,170.8
-6288.3,66,App_Movil,0,351.1
-3493.17,105,Sitio_Web,0,207.1
-16983.17,68,Plataforma_SaaS,1,676.1
-23229.36,36,Plataforma_SaaS,1,940.2
-3763.82,28,Sitio_Web,1,185.1
-3081.88,132,App_Movil,0,179.3
-8357.42,163,Plataforma_SaaS,0,388.3
-11506.46,175,Plataforma_SaaS,1,467.0
-9023.84,48,App_Movil,1,422.5
-10994.45,104,App_Movil,0,603.8
-2271.81,37,Sitio_Web,0,117.6
-17925.52,164,Plataforma_SaaS,0,854.0
-1403.2,118,Sitio_Web,0,81.8
-21489.4,152,Plataforma_SaaS,0,1041.6
-11705.95,128,App_Movil,1,513.5
-5417.39,23,App_Movil,0,282.3
-7453.43,44,App_Movil,1,319.4
-1075.57,148,Sitio_Web,0,56.3
-2589.24,116,Sitio_Web,1,116.9
-2408.91,28,Sitio_Web,1,136.4
-1262.2,62,Sitio_Web,0,69.3
-14957.19,125,Plataforma_SaaS,0,724.9
-1869.13,153,Sitio_Web,0,112.3
-2469.86,63,Sitio_Web,0,148.2
-17541.78,178,Plataforma_SaaS,1,695.8
-7152.92,41,Plataforma_SaaS,1,293.8
-20698.11,120,Plataforma_SaaS,0,995.1
-19834.26,131,Plataforma_SaaS,0,953.0
-1972.12,135,Sitio_Web,0,112.4
-969.39,58,Sitio_Web,1,44.2
-20588.79,91,Plataforma_SaaS,0,994.2
-11596.58,171,App_Movil,0,628.5
-1568.49,71,Sitio_Web,1,79.7
-12823.44,135,Plataforma_SaaS,1,505.4
-1388.2,27,Sitio_Web,0,102.7
-2646.2,22,Sitio_Web,1,127.5
-4393.57,129,App_Movil,0,237.0
-6205.75,67,App_Movil,0,333.2
-9273.12,60,App_Movil,1,436.8
-2592.37,174,Sitio_Web,1,126.7
-13956.33,32,Plataforma_SaaS,0,666.1
-2144.8,86,Sitio_Web,0,129.9
-2598.75,71,Sitio_Web,0,149.0
-7105.57,106,Plataforma_SaaS,0,342.2
-8413.18,80,Plataforma_SaaS,0,427.5
-22862.65,177,Plataforma_SaaS,0,1100.4
-8401.82,23,Plataforma_SaaS,0,405.9
-9361.23,127,App_Movil,1,414.1
-11280.34,29,App_Movil,1,524.7
-1666.19,141,Sitio_Web,1,102.7
-6334.42,178,App_Movil,0,350.6
-2620.55,77,Sitio_Web,1,137.6
-3621.47,114,Sitio_Web,1,178.7
-11477.15,85,App_Movil,1,520.4
-9656.07,168,App_Movil,1,426.2
-1077.18,52,Sitio_Web,1,42.6
-2941.29,84,Sitio_Web,0,161.6
-6692.73,22,App_Movil,0,365.5
-2306.24,77,Sitio_Web,1,101.5
-7884.67,102,Plataforma_SaaS,1,310.4
-4719.56,153,App_Movil,1,211.8
-10114.62,8,App_Movil,0,556.1
-7085.63,16,App_Movil,0,376.8
-12429.92,131,Plataforma_SaaS,0,607.8
-2028.86,87,Sitio_Web,1,110.8
-10689.6,146,App_Movil,0,566.5
-9740.99,76,App_Movil,0,537.2
-1671.41,156,Sitio_Web,0,97.4
-9115.03,38,Plataforma_SaaS,0,432.5
-11535.97,111,Plataforma_SaaS,1,458.6
-11286.81,90,App_Movil,1,507.9
-17468.6,135,Plataforma_SaaS,1,694.6
-16602.64,64,Plataforma_SaaS,0,788.5
-8367.54,152,App_Movil,1,369.0
-13588.51,140,Plataforma_SaaS,0,653.6
-10263.96,51,App_Movil,1,460.3
-7709.58,103,App_Movil,0,421.6
-4050.73,29,App_Movil,0,219.3
-9323.17,29,Plataforma_SaaS,1,373.7
-2517.95,160,Sitio_Web,1,131.8
-23858.26,141,Plataforma_SaaS,0,1159.4
-12550.34,85,Plataforma_SaaS,1,516.6
-3582.53,50,Sitio_Web,0,228.4
-20753.72,33,Plataforma_SaaS,0,1004.9
-1593.0,32,Sitio_Web,0,116.4
-916.29,103,Sitio_Web,0,59.4
-3916.63,42,App_Movil,0,214.8
-3131.18,115,Sitio_Web,0,210.3
-10594.06,61,Plataforma_SaaS,0,481.3
-13682.88,75,Plataforma_SaaS,1,545.2
-7515.29,67,App_Movil,0,418.4
-3121.5,136,Sitio_Web,1,165.9
-1162.34,61,Sitio_Web,0,95.4
-6657.3,128,App_Movil,1,300.7
-15731.31,103,Plataforma_SaaS,0,750.8
-7867.44,86,App_Movil,0,421.5
-3418.75,93,Sitio_Web,0,208.3
-4545.1,44,App_Movil,0,261.7
-10270.48,125,App_Movil,0,570.9
-19471.81,84,Plataforma_SaaS,1,778.3
-2578.79,163,Sitio_Web,1,131.5
-19591.5,160,Plataforma_SaaS,1,777.5
-6708.16,41,App_Movil,1,296.8
-9491.16,85,Plataforma_SaaS,0,466.0
-2930.45,73,Sitio_Web,0,191.8
-7722.05,93,App_Movil,0,410.0
-18508.75,163,Plataforma_SaaS,0,890.8
-1881.6,40,Sitio_Web,0,110.5
-23323.6,103,Plataforma_SaaS,0,1128.2
-8286.33,175,App_Movil,0,443.6
-1073.29,175,Sitio_Web,0,45.1
-2239.37,157,Sitio_Web,1,122.0
-9807.2,77,App_Movil,1,438.3
-3341.23,9,Sitio_Web,0,198.5
-7451.37,64,App_Movil,1,339.7
-3663.19,38,Sitio_Web,1,186.7
-5409.02,37,App_Movil,0,296.6
-2113.92,88,Sitio_Web,0,110.5
-23174.74,49,Plataforma_SaaS,0,1118.0
-23132.62,141,Plataforma_SaaS,1,906.2
-19342.83,111,Plataforma_SaaS,1,781.4
-10730.82,7,App_Movil,0,590.6
-1084.07,67,Sitio_Web,0,51.4
-22569.91,20,Plataforma_SaaS,0,1086.6
-1825.98,12,Sitio_Web,0,120.1
-1370.66,109,Sitio_Web,0,77.7
-1565.98,16,Sitio_Web,1,85.0
-6761.72,77,App_Movil,1,276.4
-11521.46,96,Plataforma_SaaS,1,471.8
-5885.11,164,App_Movil,1,265.1
-4214.81,155,App_Movil,1,187.1
-1747.77,132,Sitio_Web,0,114.7
-17301.11,103,Plataforma_SaaS,1,709.3
-6976.68,80,App_Movil,0,381.6
-6120.47,121,App_Movil,1,291.5
-3188.65,176,Sitio_Web,0,175.8
-23083.18,57,Plataforma_SaaS,1,930.0
-9811.1,62,App_Movil,0,528.5
-1862.4,47,Sitio_Web,0,103.9
-3182.21,38,Sitio_Web,0,171.6
-4367.82,21,App_Movil,0,242.0
-4172.86,68,App_Movil,1,196.5
-1906.01,161,Sitio_Web,1,108.7
-21538.64,34,Plataforma_SaaS,0,1045.6
-1588.31,70,Sitio_Web,0,87.6
-3569.28,136,App_Movil,0,205.6
-9370.77,133,Plataforma_SaaS,0,463.8
-10728.7,42,App_Movil,0,576.7
-8704.05,120,App_Movil,1,392.0
-1610.24,19,Sitio_Web,0,87.3
-2576.95,21,Sitio_Web,0,169.4
-16496.43,95,Plataforma_SaaS,0,776.7
-8898.92,28,App_Movil,0,485.9
-11197.38,80,Plataforma_SaaS,0,531.5
-3566.09,31,Sitio_Web,1,167.2
-1789.98,107,Sitio_Web,0,88.7
-3021.22,177,Sitio_Web,0,179.1
-3145.12,123,App_Movil,0,157.2
-1992.5,172,Sitio_Web,0,120.1
-13330.78,47,Plataforma_SaaS,0,657.6
-7891.36,179,App_Movil,1,357.1
-8309.25,94,Plataforma_SaaS,1,352.3
-3328.42,174,Sitio_Web,0,189.9
-10920.05,116,Plataforma_SaaS,0,511.4
-19186.68,126,Plataforma_SaaS,0,910.7
-21457.82,103,Plataforma_SaaS,0,1029.3
-17113.79,151,Plataforma_SaaS,1,711.8
-20335.9,63,Plataforma_SaaS,1,796.8
-8956.74,136,App_Movil,0,489.9
-1937.7,102,Sitio_Web,0,109.3
-3388.35,127,Sitio_Web,0,201.1
-12304.62,68,Plataforma_SaaS,1,479.6
-8140.92,143,App_Movil,1,375.1
-20417.16,74,Plataforma_SaaS,0,979.6
-6410.6,87,App_Movil,0,357.0
-1768.86,23,Sitio_Web,1,90.2
-2269.91,123,Sitio_Web,0,116.9
-10361.67,56,App_Movil,0,570.5
-11369.3,118,App_Movil,0,593.8
-2544.27,100,Sitio_Web,1,108.5
-8953.2,174,App_Movil,0,474.3
-3690.48,91,Sitio_Web,0,212.4
-3886.92,155,App_Movil,1,188.9
-1542.65,152,Sitio_Web,0,90.8
-19760.2,163,Plataforma_SaaS,0,961.0
-3435.98,158,Sitio_Web,0,200.5
-10713.26,80,App_Movil,0,581.7
-2128.34,115,Sitio_Web,1,111.2
-1085.89,151,Sitio_Web,0,72.1
-2200.9,24,Sitio_Web,0,127.4
-5076.61,48,App_Movil,0,270.4
-5620.77,107,App_Movil,1,250.0
-3271.26,51,Sitio_Web,1,147.0
-3679.74,88,App_Movil,0,197.9
-21896.46,23,Plataforma_SaaS,0,1047.2
-14698.04,79,Plataforma_SaaS,1,593.7
-2707.4,20,Sitio_Web,0,163.4
-3806.87,163,App_Movil,1,184.7
-1879.55,138,Sitio_Web,1,94.7
-1087.04,88,Sitio_Web,1,48.7
-24307.79,154,Plataforma_SaaS,0,1167.4
-3383.24,126,Sitio_Web,0,210.2
-7136.69,126,App_Movil,1,303.4
-5012.42,53,App_Movil,0,263.5
-11401.1,113,App_Movil,0,608.7
-6101.37,114,App_Movil,1,278.7
-1315.15,15,Sitio_Web,1,71.0
-2602.13,85,Sitio_Web,0,157.1
-11493.97,161,App_Movil,0,595.9
-812.26,21,Sitio_Web,0,32.2
-1562.0,25,Sitio_Web,1,75.7
-3803.03,96,Sitio_Web,1,185.1
-1347.48,32,Sitio_Web,0,80.9
-1162.38,160,Sitio_Web,0,65.0
-2624.6,160,Sitio_Web,1,146.5
-10756.59,180,App_Movil,0,557.9
-7293.99,98,App_Movil,0,396.9
-24902.16,88,Plataforma_SaaS,1,1004.4
-2973.35,137,Sitio_Web,0,185.4
-1037.04,48,Sitio_Web,1,59.7
-3977.06,25,Sitio_Web,0,247.9
-6671.05,23,App_Movil,0,354.2
-5586.62,167,App_Movil,1,240.4
-2585.21,82,Sitio_Web,0,134.8
-12477.54,69,Plataforma_SaaS,1,495.5
-1076.66,137,Sitio_Web,0,56.8
-3012.86,113,App_Movil,0,174.3
-7046.25,55,App_Movil,0,377.6
-22063.54,61,Plataforma_SaaS,0,1048.7
-8150.84,160,App_Movil,0,428.3
-24985.73,105,Plataforma_SaaS,0,1219.2
-1717.91,58,Sitio_Web,0,102.9
-12048.19,106,Plataforma_SaaS,0,570.5
-1311.2,123,Sitio_Web,1,66.8
-9953.14,124,Plataforma_SaaS,1,417.1
-5566.68,13,App_Movil,1,246.6
-21271.12,52,Plataforma_SaaS,0,1027.9
-11151.81,52,App_Movil,0,614.1
-11775.78,106,App_Movil,1,511.0
-5090.61,150,App_Movil,0,268.5
-10931.68,158,App_Movil,0,600.9
-1850.42,60,Sitio_Web,1,85.5
-1161.09,68,Sitio_Web,1,62.2
-3584.08,135,Sitio_Web,0,207.5
-2835.54,55,Sitio_Web,0,165.7
-9965.16,31,Plataforma_SaaS,1,392.9
-2175.46,16,Sitio_Web,0,136.9
-12170.64,124,Plataforma_SaaS,1,488.8
-3157.74,150,Sitio_Web,1,158.9
-2250.93,163,Sitio_Web,1,137.6
-24807.04,98,Plataforma_SaaS,0,1208.1
-3492.7,140,App_Movil,0,168.8
-6195.14,150,App_Movil,1,274.3
-7337.1,154,App_Movil,1,354.4
-7528.2,86,App_Movil,1,333.0
-1810.99,77,Sitio_Web,0,129.5
-20126.32,84,Plataforma_SaaS,0,961.8
-22745.45,49,Plataforma_SaaS,1,907.5
-11448.47,160,App_Movil,1,523.8
-3376.3,96,Sitio_Web,1,167.9
-10655.22,84,App_Movil,1,484.4
-2561.74,167,Sitio_Web,0,169.5
-3442.84,32,Sitio_Web,1,179.7
-1771.21,127,Sitio_Web,1,90.0
-6586.31,51,App_Movil,0,372.4
-12704.43,69,Plataforma_SaaS,1,516.9
-7206.49,74,App_Movil,0,381.8
-5570.22,160,App_Movil,0,320.6
-11654.5,8,App_Movil,1,530.9
-1801.1,148,Sitio_Web,0,105.9
-1113.74,114,Sitio_Web,0,46.6
-16482.71,36,Plataforma_SaaS,0,777.4
-982.72,55,Sitio_Web,0,76.0
-8989.78,146,Plataforma_SaaS,0,448.9
-4974.5,50,App_Movil,0,269.5
-7179.15,167,App_Movil,1,305.4
-6899.26,19,App_Movil,0,361.7
-10197.23,84,App_Movil,0,534.4
-20310.54,132,Plataforma_SaaS,0,958.3
-14673.73,104,Plataforma_SaaS,1,607.2
-6003.34,32,App_Movil,0,344.8
-1812.7,155,Sitio_Web,1,79.4
-9965.96,162,App_Movil,1,448.4
-7937.3,54,Plataforma_SaaS,1,304.6
-841.03,174,Sitio_Web,0,50.3
-10159.9,72,App_Movil,1,473.6
-7294.32,93,App_Movil,0,404.7
-4177.93,85,App_Movil,1,196.1
-1553.81,29,Sitio_Web,1,75.7
-11392.54,87,App_Movil,0,627.8
-22471.05,54,Plataforma_SaaS,0,1085.1
-3071.31,130,Sitio_Web,0,188.3
-2343.12,136,Sitio_Web,1,116.0
-16365.83,90,Plataforma_SaaS,0,788.7
-3920.78,26,Sitio_Web,0,238.1
-24383.87,52,Plataforma_SaaS,0,1165.0
-4937.42,137,App_Movil,1,214.4
-3395.53,18,Sitio_Web,1,159.8
-10550.37,46,Plataforma_SaaS,1,412.7
-4921.84,72,App_Movil,1,219.6
-9084.84,106,App_Movil,0,487.1
-2096.0,84,Sitio_Web,0,119.6
-11383.9,22,App_Movil,1,505.3
-1084.83,89,Sitio_Web,0,68.0
-2436.88,168,Sitio_Web,0,160.0
-23533.39,50,Plataforma_SaaS,0,1129.5
-3693.16,140,Sitio_Web,0,220.8
-4408.76,106,App_Movil,0,228.7
-1973.24,28,Sitio_Web,1,96.4
-18144.19,24,Plataforma_SaaS,0,882.8
-1310.06,18,Sitio_Web,0,89.0
-24424.4,129,Plataforma_SaaS,0,1182.1
-11232.74,123,App_Movil,1,514.8
-1334.24,57,Sitio_Web,0,84.4
-1187.7,77,Sitio_Web,1,63.4
-1073.31,54,Sitio_Web,1,56.1
-11184.99,25,App_Movil,0,599.8
-1419.6,12,Sitio_Web,1,71.8
-14493.13,90,Plataforma_SaaS,1,581.9
-7039.66,161,App_Movil,1,323.1
-2716.84,59,Sitio_Web,1,136.8
-3645.62,113,App_Movil,0,217.9
-5040.83,107,App_Movil,0,260.1
-3780.77,54,Sitio_Web,0,234.4
-3706.91,141,Sitio_Web,0,222.0
-3300.13,75,Sitio_Web,1,165.0
-3174.61,17,App_Movil,0,163.3
-5943.06,149,App_Movil,1,277.6
-8651.63,137,App_Movil,1,395.9
-11953.42,128,Plataforma_SaaS,1,486.5
-23372.56,75,Plataforma_SaaS,1,936.6
-8705.01,29,App_Movil,0,466.8
-8294.32,43,Plataforma_SaaS,0,397.5
-3708.82,15,Sitio_Web,0,226.9
-3864.85,21,Sitio_Web,0,211.8
-1048.68,137,Sitio_Web,0,71.7
-2503.55,99,Sitio_Web,0,174.5
-5730.28,23,App_Movil,1,262.7
-14071.1,160,Plataforma_SaaS,0,672.6
-1374.88,155,Sitio_Web,0,80.9
-2649.83,78,Sitio_Web,1,139.6
-11621.81,155,App_Movil,0,625.0
-16055.31,127,Plataforma_SaaS,0,779.3
-1065.33,17,Sitio_Web,1,51.5
-8580.01,172,App_Movil,1,403.2
-1888.71,78,Sitio_Web,1,111.3
-3538.96,112,Sitio_Web,0,209.0
-14824.21,131,Plataforma_SaaS,1,592.2
-10471.11,41,Plataforma_SaaS,1,418.6
-1411.54,125,Sitio_Web,0,84.6
-20837.76,20,Plataforma_SaaS,1,824.0
-5390.29,20,App_Movil,1,231.7
-20810.2,16,Plataforma_SaaS,0,1011.4
-4852.99,146,App_Movil,0,273.0
-5895.18,44,App_Movil,1,276.0
-7189.38,114,App_Movil,1,322.8
-11488.76,125,App_Movil,0,639.3
-3781.54,40,Sitio_Web,1,188.9
-1461.99,175,Sitio_Web,0,96.3
-1946.3,16,Sitio_Web,0,102.9
-4344.59,128,App_Movil,0,232.3
-2431.95,151,Sitio_Web,1,120.0
-7145.24,151,App_Movil,1,320.9
-23213.68,121,Plataforma_SaaS,0,1101.0
-3776.02,7,Sitio_Web,0,233.6
-6452.11,18,App_Movil,0,358.7
-7425.64,109,App_Movil,1,326.7
-23132.25,10,Plataforma_SaaS,1,913.8
-3381.46,176,Sitio_Web,1,161.4
-3032.91,147,App_Movil,1,141.4
-12761.07,104,Plataforma_SaaS,1,504.5
-14591.94,112,Plataforma_SaaS,0,699.1
-5067.45,91,App_Movil,0,262.9
-4796.14,127,App_Movil,0,278.8
-3340.06,138,App_Movil,1,151.0
-18580.66,88,Plataforma_SaaS,1,754.7
-5362.59,25,App_Movil,0,294.5
-967.51,136,Sitio_Web,1,48.0
-11157.63,18,Plataforma_SaaS,0,534.6
-10217.23,87,App_Movil,0,544.5
-10663.4,80,App_Movil,1,475.3
-2345.81,104,Sitio_Web,1,107.2
-6744.64,12,App_Movil,1,292.3
-3929.13,142,Sitio_Web,0,256.6
-4805.08,131,App_Movil,0,262.3
-1489.15,57,Sitio_Web,1,89.1
-5626.8,17,App_Movil,0,295.9
-10109.63,133,Plataforma_SaaS,0,472.7
-2013.97,146,Sitio_Web,1,90.9
-23395.02,79,Plataforma_SaaS,0,1118.7
-8538.13,8,App_Movil,1,384.6
-14415.04,14,Plataforma_SaaS,1,575.1
-23819.39,145,Plataforma_SaaS,0,1135.6
-3436.18,130,App_Movil,0,186.4
-4892.49,59,App_Movil,1,221.9
-17185.99,16,Plataforma_SaaS,1,694.5
-8539.97,118,App_Movil,1,399.0
-926.58,14,Sitio_Web,1,42.7
-6627.35,42,App_Movil,1,310.4
-18684.77,112,Plataforma_SaaS,1,748.1
-19565.27,20,Plataforma_SaaS,0,923.9
-18486.52,92,Plataforma_SaaS,0,905.2
-5885.07,155,App_Movil,0,340.5
-8683.36,56,Plataforma_SaaS,0,423.0
-2166.76,173,Sitio_Web,0,130.9
-4158.79,26,App_Movil,0,221.9
-3832.4,93,Sitio_Web,1,187.0
-2320.55,141,Sitio_Web,0,151.3
-1815.23,143,Sitio_Web,0,108.7
-3252.17,135,Sitio_Web,0,211.9
-7481.54,160,App_Movil,0,404.4
-1792.11,172,Sitio_Web,0,103.4
-10307.71,44,App_Movil,0,550.6
-3574.89,50,Sitio_Web,0,207.1
-2953.63,92,Sitio_Web,1,152.8
-950.29,50,Sitio_Web,1,34.6
-2612.23,80,Sitio_Web,1,122.4
-9869.65,125,App_Movil,1,457.4
-4228.53,128,App_Movil,0,218.8
-5058.04,140,App_Movil,1,236.2
-10942.46,151,App_Movil,1,471.8
-864.39,57,Sitio_Web,0,66.4
-20549.09,44,Plataforma_SaaS,1,809.3
-7263.96,158,App_Movil,0,383.5
-7020.95,57,App_Movil,1,322.7
-822.71,16,Sitio_Web,1,43.8
-3422.07,126,Sitio_Web,0,214.3
-1951.44,155,Sitio_Web,1,84.8
-2530.45,76,Sitio_Web,1,123.7
-9095.71,91,App_Movil,1,403.1
-9323.67,63,App_Movil,0,492.4
-11603.82,132,App_Movil,1,528.1
-16564.12,45,Plataforma_SaaS,0,804.5
-14194.95,39,Plataforma_SaaS,0,678.0
-11583.33,24,App_Movil,0,640.7
-18557.98,63,Plataforma_SaaS,1,734.5
-1754.08,102,Sitio_Web,1,102.7
-1204.69,54,Sitio_Web,1,65.9
-3496.17,48,Sitio_Web,1,162.6
-6259.63,33,App_Movil,0,357.8
-18888.45,80,Plataforma_SaaS,0,902.2
-2306.61,116,Sitio_Web,0,150.4
-10580.74,176,Plataforma_SaaS,0,509.3
-2725.4,38,Sitio_Web,0,167.3
-8092.3,32,Plataforma_SaaS,0,397.4
-2122.7,31,Sitio_Web,0,135.8
-2549.17,81,Sitio_Web,0,149.5
-6924.42,29,App_Movil,0,379.2
-3195.75,63,Sitio_Web,0,196.3
-3449.36,132,Sitio_Web,1,174.6
-3267.98,93,Sitio_Web,1,161.4
-7698.63,37,Plataforma_SaaS,1,310.1
-4747.16,70,App_Movil,0,276.0
-2517.14,39,Sitio_Web,0,148.1
-11413.4,8,App_Movil,1,525.7
-10514.61,24,App_Movil,0,561.6
-3496.11,167,Sitio_Web,0,201.0
-5728.87,90,App_Movil,0,342.1
-2174.23,41,Sitio_Web,0,135.9
-2306.26,120,Sitio_Web,0,144.1
-4416.34,152,App_Movil,0,244.4
-899.42,116,Sitio_Web,1,59.0
-11522.13,94,App_Movil,0,626.3
-5166.41,78,App_Movil,0,287.1
-1567.84,131,Sitio_Web,1,67.8
-3750.41,36,App_Movil,0,212.4
-3771.22,178,Sitio_Web,0,223.9
-17435.27,59,Plataforma_SaaS,1,704.1
-9003.33,144,App_Movil,0,469.0
-23408.38,93,Plataforma_SaaS,0,1129.9
-6110.58,145,App_Movil,0,307.6
-2788.82,170,Sitio_Web,0,164.6
-3349.2,167,App_Movil,0,163.8
-10361.91,19,Plataforma_SaaS,1,420.8
-10481.21,46,App_Movil,0,566.7
-20801.83,95,Plataforma_SaaS,0,990.8
-13311.57,74,Plataforma_SaaS,0,653.3
-2005.79,48,Sitio_Web,0,111.4
-2507.37,153,Sitio_Web,1,95.1
-3002.17,100,App_Movil,0,167.3
-5171.2,25,App_Movil,0,261.6
-10748.17,29,Plataforma_SaaS,0,507.3
-11508.69,60,Plataforma_SaaS,0,547.2
-3378.9,71,Sitio_Web,0,188.5
-1694.96,146,Sitio_Web,1,79.8
-10447.38,30,Plataforma_SaaS,0,487.4
-2413.64,40,Sitio_Web,0,146.4
-22581.61,59,Plataforma_SaaS,0,1071.6
-5172.15,142,App_Movil,1,233.0
-3706.83,24,App_Movil,0,211.8
-1940.5,63,Sitio_Web,1,104.8
-9728.87,118,App_Movil,1,437.0
-7956.21,11,App_Movil,1,348.1
-10351.14,160,App_Movil,0,560.6
-3870.69,164,Sitio_Web,0,225.3
-10133.96,19,App_Movil,1,458.0
-17868.46,89,Plataforma_SaaS,1,697.6
-2378.69,35,Sitio_Web,1,127.0
-928.22,9,Sitio_Web,0,56.0
-3949.83,96,Sitio_Web,0,259.1
-6451.33,110,App_Movil,0,361.4
-4370.05,129,App_Movil,1,202.3
-9000.38,82,App_Movil,0,484.8
-1709.72,136,Sitio_Web,0,95.3
-2674.49,114,Sitio_Web,1,143.1
-8280.91,162,App_Movil,0,444.9
-7011.57,88,App_Movil,1,327.2
-22050.14,83,Plataforma_SaaS,0,1062.4
-1647.89,8,Sitio_Web,0,103.0
-7037.69,133,App_Movil,0,386.0
-7839.23,141,App_Movil,1,343.6
-8972.62,32,App_Movil,0,474.3
-10055.75,94,App_Movil,0,532.4
-6553.27,22,App_Movil,1,305.4
-18628.84,157,Plataforma_SaaS,0,884.7
-1281.96,174,Sitio_Web,0,68.7
-3784.47,79,Sitio_Web,0,232.4
-6447.53,38,App_Movil,0,345.6
-9565.69,21,App_Movil,1,426.7
-865.09,147,Sitio_Web,0,47.2
-1456.6,11,Sitio_Web,0,64.1
-2358.66,80,Sitio_Web,0,131.9
-22808.54,58,Plataforma_SaaS,1,924.2
-2487.22,83,Sitio_Web,0,143.8
-3775.59,175,Sitio_Web,0,207.5
-2348.15,116,Sitio_Web,0,130.8
-2369.44,149,Sitio_Web,0,145.8
-1183.19,112,Sitio_Web,0,74.4
-10223.91,133,App_Movil,0,549.1
-1590.29,13,Sitio_Web,1,72.6
-23193.02,46,Plataforma_SaaS,0,1099.2
-3714.64,162,Sitio_Web,1,189.4
-11489.79,166,App_Movil,1,525.4
-16364.15,105,Plataforma_SaaS,0,798.4
-9093.84,149,App_Movil,0,480.0
-10006.64,91,App_Movil,0,554.0
-1219.25,71,Sitio_Web,1,60.4
-2723.06,138,Sitio_Web,0,163.6
-3308.68,17,App_Movil,0,187.6
-15956.19,114,Plataforma_SaaS,0,760.5
-4393.58,32,App_Movil,1,176.1
-4646.31,171,App_Movil,1,216.1
-6285.43,157,App_Movil,0,342.9
-6891.93,91,App_Movil,1,306.5
-2794.15,174,Sitio_Web,0,173.9
-3669.86,157,App_Movil,0,206.4
-16066.45,129,Plataforma_SaaS,1,627.5
-1384.4,150,Sitio_Web,0,83.3
-8165.78,74,App_Movil,0,418.2
-2839.69,110,Sitio_Web,0,169.1
-8010.38,86,App_Movil,1,356.7
-3162.55,165,Sitio_Web,1,163.0
-6020.48,59,App_Movil,1,260.2
-20771.92,112,Plataforma_SaaS,1,826.7
-2184.85,159,Sitio_Web,0,98.9
-7357.66,50,App_Movil,0,402.9
-18665.84,146,Plataforma_SaaS,0,895.1
-7330.45,96,Plataforma_SaaS,0,352.7
-2892.78,107,Sitio_Web,0,158.6
-2779.47,103,Sitio_Web,1,143.0
-1791.51,15,Sitio_Web,0,124.0
-8544.3,18,Plataforma_SaaS,0,408.3
-8636.84,75,Plataforma_SaaS,0,421.1
-11309.01,34,App_Movil,0,602.0
-19407.03,62,Plataforma_SaaS,1,775.5
-4143.92,105,App_Movil,0,208.5
-6210.51,116,App_Movil,0,343.2
-2695.95,83,Sitio_Web,1,136.4
-22040.29,109,Plataforma_SaaS,0,1045.7
-939.71,112,Sitio_Web,0,48.4
-11259.4,115,Plataforma_SaaS,0,541.1
-23015.48,118,Plataforma_SaaS,0,1114.0
-3082.49,64,App_Movil,1,153.5
-1444.48,84,Sitio_Web,1,70.9
-3868.88,81,Sitio_Web,0,218.5
-2762.89,48,Sitio_Web,1,140.5
-1637.35,172,Sitio_Web,0,116.1
-1014.37,74,Sitio_Web,0,44.6
-7507.44,39,Plataforma_SaaS,0,350.8
-5202.71,77,App_Movil,0,287.1
-3620.75,62,Sitio_Web,0,218.8
-2130.92,111,Sitio_Web,1,101.1
-9483.0,107,App_Movil,1,428.9
-11264.57,57,App_Movil,0,618.1
-6672.36,80,App_Movil,0,359.3
-10442.99,177,Plataforma_SaaS,0,499.4
-7654.06,127,App_Movil,0,419.2
-23345.51,149,Plataforma_SaaS,0,1117.9
-21478.74,172,Plataforma_SaaS,0,1042.4
-1010.66,149,Sitio_Web,1,70.8
-19466.31,11,Plataforma_SaaS,0,925.5
-2630.07,89,Sitio_Web,0,145.3
-23334.34,57,Plataforma_SaaS,0,1123.8
-1191.94,16,Sitio_Web,0,58.7
-16612.65,146,Plataforma_SaaS,0,784.4
-22830.33,10,Plataforma_SaaS,1,892.7
-14380.43,101,Plataforma_SaaS,0,686.4
-15675.91,152,Plataforma_SaaS,1,626.7
-1025.47,86,Sitio_Web,0,56.4
-1690.06,42,Sitio_Web,0,115.3
-5920.56,31,App_Movil,0,332.9
-3824.39,104,Sitio_Web,1,210.5
-5544.01,170,App_Movil,0,299.8
-2274.78,107,Sitio_Web,1,125.6
-19083.48,15,Plataforma_SaaS,0,919.1
-4459.65,67,App_Movil,1,202.8
-15755.96,59,Plataforma_SaaS,0,751.6
-3163.32,152,Sitio_Web,1,135.5
-22603.39,177,Plataforma_SaaS,0,1091.3
-18272.67,169,Plataforma_SaaS,1,742.4
-9021.48,69,App_Movil,0,471.9
-4136.55,127,App_Movil,0,223.3
-24023.98,111,Plataforma_SaaS,0,1163.1
-1224.24,10,Sitio_Web,1,57.6
-9972.06,99,App_Movil,0,550.4
-1647.41,175,Sitio_Web,1,81.0
-3787.5,179,Sitio_Web,0,222.0
-3103.87,34,Sitio_Web,0,198.7
-3212.2,176,Sitio_Web,0,183.4
-1500.99,86,Sitio_Web,1,67.8
-2217.73,82,Sitio_Web,1,101.9
-18120.64,122,Plataforma_SaaS,1,713.4
-9929.76,75,App_Movil,0,537.7
-8871.27,104,Plataforma_SaaS,1,349.7
-11661.29,7,App_Movil,1,529.6
-3648.71,173,Sitio_Web,0,201.6
-5433.14,102,App_Movil,1,233.3
-10404.84,23,App_Movil,1,468.7
-2458.64,118,Sitio_Web,1,137.6
-7156.26,97,App_Movil,1,325.8
-1806.19,94,Sitio_Web,0,102.5
-8228.72,169,App_Movil,0,429.5
-9569.0,180,App_Movil,1,424.1
-2114.99,176,Sitio_Web,0,126.5
-2813.5,173,Sitio_Web,1,117.1
-19587.63,96,Plataforma_SaaS,1,771.4
-9400.1,55,App_Movil,1,415.6
-966.29,44,Sitio_Web,1,45.7
-22475.46,157,Plataforma_SaaS,0,1078.3
-2266.41,156,Sitio_Web,0,129.9
-5361.74,138,App_Movil,0,294.6
-11351.76,65,Plataforma_SaaS,0,546.1
-2345.65,74,Sitio_Web,0,137.0
-3637.86,136,Sitio_Web,0,224.7
-2010.71,55,Sitio_Web,1,106.2
-3199.12,132,Sitio_Web,1,145.4
-1109.82,165,Sitio_Web,0,66.3
-7284.51,117,App_Movil,0,402.3
-3973.4,174,Sitio_Web,1,209.2
-9933.94,54,App_Movil,0,540.1
-10789.51,57,Plataforma_SaaS,0,515.6
-16025.95,49,Plataforma_SaaS,0,773.5
-5102.62,104,App_Movil,0,283.6
-2110.59,130,Sitio_Web,0,127.8
-10020.76,86,App_Movil,1,453.2
-9941.02,117,App_Movil,0,534.3
-5052.9,149,App_Movil,0,259.5
-3751.11,33,Sitio_Web,0,223.3
-17666.23,164,Plataforma_SaaS,0,841.2
-6419.32,170,App_Movil,1,282.1
-2406.19,119,Sitio_Web,1,134.6
-2736.23,92,Sitio_Web,1,146.3
-8039.01,120,App_Movil,0,417.2
-15755.29,130,Plataforma_SaaS,1,619.4
-7544.4,55,App_Movil,1,335.9
-10175.41,82,Plataforma_SaaS,1,400.6
-3400.75,61,Sitio_Web,0,207.2
-7875.84,62,App_Movil,0,412.9
-4179.72,101,App_Movil,0,235.3
-3251.7,50,Sitio_Web,1,162.1
-3783.82,165,Sitio_Web,0,223.6
-24051.52,93,Plataforma_SaaS,0,1154.3
-1980.86,90,Sitio_Web,1,94.9
-4219.65,157,App_Movil,1,169.6
-2458.88,162,Sitio_Web,1,123.1
-1160.35,22,Sitio_Web,0,66.4
-3788.76,171,Sitio_Web,1,179.9
-10304.43,155,Plataforma_SaaS,0,505.6
-11549.79,151,Plataforma_SaaS,0,561.1
-14319.46,43,Plataforma_SaaS,0,711.7
-6448.48,83,App_Movil,0,356.6
-3342.92,153,Sitio_Web,0,194.1
-7106.85,164,App_Movil,1,310.8
-4536.91,51,App_Movil,0,240.1
-11809.78,152,Plataforma_SaaS,1,465.7
-2429.16,68,Sitio_Web,0,146.8
-4327.09,170,App_Movil,0,218.3
-2757.3,106,Sitio_Web,0,171.9
-2610.39,58,Sitio_Web,0,157.5
-9432.32,25,App_Movil,0,514.7
-11439.34,115,App_Movil,0,606.3
-3719.21,50,Sitio_Web,0,225.6
-3827.44,13,Sitio_Web,0,242.6
-5202.44,178,App_Movil,0,272.3
-9368.18,123,Plataforma_SaaS,1,365.8
-12440.98,74,Plataforma_SaaS,0,604.3
-23111.53,40,Plataforma_SaaS,1,914.8
-24496.96,75,Plataforma_SaaS,1,977.5
-3549.84,61,Sitio_Web,1,192.2
-3990.16,16,App_Movil,1,170.8
-11526.85,48,App_Movil,0,637.9
-2154.75,47,Sitio_Web,1,104.4
-7167.59,128,Plataforma_SaaS,1,275.5
-2215.66,144,Sitio_Web,0,139.0
-7829.25,16,Plataforma_SaaS,0,376.9
-7894.9,108,App_Movil,0,426.5
-6046.99,134,App_Movil,1,264.4
-7260.91,155,App_Movil,1,327.7
-18037.07,142,Plataforma_SaaS,0,845.1
-10819.21,98,App_Movil,0,586.4
-8957.11,119,App_Movil,0,496.7
-2188.96,84,Sitio_Web,0,113.7
-10374.85,91,App_Movil,1,462.8
-3697.86,36,Sitio_Web,0,213.1
-4077.84,55,App_Movil,0,205.1
-7787.4,15,App_Movil,0,400.0
-5560.61,151,App_Movil,1,238.4
-950.6,75,Sitio_Web,0,54.6
-2939.35,64,Sitio_Web,1,158.5
-10764.94,68,App_Movil,0,566.1
-1321.29,58,Sitio_Web,0,82.2
-3399.72,46,Sitio_Web,0,206.2
-3530.87,172,Sitio_Web,0,228.6
-23458.13,177,Plataforma_SaaS,0,1131.7
-5387.57,69,App_Movil,1,248.7
-3692.65,153,Sitio_Web,1,191.6
-1826.12,56,Sitio_Web,1,82.1
-2567.48,167,Sitio_Web,0,148.3
-7909.13,147,Plataforma_SaaS,1,327.5
-3394.93,84,App_Movil,0,162.8
-3105.19,103,Sitio_Web,0,179.5
-2222.34,49,Sitio_Web,0,120.0
-1620.14,42,Sitio_Web,0,99.6
-4713.72,128,App_Movil,1,207.9
-19059.16,114,Plataforma_SaaS,0,921.1
-801.28,16,Sitio_Web,0,47.0
-3378.85,101,Sitio_Web,1,153.5
-1053.6,12,Sitio_Web,0,48.2
-10446.81,63,Plataforma_SaaS,0,501.4
-2035.96,135,Sitio_Web,0,114.4
-15727.46,77,Plataforma_SaaS,1,623.8
-6194.96,27,App_Movil,1,288.2
-1826.28,98,Sitio_Web,0,117.2
-3884.53,133,Sitio_Web,0,251.0
-2853.05,86,Sitio_Web,0,168.0
-3210.9,62,App_Movil,1,138.1
-14743.17,122,Plataforma_SaaS,0,711.9
-10875.08,154,App_Movil,0,581.6
-5713.11,31,App_Movil,0,303.2
-1102.58,162,Sitio_Web,0,64.1
-20650.93,11,Plataforma_SaaS,0,1007.8
-17908.25,126,Plataforma_SaaS,1,723.4
-2625.0,27,Sitio_Web,0,165.6
-7964.38,24,Plataforma_SaaS,0,398.4
-4264.49,63,App_Movil,1,200.9
-8602.94,99,App_Movil,1,375.8
-4870.41,25,App_Movil,0,271.9
-16073.26,134,Plataforma_SaaS,0,781.7
-7903.94,103,App_Movil,0,433.3
-1707.22,137,Sitio_Web,1,83.4
-3834.96,176,Sitio_Web,0,235.6
-22164.35,27,Plataforma_SaaS,1,886.4
-3111.6,46,Sitio_Web,1,145.8
-1049.58,73,Sitio_Web,0,55.7
-3955.17,159,App_Movil,0,220.6
-7435.03,133,App_Movil,0,392.4
-4446.42,61,App_Movil,0,232.0
-24608.78,178,Plataforma_SaaS,0,1188.8
-1307.26,115,Sitio_Web,1,66.7
-2359.9,104,Sitio_Web,1,123.8
-1965.19,118,Sitio_Web,0,105.6
-18508.96,121,Plataforma_SaaS,1,745.9
-4161.33,123,App_Movil,0,218.1
-2177.01,93,Sitio_Web,0,120.5
-11944.69,87,Plataforma_SaaS,0,568.3
-22979.53,72,Plataforma_SaaS,1,932.8
-7730.54,25,Plataforma_SaaS,1,305.6
-23447.09,141,Plataforma_SaaS,1,959.9
-3465.58,124,Sitio_Web,0,187.3
-12356.27,48,Plataforma_SaaS,0,577.6
-10103.62,48,App_Movil,0,558.8
-7561.84,65,Plataforma_SaaS,0,378.7
-11701.79,26,App_Movil,1,517.9
-16478.71,79,Plataforma_SaaS,1,659.8
-5729.53,23,App_Movil,1,265.0
-1960.27,33,Sitio_Web,0,115.3
-3597.65,8,App_Movil,0,195.8
-24808.29,69,Plataforma_SaaS,0,1190.9
-7707.26,68,Plataforma_SaaS,0,355.1
-2895.7,106,Sitio_Web,0,170.3
-2216.75,25,Sitio_Web,1,111.0
-3836.53,23,Sitio_Web,1,192.9
-5214.0,75,App_Movil,0,264.3
-16577.56,173,Plataforma_SaaS,0,803.3
-2343.54,123,Sitio_Web,0,141.9
-9325.8,87,App_Movil,0,493.0
-8224.18,45,Plataforma_SaaS,1,347.0
-4744.1,42,App_Movil,0,252.7
-4931.08,174,App_Movil,0,263.5
-9643.36,179,App_Movil,0,527.2
-4702.25,138,App_Movil,1,230.4
-2635.17,159,Sitio_Web,0,164.9
-4937.19,164,App_Movil,0,274.9
-10754.62,35,App_Movil,0,570.7
-23959.34,57,Plataforma_SaaS,1,959.2
-7666.44,158,App_Movil,1,339.7
-13341.56,20,Plataforma_SaaS,0,647.4
-1548.98,75,Sitio_Web,1,85.4
-3448.03,152,App_Movil,1,171.5
-1659.2,176,Sitio_Web,1,61.4
-2893.55,63,Sitio_Web,1,138.4
-7802.55,18,App_Movil,1,364.1
-23992.74,23,Plataforma_SaaS,0,1137.6
-2068.09,36,Sitio_Web,1,111.5
-9244.77,94,App_Movil,0,510.6
-15807.81,105,Plataforma_SaaS,1,632.0
-2440.24,29,Sitio_Web,0,132.2
-5409.97,135,App_Movil,1,242.2
-7094.56,85,App_Movil,1,333.8
-7237.06,38,App_Movil,0,406.2
-3061.26,15,Sitio_Web,1,155.1
-3810.05,21,Sitio_Web,0,218.8
-12927.78,162,Plataforma_SaaS,1,534.5
-3379.8,158,App_Movil,0,190.7
-2388.14,169,Sitio_Web,0,134.2
-16800.3,33,Plataforma_SaaS,1,675.4
-1339.01,115,Sitio_Web,0,83.3
-9844.18,82,App_Movil,1,436.6
-3951.77,154,Sitio_Web,0,240.6
-24023.94,71,Plataforma_SaaS,0,1164.2
-1430.74,115,Sitio_Web,0,82.9
-3601.16,135,Sitio_Web,0,228.2
-3054.38,16,Sitio_Web,0,165.7
-2252.31,53,Sitio_Web,0,157.3
-16731.0,129,Plataforma_SaaS,0,803.7
-22292.8,65,Plataforma_SaaS,0,1080.8
-2336.43,102,Sitio_Web,1,119.0
-6358.87,109,App_Movil,1,277.9
-7439.23,130,App_Movil,0,401.4
-17424.34,92,Plataforma_SaaS,1,677.9
-4701.7,152,App_Movil,0,260.8
-3682.9,118,Sitio_Web,1,186.1
-9067.68,180,App_Movil,1,406.1
-8699.42,166,App_Movil,1,399.0
-1118.39,33,Sitio_Web,0,67.5
-8437.57,24,App_Movil,1,385.8
-1187.07,173,Sitio_Web,0,80.8
-8416.56,88,Plataforma_SaaS,1,331.2
-2487.39,178,Sitio_Web,0,140.9
-6625.07,78,App_Movil,1,280.9
-8299.29,60,App_Movil,1,374.7
-3803.0,168,App_Movil,1,175.7
-2179.15,77,Sitio_Web,0,117.5
-4573.08,170,App_Movil,1,220.0
-11883.9,152,App_Movil,0,633.5
-8050.35,44,App_Movil,1,341.2
-9186.93,143,App_Movil,0,511.0
-5928.76,41,App_Movil,0,300.4
-8705.3,88,Plataforma_SaaS,0,427.5
-3922.79,139,Sitio_Web,0,242.6
-12152.66,148,Plataforma_SaaS,0,586.5
-6814.27,164,App_Movil,0,362.7
-2879.56,10,Sitio_Web,0,177.8
-879.03,173,Sitio_Web,1,54.4
-3392.83,159,Sitio_Web,1,159.8
-16658.41,162,Plataforma_SaaS,0,809.4
-5503.95,156,App_Movil,0,306.5
-8108.94,165,Plataforma_SaaS,0,392.2
-4462.49,29,App_Movil,0,235.6
-11055.3,54,App_Movil,1,506.8
-2995.28,154,Sitio_Web,1,154.8
-1599.69,131,Sitio_Web,0,85.8
-3590.41,172,App_Movil,0,190.2
-3009.97,61,Sitio_Web,0,188.8
-2631.7,74,Sitio_Web,1,132.7
-6640.68,94,App_Movil,1,309.7
-6272.5,7,App_Movil,0,335.3
-10902.66,141,Plataforma_SaaS,0,513.3
-19053.0,101,Plataforma_SaaS,1,784.1
-11736.01,146,App_Movil,1,511.3
-4581.44,112,App_Movil,0,242.4
-8374.05,139,App_Movil,0,455.0
-14635.33,114,Plataforma_SaaS,0,712.4
-2229.4,48,Sitio_Web,0,140.2
-5287.33,108,App_Movil,0,308.6
-21852.43,130,Plataforma_SaaS,0,1047.7
-2352.82,146,Sitio_Web,0,132.4
-7890.65,109,App_Movil,0,423.9
-5742.85,152,App_Movil,1,255.2
-1381.79,80,Sitio_Web,0,82.2
-1074.91,114,Sitio_Web,0,54.7
-3085.18,128,Sitio_Web,0,193.0
-1427.95,23,Sitio_Web,0,89.4
-3008.24,77,Sitio_Web,1,137.8
-14026.78,68,Plataforma_SaaS,0,683.0
-2130.48,47,Sitio_Web,0,119.7
-7222.6,125,App_Movil,1,313.2
-1976.67,168,Sitio_Web,0,119.5
-8811.16,51,Plataforma_SaaS,1,334.9
-1790.82,64,Sitio_Web,0,113.3
-8973.61,132,App_Movil,0,456.2
-18984.12,168,Plataforma_SaaS,0,900.9
-12152.04,50,Plataforma_SaaS,0,599.0
-2272.33,21,Sitio_Web,1,106.7
-10482.05,84,Plataforma_SaaS,1,414.2
-4893.35,76,App_Movil,0,277.0
-3207.42,107,App_Movil,0,165.3
-3669.59,166,Sitio_Web,1,191.1
-1474.26,9,Sitio_Web,1,85.5
-5047.8,92,App_Movil,0,277.4
-5516.41,80,App_Movil,0,283.4
-4146.67,57,App_Movil,0,217.9
-8753.37,73,App_Movil,1,421.0
-8352.57,82,Plataforma_SaaS,0,396.0
-1229.45,99,Sitio_Web,0,103.6
-8802.81,151,App_Movil,1,413.2
-1886.91,13,Sitio_Web,0,118.4
-19743.06,19,Plataforma_SaaS,0,950.6
-8016.82,126,App_Movil,0,428.3
-11608.38,72,Plataforma_SaaS,0,556.3
-2882.65,10,Sitio_Web,0,166.1
-1172.08,144,Sitio_Web,0,69.7
-2516.51,94,Sitio_Web,0,137.4
+id_proyecto,presupuesto_estimado,deadline_dias,cantidad_bugs,numero_desarrolladores,tipo_servicio,infraestructura_nube_previa,renovacion_contrato,horas_hombre_invertidas,fecha_entrega
+PRJ-00001,33090.51,249,7,8,App Móvil,No,Sí,1119.5,2024-01-01
+PRJ-00002,76303.57,192,13,2,E-commerce,Sí,No,1798.1,2024-01-01
+PRJ-00003,59899.55,249,7,7,Portal Web,Sí,No,1583.2,2024-01-01
+PRJ-00004,49899.39,299,2,6,App Móvil,Sí,No,1286.8,2024-01-01
+PRJ-00005,16701.4,149,11,9,E-commerce,No,No,912.0,2024-01-01
+PRJ-00006,16699.59,211,11,7,Sistema SaaS,No,No,795.9,2024-01-01
+PRJ-00007,9356.27,135,13,1,App Móvil,Sí,Sí,394.3,2024-01-01
+PRJ-00008,69963.21,246,6,8,Sistema SaaS,Sí,Sí,1812.4,2024-01-01
+PRJ-00009,50083.63,234,0,3,App Móvil,No,No,1160.8,2024-01-01
+PRJ-00010,58105.44,99,0,2,E-commerce,No,Sí,1232.6,2024-01-01
+PRJ-00011,6543.84,73,6,3,E-commerce,Sí,No,311.0,2024-01-01
+PRJ-00012,77743.24,358,14,6,E-commerce,No,Sí,1995.7,2024-01-01
+PRJ-00013,67433.2,330,14,3,Portal Web,Sí,Sí,1591.6,2024-01-01
+PRJ-00014,20925.43,257,9,5,Sistema SaaS,Sí,No,766.8,2024-01-01
+PRJ-00015,18636.87,213,8,6,Portal Web,No,No,748.2,2024-01-01
+PRJ-00016,18755.34,136,6,8,App Móvil,No,Sí,798.3,2024-01-01
+PRJ-00017,27818.17,113,9,7,Sistema SaaS,No,Sí,972.8,2024-01-01
+PRJ-00018,44356.73,279,4,8,E-commerce,Sí,No,1292.2,2024-01-01
+PRJ-00019,37395.88,50,7,3,Sistema SaaS,No,Sí,947.2,2024-01-01
+PRJ-00020,26842.19,225,1,4,E-commerce,No,Sí,733.5,2024-01-01
+PRJ-00021,50888.97,207,8,6,Portal Web,Sí,No,1377.5,2024-01-01
+PRJ-00022,15462.04,36,5,7,Portal Web,Sí,Sí,687.1,2024-01-01
+PRJ-00023,26910.85,99,12,9,E-commerce,No,No,1083.3,2024-01-01
+PRJ-00024,32477.14,156,8,1,E-commerce,Sí,No,781.7,2024-01-01
+PRJ-00025,39205.25,189,1,8,App Móvil,Sí,No,1163.1,2024-01-02
+PRJ-00026,63888.2,277,2,8,Portal Web,Sí,Sí,1681.3,2024-01-02
+PRJ-00027,19975.53,232,11,6,Portal Web,No,Sí,788.4,2024-01-02
+PRJ-00028,43567.58,177,7,4,App Móvil,No,No,1145.2,2024-01-02
+PRJ-00029,49431.09,172,0,3,Portal Web,Sí,No,1136.6,2024-01-02
+PRJ-00030,8483.78,228,14,3,E-commerce,Sí,Sí,440.6,2024-01-02
+PRJ-00031,50565.86,183,9,6,Sistema SaaS,Sí,Sí,1413.7,2024-01-02
+PRJ-00032,17789.31,171,14,8,Sistema SaaS,No,Sí,935.2,2024-01-02
+PRJ-00033,9878.87,342,14,7,Portal Web,Sí,No,678.4,2024-01-02
+PRJ-00034,76166.42,194,14,1,App Móvil,Sí,No,1732.0,2024-01-02
+PRJ-00035,77422.4,343,6,6,E-commerce,No,Sí,1885.1,2024-01-02
+PRJ-00036,65629.8,50,6,7,Sistema SaaS,Sí,Sí,1715.1,2024-01-02
+PRJ-00037,27846.03,111,12,7,E-commerce,No,Sí,1028.7,2024-01-02
+PRJ-00038,12325.41,98,0,9,Portal Web,No,No,611.7,2024-01-02
+PRJ-00039,56317.48,160,8,5,Portal Web,No,No,1425.7,2024-01-02
+PRJ-00040,38011.44,116,7,1,Sistema SaaS,Sí,Sí,901.9,2024-01-02
+PRJ-00041,14152.87,247,3,2,Portal Web,Sí,Sí,405.4,2024-01-02
+PRJ-00042,42138.27,334,9,4,App Móvil,No,No,1101.6,2024-01-02
+PRJ-00043,7579.14,190,10,5,Portal Web,Sí,No,534.1,2024-01-02
+PRJ-00044,73199.03,207,4,9,Portal Web,No,Sí,1897.0,2024-01-02
+PRJ-00045,24408.5,146,1,1,Portal Web,Sí,Sí,546.1,2024-01-02
+PRJ-00046,54689.17,225,12,3,E-commerce,No,Sí,1368.5,2024-01-02
+PRJ-00047,28378.33,356,8,5,E-commerce,No,No,861.6,2024-01-02
+PRJ-00048,44005.1,115,14,3,Sistema SaaS,Sí,Sí,1187.7,2024-01-02
+PRJ-00049,46003.27,318,11,4,Sistema SaaS,Sí,No,1241.9,2024-01-03
+PRJ-00050,18864.08,110,11,3,Sistema SaaS,Sí,No,632.6,2024-01-03
+PRJ-00051,77718.85,181,5,4,Portal Web,Sí,Sí,1786.0,2024-01-03
+PRJ-00052,63134.96,90,2,1,E-commerce,No,Sí,1346.7,2024-01-03
+PRJ-00053,75462.42,90,11,8,App Móvil,No,No,1951.9,2024-01-03
+PRJ-00054,72112.05,57,6,4,Portal Web,Sí,Sí,1673.1,2024-01-03
+PRJ-00055,49842.5,72,8,7,Portal Web,Sí,No,1413.2,2024-01-03
+PRJ-00056,74140.57,198,2,2,Portal Web,No,Sí,1583.6,2024-01-03
+PRJ-00057,11636.94,115,1,2,App Móvil,Sí,Sí,321.2,2024-01-03
+PRJ-00058,19698.71,206,6,6,Sistema SaaS,Sí,Sí,758.5,2024-01-03
+PRJ-00059,8392.05,46,6,2,App Móvil,Sí,Sí,314.0,2024-01-03
+PRJ-00060,29399.77,127,3,6,Sistema SaaS,Sí,No,943.5,2024-01-03
+PRJ-00061,34150.8,227,10,2,App Móvil,No,No,849.2,2024-01-03
+PRJ-00062,25351.18,127,8,4,E-commerce,No,No,727.7,2024-01-03
+PRJ-00063,67155.31,94,13,7,Portal Web,Sí,Sí,1836.1,2024-01-03
+PRJ-00064,31756.5,359,7,8,Portal Web,No,No,1054.5,2024-01-03
+PRJ-00065,26070.09,34,12,3,Portal Web,Sí,No,776.2,2024-01-03
+PRJ-00066,45702.21,31,12,9,Sistema SaaS,Sí,No,1487.7,2024-01-03
+PRJ-00067,15569.32,51,0,2,App Móvil,Sí,Sí,389.0,2024-01-03
+PRJ-00068,65164.77,141,0,8,E-commerce,No,No,1686.1,2024-01-03
+PRJ-00069,10591.3,86,4,8,App Móvil,No,Sí,604.6,2024-01-03
+PRJ-00070,79016.52,95,5,4,Portal Web,No,Sí,1829.4,2024-01-03
+PRJ-00071,62918.36,359,2,1,E-commerce,No,No,1314.6,2024-01-03
+PRJ-00072,19903.68,127,12,1,E-commerce,No,Sí,564.1,2024-01-03
+PRJ-00073,5414.16,173,8,2,Portal Web,Sí,No,337.5,2024-01-04
+PRJ-00074,66159.61,154,11,9,App Móvil,Sí,No,1888.1,2024-01-04
+PRJ-00075,58014.3,196,9,2,Portal Web,No,No,1340.1,2024-01-04
+PRJ-00076,59675.54,115,13,2,App Móvil,No,No,1435.1,2024-01-04
+PRJ-00077,62845.28,105,14,6,E-commerce,No,No,1731.8,2024-01-04
+PRJ-00078,10553.35,323,5,7,E-commerce,Sí,Sí,561.4,2024-01-04
+PRJ-00079,31884.93,88,3,7,Portal Web,No,No,965.3,2024-01-04
+PRJ-00080,13690.18,167,11,9,E-commerce,Sí,Sí,822.6,2024-01-04
+PRJ-00081,69732.76,128,6,6,Sistema SaaS,Sí,No,1793.4,2024-01-04
+PRJ-00082,51747.36,221,7,8,E-commerce,No,No,1480.3,2024-01-04
+PRJ-00083,29817.35,272,8,6,Sistema SaaS,Sí,No,988.6,2024-01-04
+PRJ-00084,9766.88,348,12,2,E-commerce,Sí,Sí,403.9,2024-01-04
+PRJ-00085,28323.67,78,10,1,Portal Web,No,Sí,740.5,2024-01-04
+PRJ-00086,29388.75,61,5,5,Portal Web,Sí,Sí,863.8,2024-01-04
+PRJ-00087,59720.46,306,14,9,Sistema SaaS,No,Sí,1814.1,2024-01-04
+PRJ-00088,52816.81,49,5,8,Portal Web,Sí,No,1516.3,2024-01-04
+PRJ-00089,71540.96,183,7,4,E-commerce,No,No,1751.8,2024-01-04
+PRJ-00090,40416.12,97,11,5,E-commerce,No,Sí,1147.9,2024-01-04
+PRJ-00091,13969.57,243,4,5,Portal Web,Sí,Sí,553.3,2024-01-04
+PRJ-00092,58493.36,172,13,6,E-commerce,No,Sí,1605.2,2024-01-04
+PRJ-00093,62058.88,261,2,3,App Móvil,Sí,No,1383.8,2024-01-04
+PRJ-00094,47095.79,242,11,5,App Móvil,Sí,Sí,1302.2,2024-01-04
+PRJ-00095,62822.54,108,2,2,E-commerce,No,Sí,1393.2,2024-01-04
+PRJ-00096,42034.67,243,12,1,Portal Web,Sí,No,1015.9,2024-01-04
+PRJ-00097,44204.96,145,5,1,Sistema SaaS,No,Sí,971.5,2024-01-05
+PRJ-00098,37065.58,121,1,7,Portal Web,Sí,No,1049.1,2024-01-05
+PRJ-00099,6906.43,299,5,2,Sistema SaaS,Sí,No,254.5,2024-01-05
+PRJ-00100,13091.86,197,12,4,Portal Web,No,No,607.2,2024-01-05
+PRJ-00101,7357.19,87,5,5,E-commerce,Sí,No,414.5,2024-01-05
+PRJ-00102,52730.78,313,7,7,App Móvil,Sí,No,1433.3,2024-01-05
+PRJ-00103,28576.7,55,6,2,Portal Web,Sí,Sí,746.8,2024-01-05
+PRJ-00104,43142.8,95,7,6,Sistema SaaS,Sí,Sí,1216.6,2024-01-05
+PRJ-00105,73067.49,277,13,1,App Móvil,Sí,No,1649.2,2024-01-05
+PRJ-00106,23696.92,283,8,7,Sistema SaaS,Sí,No,905.2,2024-01-05
+PRJ-00107,35778.72,73,5,9,E-commerce,Sí,Sí,1166.4,2024-01-05
+PRJ-00108,61666.34,126,13,5,App Móvil,Sí,Sí,1559.9,2024-01-05
+PRJ-00109,22159.86,71,2,5,Sistema SaaS,No,No,725.5,2024-01-05
+PRJ-00110,10773.49,256,9,4,Portal Web,Sí,Sí,482.8,2024-01-05
+PRJ-00111,26731.36,291,2,3,E-commerce,Sí,Sí,675.7,2024-01-05
+PRJ-00112,17091.6,196,10,9,E-commerce,No,No,849.0,2024-01-05
+PRJ-00113,74727.32,308,11,5,E-commerce,No,Sí,1853.0,2024-01-05
+PRJ-00114,65609.03,118,0,8,Portal Web,No,Sí,1665.3,2024-01-05
+PRJ-00115,52505.28,207,10,9,Portal Web,Sí,Sí,1599.8,2024-01-05
+PRJ-00116,70359.54,226,14,5,App Móvil,No,Sí,1841.3,2024-01-05
+PRJ-00117,65275.41,336,12,9,Portal Web,No,No,1837.5,2024-01-05
+PRJ-00118,18992.75,296,14,2,App Móvil,Sí,Sí,614.4,2024-01-05
+PRJ-00119,71941.92,297,4,9,E-commerce,Sí,No,1878.8,2024-01-05
+PRJ-00120,45450.67,103,13,4,App Móvil,No,Sí,1256.0,2024-01-05
+PRJ-00121,65558.01,37,3,6,Sistema SaaS,No,No,1614.3,2024-01-06
+PRJ-00122,72206.85,326,8,6,E-commerce,Sí,No,1797.6,2024-01-06
+PRJ-00123,28850.26,193,14,6,E-commerce,Sí,Sí,982.6,2024-01-06
+PRJ-00124,13253.89,114,8,2,App Móvil,Sí,No,395.9,2024-01-06
+PRJ-00125,22095.14,101,14,7,E-commerce,Sí,No,899.8,2024-01-06
+PRJ-00126,37033.08,84,13,6,Portal Web,Sí,No,1198.3,2024-01-06
+PRJ-00127,66351.11,76,4,1,Sistema SaaS,No,No,1430.9,2024-01-06
+PRJ-00128,69554.79,267,9,2,App Móvil,Sí,No,1584.3,2024-01-06
+PRJ-00129,5521.41,133,3,7,App Móvil,Sí,Sí,479.7,2024-01-06
+PRJ-00130,43306.05,239,6,1,E-commerce,Sí,No,950.9,2024-01-06
+PRJ-00131,36305.83,71,14,1,Portal Web,Sí,No,940.5,2024-01-06
+PRJ-00132,21658.09,345,5,1,E-commerce,Sí,Sí,493.5,2024-01-06
+PRJ-00133,13989.9,297,3,8,E-commerce,No,Sí,684.4,2024-01-06
+PRJ-00134,30321.14,292,12,4,App Móvil,Sí,No,936.9,2024-01-06
+PRJ-00135,75718.23,288,12,4,E-commerce,No,Sí,1845.4,2024-01-06
+PRJ-00136,29240.22,312,14,2,Sistema SaaS,Sí,Sí,872.0,2024-01-06
+PRJ-00137,43909.3,143,9,1,E-commerce,No,Sí,1050.6,2024-01-06
+PRJ-00138,57726.42,69,1,9,E-commerce,No,Sí,1541.3,2024-01-06
+PRJ-00139,32272.22,249,0,7,App Móvil,Sí,Sí,990.0,2024-01-06
+PRJ-00140,77883.66,158,3,4,E-commerce,Sí,Sí,1768.4,2024-01-06
+PRJ-00141,77183.55,37,3,6,Portal Web,Sí,No,1800.4,2024-01-06
+PRJ-00142,23883.67,130,12,2,App Móvil,Sí,No,709.0,2024-01-06
+PRJ-00143,42293.64,205,0,7,E-commerce,Sí,Sí,1177.1,2024-01-06
+PRJ-00144,27565.87,136,5,2,Sistema SaaS,No,Sí,676.0,2024-01-06
+PRJ-00145,26363.04,130,3,8,Sistema SaaS,Sí,No,956.6,2024-01-07
+PRJ-00146,7766.52,289,0,8,App Móvil,Sí,Sí,492.2,2024-01-07
+PRJ-00147,50717.33,275,0,1,App Móvil,No,No,1047.3,2024-01-07
+PRJ-00148,42700.93,304,14,8,E-commerce,Sí,Sí,1365.4,2024-01-07
+PRJ-00149,8860.91,61,12,2,Portal Web,No,No,368.5,2024-01-07
+PRJ-00150,25898.48,166,0,6,E-commerce,Sí,No,763.1,2024-01-07
+PRJ-00151,73119.94,41,7,1,Sistema SaaS,No,Sí,1573.6,2024-01-07
+PRJ-00152,22967.14,331,9,5,Portal Web,Sí,Sí,789.1,2024-01-07
+PRJ-00153,15867.12,45,7,7,Portal Web,No,Sí,641.3,2024-01-07
+PRJ-00154,41708.96,158,1,1,Portal Web,No,Sí,909.1,2024-01-07
+PRJ-00155,78923.78,92,10,2,E-commerce,Sí,No,1806.1,2024-01-07
+PRJ-00156,23154.15,138,12,7,Sistema SaaS,Sí,Sí,951.6,2024-01-07
+PRJ-00157,55410.17,50,6,6,App Móvil,Sí,No,1412.9,2024-01-07
+PRJ-00158,62121.47,187,13,3,E-commerce,No,Sí,1526.1,2024-01-07
+PRJ-00159,22822.82,298,7,2,App Móvil,No,No,654.0,2024-01-07
+PRJ-00160,59616.23,191,7,4,Portal Web,No,Sí,1482.0,2024-01-07
+PRJ-00161,32583.73,289,10,3,Portal Web,Sí,Sí,943.6,2024-01-07
+PRJ-00162,52422.94,131,9,7,E-commerce,Sí,No,1474.0,2024-01-07
+PRJ-00163,52514.73,252,14,8,Sistema SaaS,No,Sí,1576.9,2024-01-07
+PRJ-00164,45183.1,88,10,2,Portal Web,Sí,Sí,1074.7,2024-01-07
+PRJ-00165,11771.73,276,12,7,App Móvil,No,Sí,721.1,2024-01-07
+PRJ-00166,67647.69,157,6,8,App Móvil,Sí,Sí,1773.4,2024-01-07
+PRJ-00167,29058.5,312,4,6,E-commerce,Sí,Sí,900.0,2024-01-07
+PRJ-00168,18988.89,354,0,6,App Móvil,No,No,649.0,2024-01-07
+PRJ-00169,8058.14,54,11,1,Sistema SaaS,Sí,Sí,278.3,2024-01-08
+PRJ-00170,49316.97,160,8,4,Portal Web,Sí,No,1242.1,2024-01-08
+PRJ-00171,55817.33,225,12,1,App Móvil,Sí,Sí,1316.7,2024-01-08
+PRJ-00172,6244.09,310,6,4,App Móvil,Sí,Sí,375.7,2024-01-08
+PRJ-00173,43406.98,183,1,2,Portal Web,Sí,No,981.7,2024-01-08
+PRJ-00174,21987.18,162,5,5,E-commerce,No,No,744.3,2024-01-08
+PRJ-00175,53387.96,256,1,9,App Móvil,Sí,No,1464.2,2024-01-08
+PRJ-00176,18077.48,218,14,3,E-commerce,No,No,651.7,2024-01-08
+PRJ-00177,56820.33,294,0,8,E-commerce,Sí,No,1492.9,2024-01-08
+PRJ-00178,34005.15,163,13,3,App Móvil,Sí,Sí,990.4,2024-01-08
+PRJ-00179,75254.75,240,6,6,Sistema SaaS,No,No,1841.2,2024-01-08
+PRJ-00180,15314.07,89,12,4,E-commerce,No,No,585.8,2024-01-08
+PRJ-00181,30579.98,242,1,8,App Móvil,Sí,Sí,978.6,2024-01-08
+PRJ-00182,13510.51,245,12,6,E-commerce,Sí,Sí,702.5,2024-01-08
+PRJ-00183,74352.02,255,13,8,Portal Web,No,No,2037.0,2024-01-08
+PRJ-00184,70800.45,160,13,1,Sistema SaaS,No,No,1624.0,2024-01-08
+PRJ-00185,24345.62,105,1,6,Sistema SaaS,No,No,731.8,2024-01-08
+PRJ-00186,54498.8,315,12,1,Portal Web,No,Sí,1268.8,2024-01-08
+PRJ-00187,66291.67,306,10,1,Portal Web,Sí,No,1502.7,2024-01-08
+PRJ-00188,46640.06,185,4,8,E-commerce,Sí,Sí,1362.5,2024-01-08
+PRJ-00189,44723.79,277,13,7,Portal Web,Sí,Sí,1378.2,2024-01-08
+PRJ-00190,23138.92,247,4,3,Sistema SaaS,Sí,Sí,639.5,2024-01-08
+PRJ-00191,11982.71,219,6,6,Portal Web,Sí,Sí,603.1,2024-01-08
+PRJ-00192,72291.18,192,0,9,App Móvil,No,No,1834.8,2024-01-08
+PRJ-00193,72531.35,209,7,7,App Móvil,No,Sí,1854.2,2024-01-09
+PRJ-00194,52482.61,63,2,3,E-commerce,No,Sí,1227.4,2024-01-09
+PRJ-00195,30427.23,70,3,6,Sistema SaaS,Sí,No,929.0,2024-01-09
+PRJ-00196,31190.72,336,14,4,App Móvil,No,Sí,986.8,2024-01-09
+PRJ-00197,59446.68,343,8,3,Portal Web,Sí,No,1434.3,2024-01-09
+PRJ-00198,72283.27,104,3,9,App Móvil,Sí,Sí,1860.4,2024-01-09
+PRJ-00199,71531.48,308,9,2,App Móvil,Sí,No,1629.1,2024-01-09
+PRJ-00200,63490.67,205,11,1,E-commerce,No,Sí,1424.1,2024-01-09
+PRJ-00201,53152.37,179,14,2,Portal Web,Sí,Sí,1313.8,2024-01-09
+PRJ-00202,11310.5,302,4,7,Portal Web,Sí,No,560.0,2024-01-09
+PRJ-00203,17122.15,354,6,1,Portal Web,No,Sí,468.1,2024-01-09
+PRJ-00204,72391.56,137,3,6,E-commerce,Sí,Sí,1704.7,2024-01-09
+PRJ-00205,50482.18,168,13,7,Portal Web,No,No,1496.1,2024-01-09
+PRJ-00206,5689.78,300,0,9,Portal Web,Sí,Sí,519.2,2024-01-09
+PRJ-00207,12610.37,318,8,8,App Móvil,No,Sí,755.8,2024-01-09
+PRJ-00208,54762.63,241,3,6,App Móvil,Sí,No,1396.1,2024-01-09
+PRJ-00209,5379.62,301,8,3,Portal Web,Sí,No,333.5,2024-01-09
+PRJ-00210,17060.6,95,5,8,Sistema SaaS,No,No,778.3,2024-01-09
+PRJ-00211,46155.03,277,14,7,Sistema SaaS,Sí,No,1402.4,2024-01-09
+PRJ-00212,56892.14,185,0,3,Portal Web,No,No,1279.7,2024-01-09
+PRJ-00213,53897.09,76,11,9,Sistema SaaS,Sí,Sí,1639.8,2024-01-09
+PRJ-00214,21820.2,230,2,2,E-commerce,No,No,543.7,2024-01-09
+PRJ-00215,58413.44,177,10,3,App Móvil,Sí,Sí,1453.2,2024-01-09
+PRJ-00216,22793.68,153,1,2,E-commerce,Sí,No,515.9,2024-01-09
+PRJ-00217,29404.98,30,8,1,App Móvil,Sí,Sí,769.2,2024-01-10
+PRJ-00218,60986.86,276,14,4,Sistema SaaS,No,Sí,1523.0,2024-01-10
+PRJ-00219,53722.47,157,11,5,Sistema SaaS,No,No,1465.3,2024-01-10
+PRJ-00220,68691.76,220,0,6,Portal Web,No,Sí,1597.2,2024-01-10
+PRJ-00221,54320.97,96,12,5,Sistema SaaS,No,Sí,1504.9,2024-01-10
+PRJ-00222,47623.15,33,13,1,Sistema SaaS,No,No,1157.5,2024-01-10
+PRJ-00223,12025.61,332,8,3,Portal Web,Sí,No,447.9,2024-01-10
+PRJ-00224,32578.69,323,8,1,Portal Web,Sí,No,839.2,2024-01-10
+PRJ-00225,24890.18,172,7,5,App Móvil,Sí,No,779.6,2024-01-10
+PRJ-00226,23299.22,220,7,5,Sistema SaaS,Sí,Sí,769.3,2024-01-10
+PRJ-00227,77975.79,50,10,6,App Móvil,Sí,Sí,2014.6,2024-01-10
+PRJ-00228,34482.33,256,13,8,App Móvil,No,Sí,1215.5,2024-01-10
+PRJ-00229,71903.49,342,11,1,E-commerce,Sí,Sí,1564.4,2024-01-10
+PRJ-00230,52335.4,146,0,4,Sistema SaaS,No,Sí,1219.9,2024-01-10
+PRJ-00231,64610.85,331,10,1,Sistema SaaS,Sí,Sí,1448.2,2024-01-10
+PRJ-00232,42697.78,171,7,9,E-commerce,No,No,1347.7,2024-01-10
+PRJ-00233,48267.79,68,9,7,App Móvil,No,Sí,1387.2,2024-01-10
+PRJ-00234,41938.83,281,13,7,Sistema SaaS,No,Sí,1323.4,2024-01-10
+PRJ-00235,19643.22,362,2,5,App Móvil,Sí,Sí,603.7,2024-01-10
+PRJ-00236,59183.91,236,10,7,E-commerce,Sí,No,1605.0,2024-01-10
+PRJ-00237,26057.93,239,6,2,Portal Web,Sí,No,691.0,2024-01-10
+PRJ-00238,6823.7,144,10,4,App Móvil,Sí,No,417.4,2024-01-10
+PRJ-00239,53410.42,254,14,7,Sistema SaaS,No,No,1578.6,2024-01-10
+PRJ-00240,18283.3,163,0,3,Portal Web,No,Sí,482.1,2024-01-10
+PRJ-00241,75534.39,280,0,2,App Móvil,No,Sí,1604.3,2024-01-11
+PRJ-00242,76544.64,248,9,2,App Móvil,No,Sí,1726.3,2024-01-11
+PRJ-00243,73614.83,120,12,1,Portal Web,Sí,No,1635.9,2024-01-11
+PRJ-00244,32761.9,75,4,5,Portal Web,No,Sí,929.8,2024-01-11
+PRJ-00245,6159.25,67,4,6,Portal Web,Sí,Sí,408.4,2024-01-11
+PRJ-00246,74623.89,171,7,6,Sistema SaaS,No,Sí,1835.4,2024-01-11
+PRJ-00247,37113.81,129,6,9,Sistema SaaS,No,No,1220.0,2024-01-11
+PRJ-00248,77499.11,357,7,4,App Móvil,No,No,1778.3,2024-01-11
+PRJ-00249,77271.5,219,5,1,App Móvil,Sí,No,1666.0,2024-01-11
+PRJ-00250,68975.71,64,5,6,E-commerce,Sí,Sí,1716.0,2024-01-11
+PRJ-00251,27083.67,176,1,5,Sistema SaaS,No,Sí,792.0,2024-01-11
+PRJ-00252,33882.33,59,5,6,App Móvil,No,Sí,1007.7,2024-01-11
+PRJ-00253,68835.25,363,4,3,Portal Web,No,Sí,1530.9,2024-01-11
+PRJ-00254,28769.15,113,12,2,Portal Web,Sí,No,809.4,2024-01-11
+PRJ-00255,17711.96,310,2,6,Sistema SaaS,Sí,Sí,663.8,2024-01-11
+PRJ-00256,46760.09,299,5,1,Portal Web,Sí,No,1010.4,2024-01-11
+PRJ-00257,75211.61,183,7,7,E-commerce,No,Sí,1875.5,2024-01-11
+PRJ-00258,57202.23,131,8,7,App Móvil,Sí,No,1548.9,2024-01-11
+PRJ-00259,47754.59,244,0,7,App Móvil,No,Sí,1260.8,2024-01-11
+PRJ-00260,12288.24,179,2,1,App Móvil,Sí,Sí,314.4,2024-01-11
+PRJ-00261,51125.54,112,2,4,Sistema SaaS,No,No,1219.2,2024-01-11
+PRJ-00262,79254.04,139,10,7,Portal Web,No,No,2024.1,2024-01-11
+PRJ-00263,15506.3,304,7,9,E-commerce,Sí,Sí,829.7,2024-01-11
+PRJ-00264,43874.72,230,0,5,Sistema SaaS,No,Sí,1116.0,2024-01-11
+PRJ-00265,70802.98,313,4,2,App Móvil,No,Sí,1555.5,2024-01-12
+PRJ-00266,60557.65,202,2,7,E-commerce,No,No,1522.5,2024-01-12
+PRJ-00267,57276.18,356,1,1,App Móvil,Sí,Sí,1184.5,2024-01-12
+PRJ-00268,57686.31,235,14,7,App Móvil,No,No,1657.8,2024-01-12
+PRJ-00269,31961.84,92,7,6,Sistema SaaS,Sí,Sí,981.5,2024-01-12
+PRJ-00270,27019.39,102,2,7,App Móvil,Sí,Sí,855.2,2024-01-12
+PRJ-00271,65702.09,280,6,3,E-commerce,No,Sí,1573.5,2024-01-12
+PRJ-00272,65758.5,153,11,3,App Móvil,Sí,Sí,1620.3,2024-01-12
+PRJ-00273,70030.42,150,10,7,Portal Web,No,No,1832.5,2024-01-12
+PRJ-00274,73493.04,304,0,2,App Móvil,Sí,No,1532.8,2024-01-12
+PRJ-00275,43350.68,149,5,1,Sistema SaaS,No,Sí,990.1,2024-01-12
+PRJ-00276,42613.72,346,2,9,E-commerce,Sí,Sí,1269.0,2024-01-12
+PRJ-00277,64872.14,193,7,9,Sistema SaaS,No,Sí,1808.7,2024-01-12
+PRJ-00278,53747.29,315,5,7,Portal Web,No,No,1437.7,2024-01-12
+PRJ-00279,57647.52,294,11,7,App Móvil,No,Sí,1641.1,2024-01-12
+PRJ-00280,64684.45,349,1,3,Sistema SaaS,No,No,1427.7,2024-01-12
+PRJ-00281,71750.4,190,5,2,Sistema SaaS,Sí,No,1644.1,2024-01-12
+PRJ-00282,30349.64,337,6,7,Sistema SaaS,Sí,No,998.9,2024-01-12
+PRJ-00283,33168.72,118,4,9,Sistema SaaS,No,No,1151.0,2024-01-12
+PRJ-00284,12048.65,171,2,1,Portal Web,Sí,Sí,296.5,2024-01-12
+PRJ-00285,48371.01,232,3,4,Portal Web,No,Sí,1150.6,2024-01-12
+PRJ-00286,7695.67,338,3,6,App Móvil,No,No,402.3,2024-01-12
+PRJ-00287,39919.85,256,5,7,App Móvil,Sí,Sí,1205.3,2024-01-12
+PRJ-00288,45698.35,363,9,7,E-commerce,Sí,Sí,1338.7,2024-01-12
+PRJ-00289,26490.59,251,0,2,Portal Web,No,Sí,588.6,2024-01-13
+PRJ-00290,49312.49,70,10,4,Sistema SaaS,Sí,No,1319.2,2024-01-13
+PRJ-00291,7287.52,225,3,5,Sistema SaaS,No,Sí,435.7,2024-01-13
+PRJ-00292,7801.11,97,9,1,E-commerce,Sí,Sí,343.6,2024-01-13
+PRJ-00293,66695.04,293,12,1,Sistema SaaS,Sí,Sí,1489.4,2024-01-13
+PRJ-00294,32014.3,31,3,3,E-commerce,Sí,Sí,842.4,2024-01-13
+PRJ-00295,14529.54,154,9,3,App Móvil,Sí,Sí,543.2,2024-01-13
+PRJ-00296,44168.24,139,0,8,Portal Web,Sí,Sí,1279.1,2024-01-13
+PRJ-00297,62749.52,115,8,9,E-commerce,No,Sí,1769.6,2024-01-13
+PRJ-00298,21186.58,149,3,1,Sistema SaaS,Sí,Sí,509.1,2024-01-13
+PRJ-00299,51716.79,156,6,2,E-commerce,Sí,Sí,1227.8,2024-01-13
+PRJ-00300,11401.06,284,11,2,App Móvil,No,Sí,471.3,2024-01-13
+PRJ-00301,8876.13,212,13,4,Sistema SaaS,No,No,540.6,2024-01-13
+PRJ-00302,44851.6,45,2,2,App Móvil,No,Sí,998.8,2024-01-13
+PRJ-00303,45547.63,91,9,7,App Móvil,Sí,No,1329.6,2024-01-13
+PRJ-00304,52807.24,187,11,9,E-commerce,Sí,Sí,1549.8,2024-01-13
+PRJ-00305,59456.85,297,2,7,App Móvil,No,No,1514.1,2024-01-13
+PRJ-00306,78188.91,64,13,6,Sistema SaaS,No,No,2009.5,2024-01-13
+PRJ-00307,43722.53,296,7,1,App Móvil,No,Sí,1017.6,2024-01-13
+PRJ-00308,29221.74,93,7,9,App Móvil,No,No,1048.9,2024-01-13
+PRJ-00309,64638.96,79,10,5,E-commerce,Sí,No,1669.8,2024-01-13
+PRJ-00310,25312.42,284,11,5,App Móvil,Sí,No,937.6,2024-01-13
+PRJ-00311,37922.86,178,0,6,Portal Web,Sí,Sí,1005.9,2024-01-13
+PRJ-00312,10884.23,354,9,9,E-commerce,Sí,No,725.5,2024-01-13
+PRJ-00313,6901.31,333,1,8,E-commerce,Sí,No,494.5,2024-01-14
+PRJ-00314,77198.63,305,7,8,Sistema SaaS,No,Sí,1985.6,2024-01-14
+PRJ-00315,67698.51,201,0,8,Sistema SaaS,Sí,No,1720.8,2024-01-14
+PRJ-00316,57198.07,230,14,1,Sistema SaaS,No,No,1339.5,2024-01-14
+PRJ-00317,35671.47,353,11,1,Sistema SaaS,No,No,883.5,2024-01-14
+PRJ-00318,17997.07,64,7,8,Portal Web,No,Sí,806.1,2024-01-14
+PRJ-00319,16732.78,245,7,5,E-commerce,Sí,No,655.4,2024-01-14
+PRJ-00320,23768.22,94,1,9,App Móvil,No,Sí,929.0,2024-01-14
+PRJ-00321,46192.0,37,3,2,Sistema SaaS,Sí,No,1049.5,2024-01-14
+PRJ-00322,58594.69,330,5,9,Sistema SaaS,No,No,1622.8,2024-01-14
+PRJ-00323,54514.8,361,11,8,Sistema SaaS,Sí,No,1599.7,2024-01-14
+PRJ-00324,25995.04,105,10,9,App Móvil,No,No,1054.9,2024-01-14
+PRJ-00325,76614.9,203,8,4,Sistema SaaS,Sí,Sí,1803.5,2024-01-14
+PRJ-00326,60342.27,76,14,1,App Móvil,No,No,1432.0,2024-01-14
+PRJ-00327,46576.55,44,7,1,E-commerce,No,Sí,1051.0,2024-01-14
+PRJ-00328,50879.06,176,11,5,E-commerce,No,No,1361.3,2024-01-14
+PRJ-00329,36470.0,55,14,2,E-commerce,No,Sí,939.9,2024-01-14
+PRJ-00330,23579.82,337,7,8,Portal Web,Sí,No,907.4,2024-01-14
+PRJ-00331,31697.95,122,6,5,App Móvil,Sí,No,886.9,2024-01-14
+PRJ-00332,61838.46,261,13,5,Sistema SaaS,Sí,Sí,1601.8,2024-01-14
+PRJ-00333,6079.51,50,12,2,Sistema SaaS,No,Sí,370.1,2024-01-14
+PRJ-00334,13705.45,336,8,7,Sistema SaaS,No,Sí,647.5,2024-01-14
+PRJ-00335,8450.2,67,14,8,Sistema SaaS,No,Sí,692.3,2024-01-14
+PRJ-00336,8054.66,305,1,1,Portal Web,No,No,219.7,2024-01-14
+PRJ-00337,69159.54,186,2,2,Sistema SaaS,No,Sí,1491.2,2024-01-15
+PRJ-00338,57774.34,208,9,4,Portal Web,No,Sí,1431.5,2024-01-15
+PRJ-00339,40563.04,161,7,5,App Móvil,Sí,Sí,1128.4,2024-01-15
+PRJ-00340,12337.56,340,13,2,E-commerce,Sí,No,504.4,2024-01-15
+PRJ-00341,41871.19,57,5,1,Sistema SaaS,Sí,No,942.5,2024-01-15
+PRJ-00342,40510.38,289,9,9,E-commerce,Sí,No,1312.6,2024-01-15
+PRJ-00343,17990.14,105,8,1,App Móvil,Sí,No,522.4,2024-01-15
+PRJ-00344,37538.87,96,9,4,App Móvil,Sí,Sí,1006.0,2024-01-15
+PRJ-00345,34887.86,223,3,2,Sistema SaaS,Sí,No,840.9,2024-01-15
+PRJ-00346,51188.76,191,7,4,App Móvil,Sí,Sí,1298.3,2024-01-15
+PRJ-00347,52632.02,286,9,8,E-commerce,No,No,1525.6,2024-01-15
+PRJ-00348,8397.8,101,2,8,Sistema SaaS,No,Sí,551.7,2024-01-15
+PRJ-00349,33095.95,116,2,9,Portal Web,No,Sí,1043.7,2024-01-15
+PRJ-00350,51939.49,291,7,5,Sistema SaaS,No,Sí,1382.5,2024-01-15
+PRJ-00351,42735.22,243,4,7,E-commerce,No,Sí,1238.7,2024-01-15
+PRJ-00352,69236.74,182,2,3,Sistema SaaS,No,Sí,1519.7,2024-01-15
+PRJ-00353,54402.02,239,9,4,Sistema SaaS,No,No,1395.0,2024-01-15
+PRJ-00354,17220.08,90,10,9,E-commerce,Sí,Sí,874.1,2024-01-15
+PRJ-00355,10292.66,297,0,1,Sistema SaaS,Sí,Sí,236.3,2024-01-15
+PRJ-00356,53181.45,291,14,2,Sistema SaaS,No,Sí,1351.4,2024-01-15
+PRJ-00357,6988.35,247,2,5,E-commerce,Sí,Sí,378.0,2024-01-15
+PRJ-00358,48933.17,312,11,3,App Móvil,Sí,No,1279.6,2024-01-15
+PRJ-00359,75517.27,165,8,2,E-commerce,Sí,No,1709.7,2024-01-15
+PRJ-00360,48160.56,122,4,1,Sistema SaaS,Sí,Sí,1080.1,2024-01-15
+PRJ-00361,34112.74,138,11,3,Portal Web,Sí,Sí,963.7,2024-01-16
+PRJ-00362,53246.62,270,9,1,Portal Web,No,Sí,1231.3,2024-01-16
+PRJ-00363,39368.97,171,14,1,E-commerce,Sí,Sí,1005.8,2024-01-16
+PRJ-00364,45921.26,320,1,1,Portal Web,No,No,957.3,2024-01-16
+PRJ-00365,75609.86,266,6,8,Sistema SaaS,No,No,1945.8,2024-01-16
+PRJ-00366,33957.7,341,14,3,Sistema SaaS,No,Sí,1005.1,2024-01-16
+PRJ-00367,77089.29,206,1,1,E-commerce,Sí,Sí,1616.8,2024-01-16
+PRJ-00368,72901.3,170,3,7,Sistema SaaS,No,Sí,1821.6,2024-01-16
+PRJ-00369,19684.34,218,11,3,App Móvil,No,Sí,608.3,2024-01-16
+PRJ-00370,10202.1,78,6,8,Sistema SaaS,No,Sí,630.7,2024-01-16
+PRJ-00371,12558.35,331,3,4,E-commerce,No,No,459.2,2024-01-16
+PRJ-00372,6366.64,219,6,4,App Móvil,Sí,No,351.8,2024-01-16
+PRJ-00373,12083.22,165,6,5,App Móvil,No,Sí,561.3,2024-01-16
+PRJ-00374,56225.51,72,0,6,Portal Web,No,No,1343.9,2024-01-16
+PRJ-00375,10339.15,119,5,7,Sistema SaaS,No,No,602.7,2024-01-16
+PRJ-00376,28923.17,324,8,4,E-commerce,No,No,887.7,2024-01-16
+PRJ-00377,68365.65,274,1,8,Portal Web,Sí,Sí,1734.1,2024-01-16
+PRJ-00378,6745.4,221,13,6,Portal Web,No,No,559.0,2024-01-16
+PRJ-00379,66085.14,347,2,1,Sistema SaaS,No,No,1414.9,2024-01-16
+PRJ-00380,26139.11,135,9,1,Sistema SaaS,No,Sí,656.7,2024-01-16
+PRJ-00381,13862.36,339,4,9,E-commerce,No,No,746.8,2024-01-16
+PRJ-00382,57255.29,262,8,6,Portal Web,No,Sí,1488.2,2024-01-16
+PRJ-00383,52170.71,294,3,8,E-commerce,No,No,1409.0,2024-01-16
+PRJ-00384,70810.4,66,0,7,Portal Web,Sí,Sí,1738.6,2024-01-16
+PRJ-00385,60130.33,334,3,6,Portal Web,No,Sí,1507.9,2024-01-17
+PRJ-00386,65261.07,70,5,4,Portal Web,Sí,No,1502.2,2024-01-17
+PRJ-00387,26152.59,46,4,7,Sistema SaaS,Sí,No,921.4,2024-01-17
+PRJ-00388,18307.97,306,13,9,Portal Web,No,Sí,916.8,2024-01-17
+PRJ-00389,61296.11,336,12,7,Portal Web,Sí,Sí,1697.7,2024-01-17
+PRJ-00390,65512.61,88,0,1,Portal Web,No,No,1395.4,2024-01-17
+PRJ-00391,79287.89,212,3,9,App Móvil,Sí,No,2032.9,2024-01-17
+PRJ-00392,35946.33,70,5,4,Sistema SaaS,No,No,990.8,2024-01-17
+PRJ-00393,32901.36,68,12,3,App Móvil,Sí,No,915.5,2024-01-17
+PRJ-00394,63230.97,221,14,4,Sistema SaaS,Sí,Sí,1648.1,2024-01-17
+PRJ-00395,30560.27,296,9,4,E-commerce,No,Sí,878.6,2024-01-17
+PRJ-00396,74806.8,176,9,2,App Móvil,Sí,Sí,1679.9,2024-01-17
+PRJ-00397,69380.96,362,13,1,E-commerce,Sí,No,1552.3,2024-01-17
+PRJ-00398,37174.55,156,3,1,Portal Web,Sí,No,831.2,2024-01-17
+PRJ-00399,61315.33,75,14,8,E-commerce,Sí,Sí,1770.1,2024-01-17
+PRJ-00400,61590.72,74,13,2,E-commerce,Sí,Sí,1497.0,2024-01-17
+PRJ-00401,12734.29,30,8,5,E-commerce,No,Sí,539.9,2024-01-17
+PRJ-00402,72691.47,197,4,4,E-commerce,Sí,Sí,1691.2,2024-01-17
+PRJ-00403,42893.93,137,7,8,Sistema SaaS,Sí,Sí,1312.2,2024-01-17
+PRJ-00404,66984.31,48,8,2,App Móvil,No,Sí,1541.1,2024-01-17
+PRJ-00405,29003.72,361,9,9,Sistema SaaS,No,No,1073.8,2024-01-17
+PRJ-00406,72164.24,101,4,7,Sistema SaaS,No,Sí,1743.7,2024-01-17
+PRJ-00407,34190.13,138,5,7,Sistema SaaS,Sí,Sí,1076.5,2024-01-17
+PRJ-00408,5812.82,297,0,1,E-commerce,Sí,Sí,157.6,2024-01-17
+PRJ-00409,72903.65,269,10,2,Sistema SaaS,Sí,Sí,1675.1,2024-01-18
+PRJ-00410,11846.5,330,11,4,App Móvil,Sí,Sí,546.6,2024-01-18
+PRJ-00411,28948.52,119,14,4,Sistema SaaS,No,Sí,932.8,2024-01-18
+PRJ-00412,76254.65,132,6,3,Portal Web,No,Sí,1750.5,2024-01-18
+PRJ-00413,76295.54,279,3,7,E-commerce,Sí,No,1830.5,2024-01-18
+PRJ-00414,48007.84,37,10,8,Portal Web,Sí,Sí,1468.7,2024-01-18
+PRJ-00415,52387.79,182,1,2,App Móvil,Sí,No,1145.2,2024-01-18
+PRJ-00416,38633.41,203,4,4,App Móvil,Sí,No,1041.3,2024-01-18
+PRJ-00417,26990.81,187,11,3,App Móvil,No,No,795.3,2024-01-18
+PRJ-00418,29649.84,244,2,2,App Móvil,No,Sí,690.0,2024-01-18
+PRJ-00419,55438.88,206,5,6,Sistema SaaS,Sí,Sí,1435.1,2024-01-18
+PRJ-00420,61428.09,204,7,4,E-commerce,No,Sí,1505.1,2024-01-18
+PRJ-00421,64368.43,175,6,6,App Móvil,Sí,Sí,1622.5,2024-01-18
+PRJ-00422,64221.36,353,2,2,Portal Web,Sí,Sí,1412.7,2024-01-18
+PRJ-00423,11840.46,190,7,4,App Móvil,No,Sí,491.1,2024-01-18
+PRJ-00424,42081.52,156,1,6,E-commerce,Sí,Sí,1124.5,2024-01-18
+PRJ-00425,9316.91,111,9,5,Portal Web,No,Sí,575.3,2024-01-18
+PRJ-00426,46214.67,176,8,3,Portal Web,Sí,Sí,1164.2,2024-01-18
+PRJ-00427,38114.79,268,3,8,Portal Web,No,Sí,1169.2,2024-01-18
+PRJ-00428,71577.81,113,0,7,Sistema SaaS,Sí,No,1709.7,2024-01-18
+PRJ-00429,31318.63,142,7,3,App Móvil,No,Sí,879.2,2024-01-18
+PRJ-00430,13780.03,254,6,6,Sistema SaaS,Sí,Sí,644.3,2024-01-18
+PRJ-00431,15724.38,361,10,4,Portal Web,Sí,Sí,596.6,2024-01-18
+PRJ-00432,62113.3,272,12,5,Sistema SaaS,No,No,1637.4,2024-01-18
+PRJ-00433,51366.35,172,4,5,Sistema SaaS,Sí,Sí,1308.6,2024-01-19
+PRJ-00434,12584.2,70,9,7,Sistema SaaS,No,Sí,675.8,2024-01-19
+PRJ-00435,11308.01,287,12,5,App Móvil,No,No,627.4,2024-01-19
+PRJ-00436,57572.68,314,4,3,Portal Web,Sí,Sí,1321.6,2024-01-19
+PRJ-00437,10457.23,134,6,5,Portal Web,Sí,No,488.1,2024-01-19
+PRJ-00438,66639.5,231,4,7,App Móvil,Sí,No,1701.0,2024-01-19
+PRJ-00439,57968.17,336,7,5,Sistema SaaS,Sí,No,1481.6,2024-01-19
+PRJ-00440,11101.16,360,10,5,Sistema SaaS,No,No,591.2,2024-01-19
+PRJ-00441,11362.83,295,12,9,E-commerce,Sí,Sí,772.5,2024-01-19
+PRJ-00442,78997.97,239,5,3,E-commerce,Sí,No,1753.7,2024-01-19
+PRJ-00443,33070.31,80,12,6,E-commerce,Sí,No,1138.6,2024-01-19
+PRJ-00444,32798.16,147,4,1,App Móvil,No,Sí,721.8,2024-01-19
+PRJ-00445,65959.97,230,8,5,Portal Web,Sí,Sí,1641.6,2024-01-19
+PRJ-00446,76043.64,68,10,8,E-commerce,No,Sí,2020.4,2024-01-19
+PRJ-00447,78950.08,57,1,5,Portal Web,Sí,No,1844.8,2024-01-19
+PRJ-00448,61503.36,288,0,9,Portal Web,No,Sí,1620.9,2024-01-19
+PRJ-00449,33219.47,113,7,6,Portal Web,Sí,No,971.5,2024-01-19
+PRJ-00450,11262.55,184,11,8,App Móvil,Sí,No,702.5,2024-01-19
+PRJ-00451,63286.02,146,2,8,App Móvil,No,Sí,1671.3,2024-01-19
+PRJ-00452,46880.32,31,13,3,App Móvil,Sí,Sí,1244.5,2024-01-19
+PRJ-00453,36816.65,122,10,7,App Móvil,Sí,Sí,1188.1,2024-01-19
+PRJ-00454,72976.58,195,11,7,E-commerce,Sí,Sí,1924.3,2024-01-19
+PRJ-00455,13339.81,325,11,6,Sistema SaaS,No,Sí,702.3,2024-01-19
+PRJ-00456,41946.88,287,11,7,Sistema SaaS,Sí,Sí,1266.5,2024-01-19
+PRJ-00457,5851.52,110,6,2,Sistema SaaS,No,No,249.1,2024-01-20
+PRJ-00458,40149.55,297,9,9,E-commerce,No,No,1325.3,2024-01-20
+PRJ-00459,9222.75,264,12,1,Sistema SaaS,No,Sí,347.2,2024-01-20
+PRJ-00460,13911.34,350,10,1,E-commerce,Sí,No,411.7,2024-01-20
+PRJ-00461,13814.47,340,7,3,E-commerce,No,No,525.9,2024-01-20
+PRJ-00462,53690.77,330,14,3,E-commerce,No,No,1383.1,2024-01-20
+PRJ-00463,60953.37,242,12,1,Sistema SaaS,Sí,No,1408.8,2024-01-20
+PRJ-00464,48752.66,91,12,7,Portal Web,No,No,1435.3,2024-01-20
+PRJ-00465,77162.94,78,5,4,Sistema SaaS,No,No,1780.6,2024-01-20
+PRJ-00466,33115.29,156,11,2,Sistema SaaS,Sí,Sí,914.7,2024-01-20
+PRJ-00467,26428.41,252,9,5,App Móvil,Sí,Sí,823.7,2024-01-20
+PRJ-00468,70144.93,308,13,6,E-commerce,No,Sí,1790.0,2024-01-20
+PRJ-00469,21769.69,323,8,9,Portal Web,Sí,No,913.0,2024-01-20
+PRJ-00470,77241.69,313,6,4,App Móvil,Sí,Sí,1804.1,2024-01-20
+PRJ-00471,5911.59,306,14,2,Portal Web,Sí,Sí,421.4,2024-01-20
+PRJ-00472,77740.91,136,9,5,Portal Web,No,Sí,1909.5,2024-01-20
+PRJ-00473,8236.99,175,4,3,E-commerce,No,No,362.6,2024-01-20
+PRJ-00474,71835.73,128,7,2,Sistema SaaS,Sí,Sí,1608.7,2024-01-20
+PRJ-00475,44577.58,102,14,1,E-commerce,No,No,1071.2,2024-01-20
+PRJ-00476,79472.36,151,1,2,E-commerce,Sí,Sí,1704.3,2024-01-20
+PRJ-00477,10534.74,59,6,6,App Móvil,Sí,Sí,603.3,2024-01-20
+PRJ-00478,46539.07,217,14,8,E-commerce,Sí,Sí,1452.8,2024-01-20
+PRJ-00479,77697.69,317,3,3,Sistema SaaS,Sí,No,1710.9,2024-01-20
+PRJ-00480,44232.34,224,8,9,Portal Web,Sí,No,1379.8,2024-01-20
+PRJ-00481,52204.9,185,11,9,E-commerce,No,No,1596.1,2024-01-21
+PRJ-00482,57181.15,201,0,2,Portal Web,No,No,1236.4,2024-01-21
+PRJ-00483,39090.58,364,6,8,E-commerce,No,No,1236.6,2024-01-21
+PRJ-00484,52066.86,70,5,5,Portal Web,No,Sí,1325.5,2024-01-21
+PRJ-00485,48823.57,92,7,4,E-commerce,Sí,Sí,1234.4,2024-01-21
+PRJ-00486,72586.85,52,4,5,App Móvil,Sí,No,1730.5,2024-01-21
+PRJ-00487,8408.48,104,14,4,Portal Web,No,No,502.7,2024-01-21
+PRJ-00488,26072.24,77,0,8,E-commerce,No,Sí,925.0,2024-01-21
+PRJ-00489,76280.86,189,0,4,E-commerce,Sí,No,1726.2,2024-01-21
+PRJ-00490,71769.78,342,8,6,App Móvil,Sí,Sí,1773.9,2024-01-21
+PRJ-00491,39174.26,147,14,2,App Móvil,Sí,No,1022.8,2024-01-21
+PRJ-00492,51509.94,129,9,5,App Móvil,No,Sí,1377.3,2024-01-21
+PRJ-00493,25803.59,196,5,6,Portal Web,Sí,No,850.7,2024-01-21
+PRJ-00494,19109.09,319,9,5,Portal Web,Sí,No,722.7,2024-01-21
+PRJ-00495,39777.38,185,4,2,App Móvil,No,Sí,928.7,2024-01-21
+PRJ-00496,31501.42,36,14,7,Sistema SaaS,No,Sí,1124.4,2024-01-21
+PRJ-00497,48774.21,225,0,4,Sistema SaaS,No,No,1151.3,2024-01-21
+PRJ-00498,10830.1,85,5,8,E-commerce,Sí,No,650.7,2024-01-21
+PRJ-00499,78079.61,350,5,7,Sistema SaaS,Sí,Sí,1955.9,2024-01-21
+PRJ-00500,78965.81,222,2,7,E-commerce,No,No,1958.5,2024-01-21
+PRJ-00501,57362.13,76,12,9,Portal Web,Sí,Sí,1683.4,2024-01-21
+PRJ-00502,45207.23,177,7,1,Portal Web,Sí,Sí,1032.9,2024-01-21
+PRJ-00503,28214.57,304,13,6,Sistema SaaS,Sí,No,959.8,2024-01-21
+PRJ-00504,66034.63,186,14,6,Portal Web,No,Sí,1804.3,2024-01-21
+PRJ-00505,56354.84,231,0,6,App Móvil,No,Sí,1347.7,2024-01-22
+PRJ-00506,17196.27,155,0,6,App Móvil,Sí,No,656.0,2024-01-22
+PRJ-00507,73319.54,334,5,7,Sistema SaaS,Sí,Sí,1843.7,2024-01-22
+PRJ-00508,66690.29,323,9,6,Sistema SaaS,Sí,Sí,1722.3,2024-01-22
+PRJ-00509,76234.99,93,12,1,E-commerce,Sí,Sí,1709.6,2024-01-22
+PRJ-00510,59428.96,354,0,3,Portal Web,No,Sí,1324.4,2024-01-22
+PRJ-00511,51006.14,205,5,2,E-commerce,No,No,1184.8,2024-01-22
+PRJ-00512,36368.23,145,0,6,E-commerce,Sí,Sí,956.4,2024-01-22
+PRJ-00513,74954.64,233,13,8,App Móvil,Sí,No,1998.8,2024-01-22
+PRJ-00514,69954.79,350,12,3,App Móvil,No,Sí,1657.0,2024-01-22
+PRJ-00515,8391.4,60,5,8,App Móvil,Sí,No,599.0,2024-01-22
+PRJ-00516,6977.52,142,2,8,App Móvil,No,Sí,523.7,2024-01-22
+PRJ-00517,33234.75,354,13,5,E-commerce,Sí,No,1061.1,2024-01-22
+PRJ-00518,65791.5,96,13,8,App Móvil,No,Sí,1835.9,2024-01-22
+PRJ-00519,79045.71,104,14,6,Portal Web,Sí,Sí,2045.4,2024-01-22
+PRJ-00520,16281.27,74,7,5,App Móvil,Sí,Sí,616.1,2024-01-22
+PRJ-00521,49559.8,289,12,9,App Móvil,No,Sí,1541.6,2024-01-22
+PRJ-00522,33566.81,183,14,7,App Móvil,No,No,1182.1,2024-01-22
+PRJ-00523,77743.58,184,5,8,Sistema SaaS,Sí,No,1997.6,2024-01-22
+PRJ-00524,68158.92,263,12,1,Portal Web,Sí,Sí,1515.2,2024-01-22
+PRJ-00525,67874.65,80,10,2,Portal Web,No,No,1542.0,2024-01-22
+PRJ-00526,40151.99,335,12,8,E-commerce,No,Sí,1305.0,2024-01-22
+PRJ-00527,36111.46,291,0,9,E-commerce,Sí,Sí,1121.4,2024-01-22
+PRJ-00528,25505.53,344,14,4,App Móvil,Sí,No,856.5,2024-01-22
+PRJ-00529,9228.16,154,4,9,Sistema SaaS,No,No,657.5,2024-01-23
+PRJ-00530,69854.18,274,7,4,E-commerce,No,No,1668.3,2024-01-23
+PRJ-00531,65967.58,59,2,9,E-commerce,No,Sí,1757.0,2024-01-23
+PRJ-00532,79978.83,151,11,7,App Móvil,No,Sí,2063.3,2024-01-23
+PRJ-00533,79747.76,154,5,2,App Móvil,No,No,1771.8,2024-01-23
+PRJ-00534,46657.38,66,4,9,E-commerce,Sí,Sí,1309.7,2024-01-23
+PRJ-00535,62674.06,199,5,4,E-commerce,Sí,No,1483.8,2024-01-23
+PRJ-00536,75857.43,153,9,8,Portal Web,No,No,1963.1,2024-01-23
+PRJ-00537,68723.55,64,0,7,Sistema SaaS,Sí,No,1701.4,2024-01-23
+PRJ-00538,23551.11,116,6,7,Portal Web,Sí,No,846.5,2024-01-23
+PRJ-00539,38790.81,163,8,8,E-commerce,No,No,1233.7,2024-01-23
+PRJ-00540,14686.96,225,1,1,Portal Web,Sí,No,372.0,2024-01-23
+PRJ-00541,76553.83,303,9,5,Portal Web,Sí,Sí,1849.0,2024-01-23
+PRJ-00542,50463.1,230,14,2,E-commerce,Sí,Sí,1276.3,2024-01-23
+PRJ-00543,22148.21,314,4,2,App Móvil,No,No,619.8,2024-01-23
+PRJ-00544,55377.55,106,9,1,E-commerce,No,No,1281.3,2024-01-23
+PRJ-00545,51359.62,88,3,5,App Móvil,Sí,No,1248.5,2024-01-23
+PRJ-00546,31862.2,155,5,2,E-commerce,Sí,Sí,780.0,2024-01-23
+PRJ-00547,13516.82,138,5,4,E-commerce,Sí,No,519.2,2024-01-23
+PRJ-00548,55367.99,253,10,3,E-commerce,Sí,No,1376.2,2024-01-23
+PRJ-00549,44023.08,307,1,3,Sistema SaaS,Sí,No,1021.2,2024-01-23
+PRJ-00550,62923.88,97,1,2,App Móvil,Sí,Sí,1344.5,2024-01-23
+PRJ-00551,44012.26,98,3,6,Sistema SaaS,No,No,1187.9,2024-01-23
+PRJ-00552,68913.61,194,0,2,E-commerce,Sí,Sí,1441.1,2024-01-23
+PRJ-00553,46393.01,334,8,8,Portal Web,Sí,Sí,1411.4,2024-01-24
+PRJ-00554,47070.35,191,13,8,Sistema SaaS,No,No,1504.1,2024-01-24
+PRJ-00555,70749.02,338,13,5,App Móvil,Sí,Sí,1805.8,2024-01-24
+PRJ-00556,35261.21,71,12,7,E-commerce,Sí,Sí,1158.4,2024-01-24
+PRJ-00557,15051.14,138,6,4,Sistema SaaS,Sí,Sí,576.5,2024-01-24
+PRJ-00558,7158.7,80,11,1,Portal Web,Sí,No,339.5,2024-01-24
+PRJ-00559,61635.29,279,6,2,Sistema SaaS,No,Sí,1387.8,2024-01-24
+PRJ-00560,51523.22,50,14,4,App Móvil,Sí,No,1377.3,2024-01-24
+PRJ-00561,57805.98,329,2,1,Sistema SaaS,No,No,1209.9,2024-01-24
+PRJ-00562,20972.31,168,14,8,Portal Web,Sí,No,951.6,2024-01-24
+PRJ-00563,15227.86,353,10,9,Portal Web,Sí,Sí,837.0,2024-01-24
+PRJ-00564,6090.85,121,14,4,App Móvil,No,No,450.3,2024-01-24
+PRJ-00565,31294.07,309,11,3,Portal Web,Sí,Sí,866.0,2024-01-24
+PRJ-00566,49243.83,154,2,2,E-commerce,No,Sí,1065.7,2024-01-24
+PRJ-00567,34418.3,140,0,5,Portal Web,No,Sí,923.8,2024-01-24
+PRJ-00568,37810.62,168,2,3,E-commerce,No,Sí,914.9,2024-01-24
+PRJ-00569,72811.9,302,2,7,Sistema SaaS,Sí,No,1793.1,2024-01-24
+PRJ-00570,31119.16,128,3,6,E-commerce,Sí,No,940.0,2024-01-24
+PRJ-00571,43549.21,281,3,1,E-commerce,Sí,Sí,929.5,2024-01-24
+PRJ-00572,63773.98,133,2,8,Sistema SaaS,Sí,No,1632.7,2024-01-24
+PRJ-00573,34740.71,243,9,2,Portal Web,No,No,898.8,2024-01-24
+PRJ-00574,51656.5,278,11,5,E-commerce,Sí,No,1346.9,2024-01-24
+PRJ-00575,69677.28,181,7,9,Portal Web,Sí,Sí,1876.1,2024-01-24
+PRJ-00576,76214.05,279,7,8,Sistema SaaS,No,No,2029.9,2024-01-24
+PRJ-00577,16030.51,304,12,2,App Móvil,No,Sí,520.9,2024-01-25
+PRJ-00578,74494.07,194,12,9,Portal Web,Sí,No,2028.1,2024-01-25
+PRJ-00579,41908.72,37,0,5,Portal Web,No,Sí,1010.1,2024-01-25
+PRJ-00580,24368.33,313,6,6,App Móvil,No,Sí,823.5,2024-01-25
+PRJ-00581,39435.18,34,10,3,App Móvil,No,Sí,1092.9,2024-01-25
+PRJ-00582,78502.44,174,1,3,Sistema SaaS,No,No,1728.7,2024-01-25
+PRJ-00583,41946.36,130,0,8,Portal Web,No,Sí,1183.6,2024-01-25
+PRJ-00584,29656.37,193,2,2,Portal Web,Sí,No,761.7,2024-01-25
+PRJ-00585,52505.06,176,3,2,Sistema SaaS,Sí,Sí,1132.5,2024-01-25
+PRJ-00586,23010.92,93,12,5,Portal Web,Sí,No,840.6,2024-01-25
+PRJ-00587,10689.75,120,5,6,E-commerce,Sí,Sí,545.4,2024-01-25
+PRJ-00588,14665.98,146,9,2,E-commerce,Sí,No,485.1,2024-01-25
+PRJ-00589,14603.44,296,13,5,E-commerce,Sí,Sí,693.2,2024-01-25
+PRJ-00590,16392.7,339,4,7,Portal Web,Sí,Sí,661.3,2024-01-25
+PRJ-00591,15412.04,202,14,8,E-commerce,No,Sí,844.1,2024-01-25
+PRJ-00592,53065.61,76,14,7,E-commerce,Sí,No,1549.0,2024-01-25
+PRJ-00593,18641.01,169,13,8,Sistema SaaS,Sí,Sí,867.0,2024-01-25
+PRJ-00594,30925.05,275,3,9,Sistema SaaS,Sí,Sí,1108.3,2024-01-25
+PRJ-00595,72259.13,178,7,5,App Móvil,No,Sí,1749.6,2024-01-25
+PRJ-00596,40547.12,275,10,5,App Móvil,Sí,Sí,1152.5,2024-01-25
+PRJ-00597,55066.83,34,11,4,App Móvil,Sí,No,1387.6,2024-01-25
+PRJ-00598,17923.99,213,13,9,App Móvil,No,Sí,915.4,2024-01-25
+PRJ-00599,19421.68,49,3,5,Sistema SaaS,Sí,Sí,707.8,2024-01-25
+PRJ-00600,8065.15,75,12,2,Sistema SaaS,Sí,No,389.0,2024-01-25
+PRJ-00601,17670.13,41,9,8,Sistema SaaS,No,No,834.4,2024-01-26
+PRJ-00602,25894.28,99,11,7,E-commerce,Sí,No,988.6,2024-01-26
+PRJ-00603,18275.79,46,12,8,E-commerce,No,Sí,865.0,2024-01-26
+PRJ-00604,11652.69,176,1,3,App Móvil,Sí,No,369.8,2024-01-26
+PRJ-00605,14047.69,183,14,4,E-commerce,Sí,No,640.8,2024-01-26
+PRJ-00606,39558.41,333,2,5,Portal Web,Sí,No,1034.1,2024-01-26
+PRJ-00607,20475.03,137,5,6,Sistema SaaS,No,Sí,731.2,2024-01-26
+PRJ-00608,32320.24,265,7,1,App Móvil,No,Sí,798.9,2024-01-26
+PRJ-00609,42756.3,337,7,4,App Móvil,No,Sí,1117.4,2024-01-26
+PRJ-00610,56779.61,99,14,5,Portal Web,Sí,No,1558.9,2024-01-26
+PRJ-00611,7948.41,212,10,7,E-commerce,Sí,Sí,591.7,2024-01-26
+PRJ-00612,64955.78,279,14,5,App Móvil,No,No,1659.2,2024-01-26
+PRJ-00613,52092.53,257,8,1,E-commerce,No,No,1097.2,2024-01-26
+PRJ-00614,11131.93,131,6,7,E-commerce,Sí,No,563.7,2024-01-26
+PRJ-00615,70518.4,104,12,8,Portal Web,Sí,Sí,1872.7,2024-01-26
+PRJ-00616,74065.43,245,1,7,App Móvil,Sí,No,1815.0,2024-01-26
+PRJ-00617,9580.85,232,7,4,E-commerce,Sí,No,431.3,2024-01-26
+PRJ-00618,25765.82,221,6,8,E-commerce,No,Sí,898.0,2024-01-26
+PRJ-00619,65465.1,278,7,5,Portal Web,Sí,No,1615.0,2024-01-26
+PRJ-00620,61119.48,271,11,9,Portal Web,Sí,No,1732.3,2024-01-26
+PRJ-00621,18839.08,208,2,5,E-commerce,Sí,No,637.4,2024-01-26
+PRJ-00622,20701.2,248,6,1,Portal Web,Sí,Sí,542.0,2024-01-26
+PRJ-00623,32785.41,111,9,9,E-commerce,Sí,No,1182.3,2024-01-26
+PRJ-00624,41339.22,121,12,5,App Móvil,Sí,Sí,1131.8,2024-01-26
+PRJ-00625,51369.11,204,8,6,Sistema SaaS,Sí,Sí,1394.5,2024-01-27
+PRJ-00626,32668.52,268,2,4,Portal Web,No,No,854.3,2024-01-27
+PRJ-00627,39690.1,289,13,6,Sistema SaaS,No,No,1189.3,2024-01-27
+PRJ-00628,61060.32,192,9,8,E-commerce,No,No,1635.8,2024-01-27
+PRJ-00629,7751.24,77,5,3,E-commerce,Sí,No,347.3,2024-01-27
+PRJ-00630,23932.77,358,1,5,E-commerce,No,Sí,742.3,2024-01-27
+PRJ-00631,58501.22,357,1,2,Sistema SaaS,Sí,Sí,1207.5,2024-01-27
+PRJ-00632,72140.51,145,4,2,E-commerce,Sí,No,1560.0,2024-01-27
+PRJ-00633,43375.81,254,4,7,Portal Web,Sí,Sí,1233.8,2024-01-27
+PRJ-00634,44908.51,357,12,6,App Móvil,Sí,No,1340.3,2024-01-27
+PRJ-00635,13037.9,176,6,4,App Móvil,No,No,504.9,2024-01-27
+PRJ-00636,38555.93,92,11,5,Portal Web,Sí,No,1176.4,2024-01-27
+PRJ-00637,44946.29,323,1,1,App Móvil,Sí,No,911.0,2024-01-27
+PRJ-00638,23185.29,352,10,7,Sistema SaaS,No,Sí,848.3,2024-01-27
+PRJ-00639,25193.24,354,13,8,E-commerce,No,Sí,1045.3,2024-01-27
+PRJ-00640,33296.31,42,12,9,E-commerce,No,No,1156.2,2024-01-27
+PRJ-00641,6505.34,218,6,8,E-commerce,Sí,No,573.6,2024-01-27
+PRJ-00642,29155.94,316,4,5,Sistema SaaS,No,Sí,848.8,2024-01-27
+PRJ-00643,20858.6,237,13,3,Sistema SaaS,Sí,Sí,685.6,2024-01-27
+PRJ-00644,29562.3,143,5,9,Sistema SaaS,Sí,Sí,1045.6,2024-01-27
+PRJ-00645,13982.16,51,7,6,Portal Web,No,No,601.4,2024-01-27
+PRJ-00646,71789.55,243,9,5,Sistema SaaS,No,Sí,1760.8,2024-01-27
+PRJ-00647,49519.43,200,12,3,App Móvil,No,No,1269.8,2024-01-27
+PRJ-00648,55932.67,352,13,6,Portal Web,Sí,No,1534.2,2024-01-27
+PRJ-00649,64187.84,83,11,3,Portal Web,Sí,Sí,1536.1,2024-01-28
+PRJ-00650,42383.16,327,3,6,Portal Web,Sí,No,1160.0,2024-01-28
+PRJ-00651,11519.02,349,12,4,Sistema SaaS,Sí,Sí,595.9,2024-01-28
+PRJ-00652,45282.99,155,6,2,Portal Web,Sí,No,1061.0,2024-01-28
+PRJ-00653,49013.08,306,5,8,Sistema SaaS,Sí,No,1420.8,2024-01-28
+PRJ-00654,60907.96,233,9,4,Sistema SaaS,No,No,1482.0,2024-01-28
+PRJ-00655,37374.47,223,1,9,Portal Web,Sí,No,1131.1,2024-01-28
+PRJ-00656,14568.52,198,14,7,E-commerce,No,No,785.7,2024-01-28
+PRJ-00657,26283.19,181,7,2,E-commerce,No,No,693.8,2024-01-28
+PRJ-00658,32231.17,64,9,4,Portal Web,No,Sí,960.9,2024-01-28
+PRJ-00659,53443.79,213,8,5,E-commerce,No,Sí,1423.0,2024-01-28
+PRJ-00660,47808.37,315,4,3,App Móvil,No,No,1160.1,2024-01-28
+PRJ-00661,31707.25,86,9,9,App Móvil,Sí,Sí,1167.6,2024-01-28
+PRJ-00662,78988.64,251,3,5,Sistema SaaS,Sí,No,1755.1,2024-01-28
+PRJ-00663,50433.11,332,5,2,E-commerce,Sí,Sí,1169.8,2024-01-28
+PRJ-00664,22792.01,192,7,3,App Móvil,Sí,Sí,696.4,2024-01-28
+PRJ-00665,12633.69,48,10,9,Portal Web,No,No,745.9,2024-01-28
+PRJ-00666,16464.44,293,14,7,E-commerce,No,Sí,812.5,2024-01-28
+PRJ-00667,23446.83,311,2,2,App Móvil,No,No,556.9,2024-01-28
+PRJ-00668,17051.1,142,9,9,App Móvil,Sí,Sí,879.7,2024-01-28
+PRJ-00669,18992.53,356,10,4,Portal Web,Sí,No,656.0,2024-01-28
+PRJ-00670,26382.14,59,10,9,Sistema SaaS,Sí,Sí,1032.8,2024-01-28
+PRJ-00671,18003.02,164,0,2,Portal Web,Sí,No,438.5,2024-01-28
+PRJ-00672,72257.41,96,3,4,Sistema SaaS,No,Sí,1717.4,2024-01-28
+PRJ-00673,11017.53,94,14,5,App Móvil,No,No,638.5,2024-01-29
+PRJ-00674,44338.35,321,3,2,Sistema SaaS,Sí,Sí,1053.1,2024-01-29
+PRJ-00675,35779.76,54,0,1,App Móvil,Sí,No,715.3,2024-01-29
+PRJ-00676,78678.4,66,8,7,App Móvil,No,Sí,1952.8,2024-01-29
+PRJ-00677,13402.92,30,2,1,E-commerce,No,No,370.5,2024-01-29
+PRJ-00678,34839.17,66,4,8,Sistema SaaS,No,Sí,1060.8,2024-01-29
+PRJ-00679,77710.28,170,5,3,Sistema SaaS,No,No,1732.4,2024-01-29
+PRJ-00680,69913.03,261,7,6,Sistema SaaS,Sí,No,1803.6,2024-01-29
+PRJ-00681,66280.41,165,5,7,Portal Web,No,No,1676.5,2024-01-29
+PRJ-00682,24342.71,217,2,1,E-commerce,No,No,510.3,2024-01-29
+PRJ-00683,17816.57,157,5,6,E-commerce,No,Sí,687.5,2024-01-29
+PRJ-00684,55148.24,230,0,7,E-commerce,No,Sí,1373.5,2024-01-29
+PRJ-00685,74703.2,156,3,6,Portal Web,Sí,Sí,1831.0,2024-01-29
+PRJ-00686,46757.22,286,5,4,Sistema SaaS,Sí,No,1152.8,2024-01-29
+PRJ-00687,47870.95,193,6,1,Sistema SaaS,Sí,No,1047.0,2024-01-29
+PRJ-00688,25998.43,64,10,9,Sistema SaaS,Sí,No,1045.7,2024-01-29
+PRJ-00689,62711.97,223,12,4,E-commerce,Sí,No,1568.1,2024-01-29
+PRJ-00690,19028.28,220,10,7,E-commerce,Sí,No,821.9,2024-01-29
+PRJ-00691,29275.94,133,9,7,App Móvil,No,Sí,1021.6,2024-01-29
+PRJ-00692,36907.73,52,2,2,Portal Web,No,Sí,846.7,2024-01-29
+PRJ-00693,43070.78,294,8,1,Portal Web,No,Sí,973.4,2024-01-29
+PRJ-00694,23180.73,319,11,8,E-commerce,No,No,973.9,2024-01-29
+PRJ-00695,13612.76,289,11,8,App Móvil,Sí,No,746.9,2024-01-29
+PRJ-00696,50796.5,104,6,7,Sistema SaaS,No,No,1381.2,2024-01-29
+PRJ-00697,26647.29,101,13,8,E-commerce,Sí,No,1052.5,2024-01-30
+PRJ-00698,48592.87,288,0,3,Portal Web,No,No,1058.6,2024-01-30
+PRJ-00699,16577.2,217,1,2,Portal Web,No,No,443.3,2024-01-30
+PRJ-00700,41085.51,202,0,7,Portal Web,No,No,1141.6,2024-01-30
+PRJ-00701,44944.21,319,10,8,Sistema SaaS,Sí,Sí,1406.9,2024-01-30
+PRJ-00702,8886.77,74,8,1,Portal Web,No,Sí,306.2,2024-01-30
+PRJ-00703,30245.32,90,8,9,Sistema SaaS,Sí,No,1139.0,2024-01-30
+PRJ-00704,15081.1,112,6,4,Sistema SaaS,Sí,No,566.9,2024-01-30
+PRJ-00705,9753.12,152,9,4,Sistema SaaS,No,No,482.4,2024-01-30
+PRJ-00706,79247.02,45,2,3,E-commerce,Sí,Sí,1789.4,2024-01-30
+PRJ-00707,29176.54,95,12,6,Sistema SaaS,Sí,Sí,999.9,2024-01-30
+PRJ-00708,65740.58,174,14,1,App Móvil,No,No,1514.9,2024-01-30
+PRJ-00709,24098.05,191,4,6,Portal Web,No,Sí,803.1,2024-01-30
+PRJ-00710,56112.7,263,14,2,E-commerce,No,Sí,1366.8,2024-01-30
+PRJ-00711,62017.09,173,3,9,Portal Web,No,Sí,1690.7,2024-01-30
+PRJ-00712,49672.91,217,6,2,Sistema SaaS,No,No,1188.5,2024-01-30
+PRJ-00713,40368.21,351,13,7,E-commerce,No,Sí,1278.2,2024-01-30
+PRJ-00714,35888.07,42,8,1,App Móvil,Sí,Sí,861.0,2024-01-30
+PRJ-00715,31165.12,213,11,7,Sistema SaaS,No,No,1090.2,2024-01-30
+PRJ-00716,74714.69,140,1,5,Portal Web,No,No,1761.0,2024-01-30
+PRJ-00717,67296.46,319,12,8,App Móvil,Sí,Sí,1838.6,2024-01-30
+PRJ-00718,77377.02,324,7,4,Sistema SaaS,No,No,1815.8,2024-01-30
+PRJ-00719,14322.29,244,14,7,App Móvil,Sí,Sí,789.5,2024-01-30
+PRJ-00720,59815.06,149,8,6,Sistema SaaS,No,Sí,1570.6,2024-01-30
+PRJ-00721,75375.53,84,9,5,E-commerce,No,No,1794.0,2024-01-31
+PRJ-00722,18592.48,56,13,4,Sistema SaaS,Sí,No,732.4,2024-01-31
+PRJ-00723,9987.22,147,9,7,E-commerce,No,Sí,635.8,2024-01-31
+PRJ-00724,60584.05,250,8,5,Sistema SaaS,Sí,No,1547.5,2024-01-31
+PRJ-00725,48085.48,260,13,5,Sistema SaaS,No,No,1312.9,2024-01-31
+PRJ-00726,68137.16,82,9,1,Portal Web,No,Sí,1519.6,2024-01-31
+PRJ-00727,15482.93,324,13,2,App Móvil,Sí,Sí,576.7,2024-01-31
+PRJ-00728,64645.05,350,6,5,App Móvil,No,Sí,1567.9,2024-01-31
+PRJ-00729,20122.05,262,14,3,App Móvil,No,Sí,689.9,2024-01-31
+PRJ-00730,17274.2,187,8,2,Sistema SaaS,Sí,Sí,553.0,2024-01-31
+PRJ-00731,17319.93,298,8,4,Sistema SaaS,No,Sí,605.7,2024-01-31
+PRJ-00732,66093.1,50,13,4,Sistema SaaS,Sí,No,1652.6,2024-01-31
+PRJ-00733,54889.79,82,2,4,E-commerce,No,No,1275.9,2024-01-31
+PRJ-00734,44229.91,304,3,4,E-commerce,Sí,Sí,1146.1,2024-01-31
+PRJ-00735,31912.29,342,1,3,Portal Web,No,No,798.3,2024-01-31
+PRJ-00736,70790.04,310,9,7,Sistema SaaS,Sí,No,1832.4,2024-01-31
+PRJ-00737,34433.38,243,2,9,App Móvil,Sí,Sí,1106.6,2024-01-31
+PRJ-00738,66244.96,60,10,5,App Móvil,No,No,1639.2,2024-01-31
+PRJ-00739,37935.12,212,10,4,Portal Web,No,No,1055.9,2024-01-31
+PRJ-00740,33270.83,52,4,2,App Móvil,Sí,Sí,820.0,2024-01-31
+PRJ-00741,39700.98,61,4,2,Portal Web,No,No,911.8,2024-01-31
+PRJ-00742,27603.34,103,5,5,Sistema SaaS,Sí,No,839.7,2024-01-31
+PRJ-00743,61070.7,39,12,7,App Móvil,No,Sí,1671.2,2024-01-31
+PRJ-00744,42704.03,83,6,9,Sistema SaaS,No,No,1365.6,2024-01-31
+PRJ-00745,22415.95,81,6,7,E-commerce,Sí,No,819.4,2024-02-01
+PRJ-00746,72468.09,177,0,5,App Móvil,Sí,No,1693.8,2024-02-01
+PRJ-00747,33791.84,189,13,6,E-commerce,No,Sí,1136.7,2024-02-01
+PRJ-00748,45766.46,43,1,3,App Móvil,No,Sí,1052.9,2024-02-01
+PRJ-00749,72985.41,207,11,5,Sistema SaaS,No,No,1802.0,2024-02-01
+PRJ-00750,51817.85,82,8,8,Portal Web,No,No,1515.4,2024-02-01
+PRJ-00751,13767.35,364,9,1,Sistema SaaS,No,Sí,383.8,2024-02-01
+PRJ-00752,75487.41,51,1,1,Sistema SaaS,Sí,Sí,1577.5,2024-02-01
+PRJ-00753,52078.1,59,5,7,Sistema SaaS,No,No,1377.2,2024-02-01
+PRJ-00754,30117.92,220,10,5,App Móvil,No,Sí,977.9,2024-02-01
+PRJ-00755,15445.41,289,10,5,Portal Web,Sí,No,647.6,2024-02-01
+PRJ-00756,64551.89,234,0,1,E-commerce,Sí,No,1333.8,2024-02-01
+PRJ-00757,51505.46,88,2,9,Sistema SaaS,Sí,Sí,1441.0,2024-02-01
+PRJ-00758,45009.58,293,1,1,App Móvil,No,Sí,917.6,2024-02-01
+PRJ-00759,72041.94,41,2,5,E-commerce,Sí,No,1721.5,2024-02-01
+PRJ-00760,64144.79,148,4,9,Sistema SaaS,Sí,No,1731.6,2024-02-01
+PRJ-00761,16375.62,319,10,4,E-commerce,Sí,Sí,707.7,2024-02-01
+PRJ-00762,28379.16,277,9,8,Sistema SaaS,Sí,No,1015.3,2024-02-01
+PRJ-00763,23636.69,156,5,6,E-commerce,No,Sí,786.6,2024-02-01
+PRJ-00764,60795.97,104,8,3,E-commerce,No,Sí,1424.5,2024-02-01
+PRJ-00765,7514.93,233,11,4,Portal Web,No,Sí,457.9,2024-02-01
+PRJ-00766,47741.73,78,10,2,Portal Web,Sí,Sí,1204.2,2024-02-01
+PRJ-00767,62184.4,108,14,1,Sistema SaaS,Sí,Sí,1481.9,2024-02-01
+PRJ-00768,70757.42,270,14,8,App Móvil,Sí,No,1905.5,2024-02-01
+PRJ-00769,30656.13,183,9,1,Portal Web,Sí,Sí,796.2,2024-02-02
+PRJ-00770,66594.3,303,11,1,E-commerce,Sí,Sí,1526.0,2024-02-02
+PRJ-00771,13297.38,125,11,4,Portal Web,Sí,Sí,590.0,2024-02-02
+PRJ-00772,68483.92,243,12,6,Portal Web,No,Sí,1766.6,2024-02-02
+PRJ-00773,14561.65,323,3,9,Sistema SaaS,No,Sí,717.0,2024-02-02
+PRJ-00774,34796.55,238,6,1,Portal Web,Sí,Sí,816.4,2024-02-02
+PRJ-00775,64797.15,117,5,7,Portal Web,No,Sí,1657.1,2024-02-02
+PRJ-00776,16243.81,335,1,5,E-commerce,Sí,No,594.7,2024-02-02
+PRJ-00777,22193.85,293,9,8,Portal Web,Sí,No,897.0,2024-02-02
+PRJ-00778,59168.94,354,10,7,E-commerce,No,No,1569.7,2024-02-02
+PRJ-00779,59002.74,349,10,4,Portal Web,Sí,No,1447.5,2024-02-02
+PRJ-00780,53086.07,186,10,4,Portal Web,No,Sí,1330.8,2024-02-02
+PRJ-00781,57046.13,185,14,6,App Móvil,Sí,No,1572.3,2024-02-02
+PRJ-00782,45704.33,168,14,6,Portal Web,Sí,Sí,1357.5,2024-02-02
+PRJ-00783,23884.93,150,7,9,E-commerce,No,No,968.0,2024-02-02
+PRJ-00784,30927.2,94,6,5,E-commerce,Sí,No,927.1,2024-02-02
+PRJ-00785,18619.83,136,14,8,Sistema SaaS,Sí,Sí,894.1,2024-02-02
+PRJ-00786,73133.79,176,14,5,Sistema SaaS,Sí,Sí,1850.3,2024-02-02
+PRJ-00787,48754.38,166,6,2,App Móvil,No,No,1180.9,2024-02-02
+PRJ-00788,35063.86,191,13,6,E-commerce,Sí,No,1157.4,2024-02-02
+PRJ-00789,39650.44,129,14,9,E-commerce,Sí,No,1376.2,2024-02-02
+PRJ-00790,76046.25,336,7,3,E-commerce,Sí,No,1762.8,2024-02-02
+PRJ-00791,16501.36,170,11,1,App Móvil,No,Sí,458.9,2024-02-02
+PRJ-00792,48967.24,112,11,1,E-commerce,No,No,1135.8,2024-02-02
+PRJ-00793,42941.65,206,12,3,Sistema SaaS,No,No,1127.0,2024-02-03
+PRJ-00794,50859.07,227,13,5,App Móvil,No,No,1377.9,2024-02-03
+PRJ-00795,6358.26,141,10,3,Sistema SaaS,No,No,343.5,2024-02-03
+PRJ-00796,70409.29,85,0,9,Sistema SaaS,Sí,No,1823.7,2024-02-03
+PRJ-00797,74908.87,208,14,8,App Móvil,No,Sí,2060.8,2024-02-03
+PRJ-00798,47384.99,215,12,3,Portal Web,No,Sí,1226.4,2024-02-03
+PRJ-00799,57248.81,247,0,9,Portal Web,Sí,Sí,1566.2,2024-02-03
+PRJ-00800,74187.45,345,7,6,Sistema SaaS,No,Sí,1836.7,2024-02-03
+PRJ-00801,58042.9,246,3,7,Portal Web,Sí,Sí,1500.8,2024-02-03
+PRJ-00802,16440.43,149,4,4,E-commerce,No,No,579.8,2024-02-03
+PRJ-00803,48221.63,204,7,4,App Móvil,Sí,Sí,1192.7,2024-02-03
+PRJ-00804,50503.63,52,4,2,Sistema SaaS,Sí,Sí,1101.5,2024-02-03
+PRJ-00805,36809.8,242,9,5,E-commerce,No,No,1033.1,2024-02-03
+PRJ-00806,60233.32,264,3,8,Portal Web,No,Sí,1622.0,2024-02-03
+PRJ-00807,75077.53,42,11,7,E-commerce,Sí,Sí,1950.7,2024-02-03
+PRJ-00808,74417.64,130,5,7,Portal Web,Sí,Sí,1872.8,2024-02-03
+PRJ-00809,38812.95,53,12,6,Sistema SaaS,Sí,Sí,1232.2,2024-02-03
+PRJ-00810,13492.85,40,14,3,E-commerce,Sí,No,543.8,2024-02-03
+PRJ-00811,78863.09,302,11,5,App Móvil,Sí,No,1964.4,2024-02-03
+PRJ-00812,67917.36,310,4,1,Sistema SaaS,Sí,Sí,1441.4,2024-02-03
+PRJ-00813,14349.7,123,13,7,E-commerce,Sí,No,744.3,2024-02-03
+PRJ-00814,74063.14,230,6,9,E-commerce,No,Sí,1960.3,2024-02-03
+PRJ-00815,70242.23,50,13,1,Portal Web,Sí,No,1611.8,2024-02-03
+PRJ-00816,43912.85,240,9,2,Sistema SaaS,No,No,1071.0,2024-02-03
+PRJ-00817,49345.66,169,6,3,Sistema SaaS,No,No,1209.2,2024-02-04
+PRJ-00818,34925.2,322,12,3,Sistema SaaS,Sí,No,979.6,2024-02-04
+PRJ-00819,9107.12,327,3,8,Sistema SaaS,Sí,No,573.2,2024-02-04
+PRJ-00820,30139.79,130,11,7,Portal Web,No,No,1039.4,2024-02-04
+PRJ-00821,65214.01,333,12,6,App Móvil,Sí,No,1724.2,2024-02-04
+PRJ-00822,5347.4,57,4,4,Sistema SaaS,Sí,No,301.0,2024-02-04
+PRJ-00823,30012.44,70,12,9,Portal Web,No,No,1122.4,2024-02-04
+PRJ-00824,34862.65,332,2,1,App Móvil,No,No,757.1,2024-02-04
+PRJ-00825,45304.67,175,14,2,App Móvil,No,No,1177.7,2024-02-04
+PRJ-00826,73989.17,285,3,4,Portal Web,Sí,Sí,1749.4,2024-02-04
+PRJ-00827,30975.95,256,14,3,Sistema SaaS,Sí,No,918.5,2024-02-04
+PRJ-00828,31021.49,265,13,1,App Móvil,No,Sí,777.1,2024-02-04
+PRJ-00829,60312.59,42,3,5,Sistema SaaS,Sí,No,1447.5,2024-02-04
+PRJ-00830,38916.35,239,2,7,Sistema SaaS,No,Sí,1133.8,2024-02-04
+PRJ-00831,21845.36,258,12,2,E-commerce,Sí,Sí,646.7,2024-02-04
+PRJ-00832,38932.96,129,9,5,Sistema SaaS,No,Sí,1079.0,2024-02-04
+PRJ-00833,15564.28,60,4,6,E-commerce,Sí,No,645.6,2024-02-04
+PRJ-00834,18229.02,45,4,7,App Móvil,No,No,739.2,2024-02-04
+PRJ-00835,42377.58,166,10,1,Portal Web,Sí,No,975.7,2024-02-04
+PRJ-00836,36419.41,358,6,7,E-commerce,Sí,No,1093.0,2024-02-04
+PRJ-00837,73613.44,195,3,4,Portal Web,No,Sí,1719.4,2024-02-04
+PRJ-00838,32179.54,339,12,8,App Móvil,Sí,No,1168.9,2024-02-04
+PRJ-00839,48544.13,129,3,4,Sistema SaaS,Sí,No,1156.9,2024-02-04
+PRJ-00840,52419.82,138,8,6,App Móvil,No,No,1364.7,2024-02-04
+PRJ-00841,5982.08,202,5,9,Portal Web,Sí,No,591.4,2024-02-05
+PRJ-00842,54765.3,266,14,5,App Móvil,Sí,No,1480.9,2024-02-05
+PRJ-00843,18352.7,191,3,4,Sistema SaaS,Sí,No,587.6,2024-02-05
+PRJ-00844,77080.27,245,1,8,App Móvil,No,No,1929.5,2024-02-05
+PRJ-00845,16149.7,293,5,9,Sistema SaaS,No,No,764.1,2024-02-05
+PRJ-00846,36096.81,292,1,4,E-commerce,No,Sí,903.1,2024-02-05
+PRJ-00847,11401.23,321,4,3,Portal Web,No,Sí,388.5,2024-02-05
+PRJ-00848,79765.57,303,5,8,Sistema SaaS,No,No,1993.7,2024-02-05
+PRJ-00849,42664.63,32,3,5,Sistema SaaS,Sí,No,1128.4,2024-02-05
+PRJ-00850,49653.88,57,13,2,App Móvil,Sí,No,1242.7,2024-02-05
+PRJ-00851,10030.74,355,12,9,E-commerce,No,No,710.5,2024-02-05
+PRJ-00852,61247.04,178,2,3,Sistema SaaS,Sí,Sí,1402.1,2024-02-05
+PRJ-00853,20742.92,57,6,2,E-commerce,Sí,Sí,568.1,2024-02-05
+PRJ-00854,72354.07,339,1,1,E-commerce,Sí,No,1523.4,2024-02-05
+PRJ-00855,20385.47,94,12,8,App Móvil,Sí,Sí,886.3,2024-02-05
+PRJ-00856,19301.58,50,10,3,Sistema SaaS,No,Sí,617.9,2024-02-05
+PRJ-00857,7741.23,281,13,7,App Móvil,No,No,632.1,2024-02-05
+PRJ-00858,40405.02,264,5,1,Portal Web,Sí,No,885.7,2024-02-05
+PRJ-00859,47363.08,256,12,1,Portal Web,Sí,No,1129.4,2024-02-05
+PRJ-00860,9928.15,42,3,9,Sistema SaaS,No,Sí,609.3,2024-02-05
+PRJ-00861,63164.57,342,5,8,E-commerce,Sí,Sí,1673.5,2024-02-05
+PRJ-00862,38996.66,78,3,3,Sistema SaaS,Sí,No,950.1,2024-02-05
+PRJ-00863,44329.27,147,3,6,Sistema SaaS,Sí,No,1193.0,2024-02-05
+PRJ-00864,38057.21,83,14,3,Portal Web,No,Sí,1055.0,2024-02-05
+PRJ-00865,35057.23,167,3,4,Portal Web,No,Sí,925.5,2024-02-06
+PRJ-00866,46973.02,82,8,1,E-commerce,Sí,No,1084.2,2024-02-06
+PRJ-00867,16643.02,73,6,5,E-commerce,Sí,Sí,627.6,2024-02-06
+PRJ-00868,18644.61,332,2,1,Sistema SaaS,Sí,No,426.2,2024-02-06
+PRJ-00869,69633.92,82,2,1,App Móvil,Sí,No,1488.4,2024-02-06
+PRJ-00870,75958.66,103,5,7,Sistema SaaS,Sí,Sí,1903.8,2024-02-06
+PRJ-00871,32998.2,75,5,6,E-commerce,Sí,Sí,964.1,2024-02-06
+PRJ-00872,25305.85,42,3,2,App Móvil,No,Sí,648.3,2024-02-06
+PRJ-00873,53299.97,194,14,2,Portal Web,No,No,1345.9,2024-02-06
+PRJ-00874,35655.06,131,14,7,E-commerce,Sí,No,1194.1,2024-02-06
+PRJ-00875,6903.98,309,8,1,E-commerce,No,No,278.7,2024-02-06
+PRJ-00876,16711.44,287,3,2,App Móvil,Sí,No,408.8,2024-02-06
+PRJ-00877,58697.92,167,8,8,E-commerce,Sí,No,1608.9,2024-02-06
+PRJ-00878,54419.3,192,3,6,E-commerce,No,No,1415.5,2024-02-06
+PRJ-00879,7032.2,140,1,2,E-commerce,No,Sí,223.1,2024-02-06
+PRJ-00880,21647.91,131,1,7,E-commerce,Sí,No,756.0,2024-02-06
+PRJ-00881,22330.61,46,4,4,E-commerce,Sí,No,653.1,2024-02-06
+PRJ-00882,55391.96,297,3,2,E-commerce,No,No,1239.6,2024-02-06
+PRJ-00883,6478.29,211,6,6,E-commerce,No,No,481.4,2024-02-06
+PRJ-00884,12808.14,53,13,9,E-commerce,Sí,Sí,827.7,2024-02-06
+PRJ-00885,64993.71,58,10,9,Portal Web,Sí,No,1796.4,2024-02-06
+PRJ-00886,18390.85,200,4,8,E-commerce,Sí,Sí,778.5,2024-02-06
+PRJ-00887,53955.96,257,5,3,Portal Web,No,Sí,1313.5,2024-02-06
+PRJ-00888,22863.71,217,9,3,Portal Web,Sí,No,719.0,2024-02-06
+PRJ-00889,12458.1,259,3,2,Sistema SaaS,No,No,377.5,2024-02-07
+PRJ-00890,23237.91,350,12,5,Sistema SaaS,Sí,Sí,785.5,2024-02-07
+PRJ-00891,59170.02,148,11,4,Portal Web,No,Sí,1489.2,2024-02-07
+PRJ-00892,69177.24,185,1,7,Portal Web,No,No,1751.7,2024-02-07
+PRJ-00893,67266.49,301,12,4,E-commerce,No,Sí,1702.3,2024-02-07
+PRJ-00894,34788.76,204,9,9,Sistema SaaS,No,No,1220.3,2024-02-07
+PRJ-00895,55106.39,133,8,2,App Móvil,Sí,No,1270.1,2024-02-07
+PRJ-00896,20373.82,121,9,6,Sistema SaaS,No,Sí,786.8,2024-02-07
+PRJ-00897,26986.08,215,14,7,Portal Web,No,No,1042.1,2024-02-07
+PRJ-00898,72225.19,312,6,4,Portal Web,No,No,1720.0,2024-02-07
+PRJ-00899,5975.14,210,3,6,E-commerce,Sí,No,433.3,2024-02-07
+PRJ-00900,11413.14,199,2,7,E-commerce,Sí,Sí,588.6,2024-02-07
+PRJ-00901,20591.47,216,9,4,Sistema SaaS,Sí,Sí,698.4,2024-02-07
+PRJ-00902,6989.92,204,13,8,E-commerce,Sí,Sí,653.2,2024-02-07
+PRJ-00903,18607.66,251,14,9,App Móvil,Sí,No,933.7,2024-02-07
+PRJ-00904,48728.12,262,2,1,App Móvil,Sí,Sí,1054.2,2024-02-07
+PRJ-00905,36606.84,191,8,7,E-commerce,No,Sí,1168.1,2024-02-07
+PRJ-00906,71950.38,163,4,9,App Móvil,No,Sí,1909.7,2024-02-07
+PRJ-00907,66308.27,253,12,5,App Móvil,No,No,1664.7,2024-02-07
+PRJ-00908,30636.3,182,14,2,Sistema SaaS,Sí,No,841.6,2024-02-07
+PRJ-00909,24456.76,62,2,6,App Móvil,No,Sí,810.7,2024-02-07
+PRJ-00910,33476.93,84,14,7,Portal Web,No,Sí,1157.0,2024-02-07
+PRJ-00911,49272.12,36,4,2,Portal Web,Sí,Sí,1128.8,2024-02-07
+PRJ-00912,25104.77,273,1,2,Sistema SaaS,No,No,608.9,2024-02-07
+PRJ-00913,51811.17,342,10,1,E-commerce,Sí,Sí,1245.0,2024-02-08
+PRJ-00914,35705.87,155,3,4,Sistema SaaS,No,No,919.0,2024-02-08
+PRJ-00915,46403.54,41,9,7,E-commerce,Sí,No,1379.0,2024-02-08
+PRJ-00916,37709.49,45,1,9,E-commerce,Sí,No,1177.0,2024-02-08
+PRJ-00917,27084.93,237,1,3,E-commerce,Sí,Sí,648.7,2024-02-08
+PRJ-00918,76134.0,72,11,7,E-commerce,No,Sí,1949.1,2024-02-08
+PRJ-00919,62270.43,164,7,7,E-commerce,No,No,1629.2,2024-02-08
+PRJ-00920,15508.49,257,0,7,Sistema SaaS,Sí,No,652.5,2024-02-08
+PRJ-00921,70135.1,140,13,2,E-commerce,Sí,No,1679.4,2024-02-08
+PRJ-00922,41557.34,336,6,6,App Móvil,No,No,1182.0,2024-02-08
+PRJ-00923,72091.42,189,4,2,App Móvil,No,Sí,1566.8,2024-02-08
+PRJ-00924,64989.14,360,14,6,E-commerce,Sí,Sí,1715.0,2024-02-08
+PRJ-00925,36891.01,293,10,3,App Móvil,No,No,1021.3,2024-02-08
+PRJ-00926,6685.2,254,7,2,Portal Web,No,No,275.6,2024-02-08
+PRJ-00927,25150.8,246,0,6,Sistema SaaS,No,No,770.4,2024-02-08
+PRJ-00928,45622.57,74,10,2,Sistema SaaS,Sí,Sí,1181.6,2024-02-08
+PRJ-00929,52510.87,243,6,5,E-commerce,Sí,No,1334.2,2024-02-08
+PRJ-00930,24341.58,88,4,2,E-commerce,No,Sí,593.0,2024-02-08
+PRJ-00931,15451.71,161,3,3,Portal Web,Sí,No,435.9,2024-02-08
+PRJ-00932,67619.77,133,6,3,E-commerce,No,Sí,1619.5,2024-02-08
+PRJ-00933,78830.16,224,9,6,App Móvil,No,Sí,1963.3,2024-02-08
+PRJ-00934,44426.76,186,14,6,Portal Web,Sí,No,1304.8,2024-02-08
+PRJ-00935,17875.95,127,1,3,App Móvil,Sí,Sí,499.8,2024-02-08
+PRJ-00936,25423.05,255,11,3,Sistema SaaS,Sí,Sí,758.9,2024-02-08
+PRJ-00937,6379.3,234,14,1,App Móvil,No,Sí,294.0,2024-02-09
+PRJ-00938,73572.41,108,0,7,Sistema SaaS,No,Sí,1806.2,2024-02-09
+PRJ-00939,13831.33,153,0,8,App Móvil,Sí,No,637.5,2024-02-09
+PRJ-00940,48238.74,247,10,2,Sistema SaaS,Sí,No,1192.4,2024-02-09
+PRJ-00941,25554.14,33,11,4,E-commerce,Sí,No,823.2,2024-02-09
+PRJ-00942,46563.35,119,0,7,App Móvil,No,No,1249.5,2024-02-09
+PRJ-00943,53856.53,133,14,8,Sistema SaaS,No,No,1549.3,2024-02-09
+PRJ-00944,67230.64,148,11,1,App Móvil,No,Sí,1544.3,2024-02-09
+PRJ-00945,20481.6,162,4,4,Portal Web,Sí,Sí,610.4,2024-02-09
+PRJ-00946,5824.69,341,9,6,E-commerce,Sí,Sí,473.7,2024-02-09
+PRJ-00947,15266.42,125,6,3,Sistema SaaS,No,Sí,499.1,2024-02-09
+PRJ-00948,72501.4,360,1,5,Portal Web,Sí,No,1635.6,2024-02-09
+PRJ-00949,70541.76,172,9,9,App Móvil,Sí,No,1909.3,2024-02-09
+PRJ-00950,49805.98,317,7,3,Portal Web,Sí,Sí,1198.8,2024-02-09
+PRJ-00951,50038.76,57,3,5,App Móvil,Sí,No,1252.3,2024-02-09
+PRJ-00952,54877.75,307,11,8,E-commerce,No,Sí,1547.0,2024-02-09
+PRJ-00953,18152.85,262,2,6,Portal Web,Sí,Sí,680.2,2024-02-09
+PRJ-00954,73580.9,46,9,4,E-commerce,No,No,1769.6,2024-02-09
+PRJ-00955,36407.79,88,10,8,Sistema SaaS,No,No,1186.6,2024-02-09
+PRJ-00956,33735.39,119,7,3,App Móvil,Sí,No,879.2,2024-02-09
+PRJ-00957,43918.83,228,1,3,App Móvil,No,No,1046.3,2024-02-09
+PRJ-00958,8522.45,55,10,4,E-commerce,No,No,464.0,2024-02-09
+PRJ-00959,17471.25,54,10,9,E-commerce,Sí,No,843.4,2024-02-09
+PRJ-00960,60352.52,330,12,5,Sistema SaaS,No,No,1574.0,2024-02-09
+PRJ-00961,11209.9,296,2,8,Portal Web,No,Sí,581.0,2024-02-10
+PRJ-00962,50236.41,210,11,6,App Móvil,No,No,1389.0,2024-02-10
+PRJ-00963,23401.18,97,2,3,App Móvil,No,Sí,625.8,2024-02-10
+PRJ-00964,34197.17,350,9,8,Sistema SaaS,No,Sí,1178.3,2024-02-10
+PRJ-00965,26652.03,78,10,9,Sistema SaaS,No,No,1108.6,2024-02-10
+PRJ-00966,31675.45,204,0,8,E-commerce,No,Sí,1027.6,2024-02-10
+PRJ-00967,58928.44,81,5,4,E-commerce,No,No,1416.8,2024-02-10
+PRJ-00968,27284.13,131,1,6,Portal Web,Sí,Sí,884.1,2024-02-10
+PRJ-00969,47480.35,245,0,1,Sistema SaaS,Sí,Sí,1008.6,2024-02-10
+PRJ-00970,40703.78,217,1,4,Portal Web,Sí,Sí,981.6,2024-02-10
+PRJ-00971,54775.34,86,11,8,Sistema SaaS,No,No,1589.9,2024-02-10
+PRJ-00972,75262.23,76,5,1,App Móvil,No,Sí,1593.8,2024-02-10
+PRJ-00973,59942.91,188,13,3,Sistema SaaS,No,Sí,1458.7,2024-02-10
+PRJ-00974,21120.53,203,3,1,Sistema SaaS,Sí,Sí,474.1,2024-02-10
+PRJ-00975,7338.74,271,5,9,App Móvil,Sí,No,608.1,2024-02-10
+PRJ-00976,24669.8,311,11,2,Sistema SaaS,Sí,Sí,734.3,2024-02-10
+PRJ-00977,49630.84,270,8,9,Portal Web,No,No,1520.3,2024-02-10
+PRJ-00978,8856.94,34,12,4,E-commerce,Sí,Sí,470.0,2024-02-10
+PRJ-00979,42227.47,113,9,2,E-commerce,Sí,Sí,1035.0,2024-02-10
+PRJ-00980,49763.21,337,11,4,Portal Web,No,Sí,1319.4,2024-02-10
+PRJ-00981,30068.29,277,9,6,App Móvil,Sí,No,983.2,2024-02-10
+PRJ-00982,62818.42,83,7,7,Sistema SaaS,No,Sí,1672.7,2024-02-10
+PRJ-00983,12994.87,190,0,3,Portal Web,Sí,Sí,384.0,2024-02-10
+PRJ-00984,10635.33,255,12,3,E-commerce,No,Sí,523.5,2024-02-10
+PRJ-00985,59614.16,44,7,8,E-commerce,No,Sí,1636.2,2024-02-11
+PRJ-00986,42161.85,253,8,5,Portal Web,No,No,1183.2,2024-02-11
+PRJ-00987,56630.18,90,5,4,E-commerce,No,Sí,1363.1,2024-02-11
+PRJ-00988,37612.05,151,9,7,Portal Web,No,Sí,1176.7,2024-02-11
+PRJ-00989,23480.15,306,14,7,E-commerce,Sí,Sí,912.7,2024-02-11
+PRJ-00990,66432.67,75,4,9,Portal Web,No,Sí,1760.7,2024-02-11
+PRJ-00991,64956.19,323,5,9,Sistema SaaS,No,No,1758.9,2024-02-11
+PRJ-00992,57102.24,91,12,5,Sistema SaaS,No,Sí,1513.5,2024-02-11
+PRJ-00993,25410.89,115,5,8,Sistema SaaS,No,Sí,995.2,2024-02-11
+PRJ-00994,49267.3,239,8,1,Sistema SaaS,Sí,No,1116.8,2024-02-11
+PRJ-00995,32073.04,107,3,9,E-commerce,No,Sí,1048.0,2024-02-11
+PRJ-00996,11868.66,231,1,8,App Móvil,Sí,Sí,651.9,2024-02-11
+PRJ-00997,73798.52,331,10,6,Portal Web,No,Sí,1892.9,2024-02-11
+PRJ-00998,15261.4,252,10,3,App Móvil,No,No,531.3,2024-02-11
+PRJ-00999,76267.8,251,8,3,E-commerce,Sí,Sí,1768.0,2024-02-11
+PRJ-01000,38450.43,32,1,8,E-commerce,Sí,No,1161.9,2024-02-11
+PRJ-01001,18884.97,35,9,5,App Móvil,Sí,No,714.8,2024-02-11
+PRJ-01002,45642.57,122,8,7,App Móvil,No,No,1332.0,2024-02-11
+PRJ-01003,70470.94,37,1,5,E-commerce,Sí,No,1630.6,2024-02-11
+PRJ-01004,59916.87,264,11,8,E-commerce,No,No,1702.9,2024-02-11
+PRJ-01005,65492.09,137,7,4,Portal Web,Sí,No,1561.6,2024-02-11
+PRJ-01006,54408.75,190,8,2,Sistema SaaS,Sí,No,1208.0,2024-02-11
+PRJ-01007,56920.74,238,11,3,Sistema SaaS,No,Sí,1410.3,2024-02-11
+PRJ-01008,68689.67,269,9,8,Portal Web,Sí,Sí,1799.9,2024-02-11
+PRJ-01009,23725.1,360,8,7,App Móvil,Sí,No,910.8,2024-02-12
+PRJ-01010,41706.87,362,9,2,E-commerce,No,No,1003.9,2024-02-12
+PRJ-01011,21590.71,79,8,6,App Móvil,No,No,736.5,2024-02-12
+PRJ-01012,79075.1,40,1,9,Sistema SaaS,No,No,1954.3,2024-02-12
+PRJ-01013,75804.45,185,3,4,Sistema SaaS,Sí,No,1731.1,2024-02-12
+PRJ-01014,7957.01,99,6,9,App Móvil,Sí,No,640.8,2024-02-12
+PRJ-01015,57918.14,198,11,2,Sistema SaaS,Sí,Sí,1345.0,2024-02-12
+PRJ-01016,74393.62,301,1,2,E-commerce,Sí,Sí,1563.1,2024-02-12
+PRJ-01017,18543.15,97,0,9,Portal Web,Sí,No,775.7,2024-02-12
+PRJ-01018,47595.89,281,2,7,App Móvil,No,No,1315.2,2024-02-12
+PRJ-01019,73661.62,77,11,7,E-commerce,Sí,No,1890.0,2024-02-12
+PRJ-01020,7545.95,213,3,1,E-commerce,No,Sí,241.4,2024-02-12
+PRJ-01021,57306.52,349,7,6,Sistema SaaS,Sí,No,1456.7,2024-02-12
+PRJ-01022,27301.18,216,5,7,E-commerce,No,Sí,928.9,2024-02-12
+PRJ-01023,74329.71,119,10,6,App Móvil,Sí,Sí,1895.5,2024-02-12
+PRJ-01024,77829.37,361,1,6,E-commerce,Sí,Sí,1851.7,2024-02-12
+PRJ-01025,75819.99,168,14,2,Portal Web,No,No,1799.3,2024-02-12
+PRJ-01026,40566.07,118,8,6,E-commerce,Sí,No,1200.5,2024-02-12
+PRJ-01027,69653.2,303,13,4,E-commerce,No,Sí,1775.2,2024-02-12
+PRJ-01028,68341.2,48,1,9,Portal Web,Sí,Sí,1786.5,2024-02-12
+PRJ-01029,28932.54,340,12,1,E-commerce,Sí,Sí,813.9,2024-02-12
+PRJ-01030,67168.66,183,14,8,E-commerce,No,Sí,1847.8,2024-02-12
+PRJ-01031,7775.57,289,11,5,Sistema SaaS,Sí,No,507.4,2024-02-12
+PRJ-01032,49720.24,137,4,1,App Móvil,No,Sí,1084.5,2024-02-12
+PRJ-01033,22250.66,314,11,4,Sistema SaaS,Sí,No,730.9,2024-02-13
+PRJ-01034,14042.52,88,3,1,App Móvil,Sí,Sí,302.8,2024-02-13
+PRJ-01035,10771.49,154,12,6,Portal Web,Sí,No,651.2,2024-02-13
+PRJ-01036,57221.66,302,6,2,Portal Web,Sí,Sí,1283.2,2024-02-13
+PRJ-01037,30490.62,136,7,5,Portal Web,Sí,No,908.8,2024-02-13
+PRJ-01038,59357.51,328,4,7,App Móvil,Sí,No,1589.8,2024-02-13
+PRJ-01039,9901.73,274,9,2,App Móvil,Sí,No,410.3,2024-02-13
+PRJ-01040,28646.78,276,13,6,App Móvil,No,Sí,1042.4,2024-02-13
+PRJ-01041,45461.85,37,13,6,Portal Web,Sí,No,1338.3,2024-02-13
+PRJ-01042,64304.24,170,4,5,App Móvil,Sí,Sí,1573.0,2024-02-13
+PRJ-01043,28906.44,37,1,5,E-commerce,Sí,No,809.1,2024-02-13
+PRJ-01044,51941.85,123,7,3,Sistema SaaS,No,No,1236.6,2024-02-13
+PRJ-01045,71448.33,350,13,2,Portal Web,No,Sí,1688.8,2024-02-13
+PRJ-01046,51189.74,68,1,7,Sistema SaaS,Sí,No,1339.9,2024-02-13
+PRJ-01047,22471.96,110,9,1,E-commerce,Sí,No,618.6,2024-02-13
+PRJ-01048,6830.06,216,11,6,App Móvil,Sí,Sí,524.3,2024-02-13
+PRJ-01049,70257.42,113,5,6,Sistema SaaS,No,No,1730.8,2024-02-13
+PRJ-01050,6595.21,117,7,3,E-commerce,Sí,No,348.5,2024-02-13
+PRJ-01051,70602.63,271,5,2,E-commerce,No,No,1589.0,2024-02-13
+PRJ-01052,44670.29,122,3,2,Sistema SaaS,Sí,No,1008.8,2024-02-13
+PRJ-01053,75430.08,115,12,9,Portal Web,No,Sí,2087.3,2024-02-13
+PRJ-01054,64908.74,73,3,5,Sistema SaaS,No,No,1536.6,2024-02-13
+PRJ-01055,79845.06,166,5,7,Portal Web,Sí,No,1978.6,2024-02-13
+PRJ-01056,31303.39,103,13,5,App Móvil,Sí,No,989.9,2024-02-13
+PRJ-01057,62539.12,65,14,7,Portal Web,Sí,No,1761.7,2024-02-14
+PRJ-01058,35144.82,130,12,4,App Móvil,Sí,No,1006.4,2024-02-14
+PRJ-01059,40990.67,185,3,8,Sistema SaaS,Sí,No,1197.9,2024-02-14
+PRJ-01060,52062.91,284,7,7,App Móvil,Sí,No,1408.9,2024-02-14
+PRJ-01061,70525.78,200,8,5,E-commerce,Sí,No,1734.1,2024-02-14
+PRJ-01062,78806.26,245,0,6,App Móvil,No,Sí,1860.9,2024-02-14
+PRJ-01063,62620.51,199,12,5,Portal Web,Sí,Sí,1633.5,2024-02-14
+PRJ-01064,36332.51,281,3,7,Portal Web,Sí,Sí,1074.0,2024-02-14
+PRJ-01065,36601.78,351,3,2,Portal Web,No,Sí,841.5,2024-02-14
+PRJ-01066,60318.67,84,1,5,App Móvil,Sí,No,1436.4,2024-02-14
+PRJ-01067,22908.29,120,5,3,Portal Web,Sí,No,647.2,2024-02-14
+PRJ-01068,13285.56,307,2,9,Portal Web,Sí,Sí,701.0,2024-02-14
+PRJ-01069,31596.66,130,6,6,E-commerce,Sí,Sí,978.5,2024-02-14
+PRJ-01070,26542.92,184,12,3,App Móvil,No,Sí,853.4,2024-02-14
+PRJ-01071,27223.11,170,10,7,E-commerce,No,No,980.5,2024-02-14
+PRJ-01072,22520.58,202,10,4,Portal Web,Sí,No,759.4,2024-02-14
+PRJ-01073,8156.99,39,4,3,Portal Web,Sí,Sí,347.9,2024-02-14
+PRJ-01074,6340.55,257,3,8,Portal Web,No,Sí,514.6,2024-02-14
+PRJ-01075,79079.18,294,4,4,App Móvil,Sí,Sí,1818.4,2024-02-14
+PRJ-01076,37082.99,277,7,1,Sistema SaaS,No,Sí,860.1,2024-02-14
+PRJ-01077,33824.5,276,2,6,Portal Web,No,Sí,969.0,2024-02-14
+PRJ-01078,55973.55,184,13,1,Portal Web,No,No,1349.5,2024-02-14
+PRJ-01079,21369.04,63,6,5,Portal Web,Sí,Sí,712.2,2024-02-14
+PRJ-01080,76247.09,158,14,7,Portal Web,Sí,No,2017.6,2024-02-14
+PRJ-01081,63975.88,189,13,6,App Móvil,Sí,Sí,1643.5,2024-02-15
+PRJ-01082,11705.83,118,5,2,Sistema SaaS,No,Sí,379.5,2024-02-15
+PRJ-01083,36318.56,122,11,4,Sistema SaaS,Sí,No,1026.1,2024-02-15
+PRJ-01084,70933.87,356,0,2,Sistema SaaS,Sí,Sí,1511.7,2024-02-15
+PRJ-01085,75854.9,270,12,1,Portal Web,No,No,1700.2,2024-02-15
+PRJ-01086,40055.11,352,6,3,Portal Web,Sí,No,1011.6,2024-02-15
+PRJ-01087,51005.85,146,13,3,Sistema SaaS,Sí,Sí,1301.7,2024-02-15
+PRJ-01088,17527.55,123,12,7,Sistema SaaS,Sí,Sí,819.2,2024-02-15
+PRJ-01089,79337.65,192,6,1,Portal Web,No,No,1660.9,2024-02-15
+PRJ-01090,22375.38,128,13,9,Portal Web,Sí,No,1011.3,2024-02-15
+PRJ-01091,75704.88,142,14,6,E-commerce,No,Sí,1928.7,2024-02-15
+PRJ-01092,53723.5,120,11,4,E-commerce,No,No,1415.7,2024-02-15
+PRJ-01093,50580.26,235,0,3,E-commerce,No,Sí,1122.8,2024-02-15
+PRJ-01094,43451.64,46,8,3,Sistema SaaS,Sí,No,1124.9,2024-02-15
+PRJ-01095,22300.24,303,5,2,App Móvil,Sí,Sí,595.7,2024-02-15
+PRJ-01096,18239.6,202,14,2,Portal Web,Sí,No,577.1,2024-02-15
+PRJ-01097,21536.47,145,11,5,E-commerce,No,No,765.8,2024-02-15
+PRJ-01098,18982.87,210,1,9,App Móvil,No,Sí,817.9,2024-02-15
+PRJ-01099,63468.84,120,4,2,Portal Web,Sí,No,1427.2,2024-02-15
+PRJ-01100,31259.39,111,12,2,App Móvil,No,No,826.7,2024-02-15
+PRJ-01101,9338.2,353,10,6,Sistema SaaS,Sí,No,615.8,2024-02-15
+PRJ-01102,77682.7,143,3,2,Sistema SaaS,Sí,No,1679.0,2024-02-15
+PRJ-01103,71283.94,286,6,4,Sistema SaaS,Sí,No,1699.8,2024-02-15
+PRJ-01104,74581.42,87,7,6,E-commerce,Sí,No,1815.3,2024-02-15
+PRJ-01105,79618.09,183,10,5,Portal Web,Sí,No,1926.0,2024-02-16
+PRJ-01106,18042.14,145,13,1,Sistema SaaS,Sí,Sí,572.2,2024-02-16
+PRJ-01107,34718.15,295,14,6,E-commerce,Sí,No,1124.5,2024-02-16
+PRJ-01108,61867.89,344,10,1,E-commerce,No,No,1329.3,2024-02-16
+PRJ-01109,57201.55,232,0,3,E-commerce,Sí,Sí,1274.3,2024-02-16
+PRJ-01110,16542.19,70,4,5,E-commerce,No,No,554.7,2024-02-16
+PRJ-01111,66187.48,134,14,5,Sistema SaaS,No,No,1690.0,2024-02-16
+PRJ-01112,21833.04,222,2,6,E-commerce,Sí,Sí,695.6,2024-02-16
+PRJ-01113,21786.32,307,0,8,Sistema SaaS,No,No,824.0,2024-02-16
+PRJ-01114,45273.08,266,11,5,Sistema SaaS,No,No,1298.6,2024-02-16
+PRJ-01115,49470.5,250,2,1,E-commerce,No,Sí,1066.9,2024-02-16
+PRJ-01116,48506.47,97,13,5,Sistema SaaS,Sí,Sí,1345.4,2024-02-16
+PRJ-01117,11861.51,226,5,3,Portal Web,Sí,No,432.9,2024-02-16
+PRJ-01118,70809.56,285,13,4,Portal Web,Sí,No,1780.5,2024-02-16
+PRJ-01119,24920.0,168,6,8,App Móvil,Sí,Sí,880.8,2024-02-16
+PRJ-01120,14713.62,341,7,7,Portal Web,Sí,No,666.4,2024-02-16
+PRJ-01121,71656.11,178,12,5,Sistema SaaS,No,Sí,1827.2,2024-02-16
+PRJ-01122,76673.86,128,10,2,Sistema SaaS,No,Sí,1773.8,2024-02-16
+PRJ-01123,69659.57,105,3,6,Portal Web,Sí,Sí,1713.9,2024-02-16
+PRJ-01124,65713.71,311,2,6,E-commerce,No,No,1582.1,2024-02-16
+PRJ-01125,54143.15,138,4,6,E-commerce,No,Sí,1425.6,2024-02-16
+PRJ-01126,46314.3,217,8,9,Sistema SaaS,No,Sí,1461.3,2024-02-16
+PRJ-01127,11524.01,228,12,8,E-commerce,No,Sí,752.4,2024-02-16
+PRJ-01128,35633.99,332,5,8,App Móvil,Sí,No,1070.3,2024-02-16
+PRJ-01129,32951.64,356,14,1,App Móvil,Sí,No,875.1,2024-02-17
+PRJ-01130,24481.53,183,8,5,Portal Web,Sí,No,825.3,2024-02-17
+PRJ-01131,59256.51,69,14,7,Portal Web,No,Sí,1655.2,2024-02-17
+PRJ-01132,42190.68,162,5,6,E-commerce,No,No,1178.5,2024-02-17
+PRJ-01133,11078.47,161,1,5,Sistema SaaS,Sí,No,445.7,2024-02-17
+PRJ-01134,21513.74,308,12,8,Portal Web,Sí,Sí,912.7,2024-02-17
+PRJ-01135,56244.41,113,4,3,App Móvil,No,Sí,1345.7,2024-02-17
+PRJ-01136,10709.81,271,11,6,Portal Web,Sí,No,621.6,2024-02-17
+PRJ-01137,68840.52,145,10,5,Portal Web,Sí,No,1694.2,2024-02-17
+PRJ-01138,42135.99,138,8,8,App Móvil,No,Sí,1264.3,2024-02-17
+PRJ-01139,41043.99,250,7,4,Sistema SaaS,No,No,1063.4,2024-02-17
+PRJ-01140,49430.58,70,6,8,Portal Web,Sí,Sí,1399.2,2024-02-17
+PRJ-01141,66851.07,176,0,2,Portal Web,No,Sí,1430.7,2024-02-17
+PRJ-01142,31085.69,141,3,9,Portal Web,Sí,No,1074.9,2024-02-17
+PRJ-01143,55851.21,132,11,9,E-commerce,No,No,1666.1,2024-02-17
+PRJ-01144,47429.9,75,6,6,Portal Web,No,No,1271.8,2024-02-17
+PRJ-01145,25027.12,353,10,4,App Móvil,Sí,No,823.6,2024-02-17
+PRJ-01146,70897.25,300,6,4,Sistema SaaS,No,Sí,1700.6,2024-02-17
+PRJ-01147,64806.95,224,14,6,Sistema SaaS,Sí,No,1727.6,2024-02-17
+PRJ-01148,54383.89,309,5,5,App Móvil,No,No,1346.9,2024-02-17
+PRJ-01149,68793.63,312,7,6,E-commerce,Sí,No,1732.4,2024-02-17
+PRJ-01150,70047.07,69,10,7,App Móvil,No,Sí,1889.9,2024-02-17
+PRJ-01151,58127.22,218,12,7,Sistema SaaS,No,No,1595.1,2024-02-17
+PRJ-01152,67776.0,193,5,9,App Móvil,Sí,No,1807.4,2024-02-17
+PRJ-01153,57310.36,53,9,8,E-commerce,No,Sí,1615.6,2024-02-18
+PRJ-01154,56010.56,53,2,6,Sistema SaaS,Sí,Sí,1427.8,2024-02-18
+PRJ-01155,51395.85,33,3,6,E-commerce,No,Sí,1284.3,2024-02-18
+PRJ-01156,61453.75,352,13,5,App Móvil,No,Sí,1642.7,2024-02-18
+PRJ-01157,16895.38,319,2,1,Portal Web,Sí,Sí,439.2,2024-02-18
+PRJ-01158,71065.31,210,0,9,App Móvil,No,No,1815.7,2024-02-18
+PRJ-01159,70388.26,277,14,9,E-commerce,No,Sí,2048.4,2024-02-18
+PRJ-01160,7193.55,145,9,9,App Móvil,Sí,Sí,687.6,2024-02-18
+PRJ-01161,66936.26,308,4,8,Portal Web,No,Sí,1776.1,2024-02-18
+PRJ-01162,14665.24,98,14,3,E-commerce,Sí,Sí,626.0,2024-02-18
+PRJ-01163,30133.91,283,0,1,App Móvil,Sí,Sí,676.6,2024-02-18
+PRJ-01164,60763.12,210,0,8,E-commerce,Sí,Sí,1574.7,2024-02-18
+PRJ-01165,17056.99,347,1,7,E-commerce,No,Sí,665.1,2024-02-18
+PRJ-01166,66347.53,198,12,5,Sistema SaaS,No,Sí,1672.4,2024-02-18
+PRJ-01167,67410.06,342,3,7,Sistema SaaS,Sí,No,1684.8,2024-02-18
+PRJ-01168,43060.08,278,5,4,E-commerce,No,No,1093.4,2024-02-18
+PRJ-01169,5478.94,217,7,9,App Móvil,Sí,No,600.2,2024-02-18
+PRJ-01170,26527.86,83,12,2,App Móvil,No,Sí,804.5,2024-02-18
+PRJ-01171,51269.52,355,2,9,App Móvil,Sí,Sí,1401.8,2024-02-18
+PRJ-01172,78588.96,342,0,9,Portal Web,Sí,Sí,2010.4,2024-02-18
+PRJ-01173,52386.01,167,2,5,E-commerce,No,No,1271.4,2024-02-18
+PRJ-01174,24485.27,197,11,1,E-commerce,Sí,Sí,664.1,2024-02-18
+PRJ-01175,52550.43,132,2,7,Portal Web,Sí,Sí,1371.9,2024-02-18
+PRJ-01176,45498.9,114,4,4,E-commerce,No,Sí,1184.3,2024-02-18
+PRJ-01177,63488.4,346,10,9,E-commerce,Sí,No,1782.3,2024-02-19
+PRJ-01178,13023.55,241,11,6,Portal Web,Sí,No,675.5,2024-02-19
+PRJ-01179,62077.09,32,11,3,Sistema SaaS,No,Sí,1522.9,2024-02-19
+PRJ-01180,45594.99,208,3,6,E-commerce,Sí,No,1188.9,2024-02-19
+PRJ-01181,77224.4,332,12,6,Portal Web,Sí,Sí,1956.1,2024-02-19
+PRJ-01182,30640.41,361,3,5,App Móvil,Sí,Sí,903.9,2024-02-19
+PRJ-01183,52446.64,67,8,2,Sistema SaaS,Sí,No,1213.1,2024-02-19
+PRJ-01184,74902.11,268,6,2,App Móvil,Sí,No,1680.8,2024-02-19
+PRJ-01185,12688.23,198,3,7,E-commerce,Sí,No,596.5,2024-02-19
+PRJ-01186,75292.14,343,2,2,Sistema SaaS,Sí,No,1648.9,2024-02-19
+PRJ-01187,56591.43,335,5,6,Portal Web,Sí,Sí,1505.5,2024-02-19
+PRJ-01188,10087.78,59,2,5,E-commerce,No,Sí,400.6,2024-02-19
+PRJ-01189,27572.27,219,5,4,Portal Web,Sí,No,758.0,2024-02-19
+PRJ-01190,58112.91,54,10,7,Sistema SaaS,Sí,No,1586.3,2024-02-19
+PRJ-01191,10051.3,141,12,8,App Móvil,No,Sí,741.7,2024-02-19
+PRJ-01192,48662.78,235,10,4,E-commerce,Sí,Sí,1286.6,2024-02-19
+PRJ-01193,30941.23,214,12,1,E-commerce,Sí,Sí,776.7,2024-02-19
+PRJ-01194,51568.66,76,12,1,Portal Web,Sí,Sí,1237.3,2024-02-19
+PRJ-01195,8430.65,257,11,1,Sistema SaaS,Sí,No,322.8,2024-02-19
+PRJ-01196,70365.26,68,8,1,Portal Web,Sí,No,1570.1,2024-02-19
+PRJ-01197,78011.67,45,5,5,Sistema SaaS,Sí,No,1858.7,2024-02-19
+PRJ-01198,77665.84,51,11,4,E-commerce,No,Sí,1842.4,2024-02-19
+PRJ-01199,61223.89,242,3,9,Sistema SaaS,No,Sí,1663.8,2024-02-19
+PRJ-01200,14756.47,339,14,3,E-commerce,No,No,628.7,2024-02-19
+PRJ-01201,61869.74,178,4,7,Sistema SaaS,No,No,1553.1,2024-02-20
+PRJ-01202,6844.02,270,12,8,App Móvil,No,No,648.4,2024-02-20
+PRJ-01203,6659.27,301,5,6,Sistema SaaS,Sí,Sí,435.5,2024-02-20
+PRJ-01204,29270.77,88,10,1,App Móvil,Sí,No,750.0,2024-02-20
+PRJ-01205,41648.24,316,2,8,Sistema SaaS,Sí,Sí,1228.4,2024-02-20
+PRJ-01206,62780.56,231,7,3,Sistema SaaS,Sí,No,1524.9,2024-02-20
+PRJ-01207,56247.15,61,3,8,Portal Web,Sí,No,1520.3,2024-02-20
+PRJ-01208,38442.7,191,7,4,Portal Web,No,No,1069.5,2024-02-20
+PRJ-01209,25522.0,284,9,8,E-commerce,No,Sí,957.4,2024-02-20
+PRJ-01210,79784.34,283,9,1,Portal Web,Sí,Sí,1736.3,2024-02-20
+PRJ-01211,36963.6,38,2,3,Sistema SaaS,Sí,Sí,912.9,2024-02-20
+PRJ-01212,38854.03,168,9,6,Portal Web,Sí,Sí,1160.1,2024-02-20
+PRJ-01213,17271.79,39,6,9,Sistema SaaS,No,Sí,814.2,2024-02-20
+PRJ-01214,64610.72,243,10,2,App Móvil,No,Sí,1493.3,2024-02-20
+PRJ-01215,57026.17,302,12,1,Sistema SaaS,Sí,No,1362.9,2024-02-20
+PRJ-01216,21557.72,353,11,3,E-commerce,No,Sí,690.9,2024-02-20
+PRJ-01217,11178.58,77,8,4,App Móvil,Sí,No,474.1,2024-02-20
+PRJ-01218,56037.45,140,3,5,E-commerce,No,Sí,1360.4,2024-02-20
+PRJ-01219,54088.34,182,7,3,E-commerce,No,No,1317.5,2024-02-20
+PRJ-01220,25494.46,152,2,2,E-commerce,Sí,No,680.3,2024-02-20
+PRJ-01221,76314.77,131,6,2,Portal Web,No,Sí,1675.2,2024-02-20
+PRJ-01222,16329.34,270,2,7,E-commerce,No,No,719.3,2024-02-20
+PRJ-01223,37425.11,350,11,9,App Móvil,Sí,Sí,1285.2,2024-02-20
+PRJ-01224,75771.19,220,14,2,Sistema SaaS,No,Sí,1766.4,2024-02-20
+PRJ-01225,36479.55,246,14,7,E-commerce,Sí,Sí,1189.8,2024-02-21
+PRJ-01226,52889.45,80,6,7,App Móvil,No,Sí,1439.8,2024-02-21
+PRJ-01227,34819.58,321,13,7,E-commerce,Sí,No,1148.5,2024-02-21
+PRJ-01228,25566.14,110,10,3,Sistema SaaS,Sí,Sí,745.4,2024-02-21
+PRJ-01229,78798.32,117,9,7,App Móvil,No,No,1957.7,2024-02-21
+PRJ-01230,35700.05,223,9,1,App Móvil,No,No,911.2,2024-02-21
+PRJ-01231,72057.44,133,10,1,Sistema SaaS,Sí,No,1632.8,2024-02-21
+PRJ-01232,22246.6,300,10,5,App Móvil,No,Sí,796.7,2024-02-21
+PRJ-01233,20982.85,125,5,2,Sistema SaaS,No,No,566.1,2024-02-21
+PRJ-01234,7335.06,227,1,9,App Móvil,No,Sí,563.6,2024-02-21
+PRJ-01235,53875.01,30,10,7,App Móvil,Sí,No,1493.1,2024-02-21
+PRJ-01236,32639.48,196,2,4,Sistema SaaS,Sí,Sí,828.4,2024-02-21
+PRJ-01237,69826.87,155,5,4,Sistema SaaS,Sí,Sí,1654.5,2024-02-21
+PRJ-01238,40490.74,342,13,2,App Móvil,No,Sí,1049.3,2024-02-21
+PRJ-01239,77614.51,110,3,5,App Móvil,No,Sí,1821.4,2024-02-21
+PRJ-01240,18914.41,280,5,4,Sistema SaaS,Sí,No,576.7,2024-02-21
+PRJ-01241,70146.74,198,0,1,Portal Web,Sí,No,1440.0,2024-02-21
+PRJ-01242,63244.76,102,9,8,Sistema SaaS,No,Sí,1704.1,2024-02-21
+PRJ-01243,62819.14,170,11,3,App Móvil,No,No,1535.5,2024-02-21
+PRJ-01244,68358.74,99,0,6,App Móvil,No,Sí,1662.1,2024-02-21
+PRJ-01245,62076.8,291,2,4,App Móvil,No,Sí,1482.0,2024-02-21
+PRJ-01246,51966.52,337,7,9,Sistema SaaS,Sí,No,1512.6,2024-02-21
+PRJ-01247,14843.37,274,7,7,App Móvil,No,Sí,667.7,2024-02-21
+PRJ-01248,7439.46,32,10,9,Portal Web,No,Sí,663.3,2024-02-21
+PRJ-01249,74063.59,92,3,3,E-commerce,Sí,Sí,1634.8,2024-02-22
+PRJ-01250,51248.77,78,5,1,Portal Web,Sí,Sí,1140.8,2024-02-22
+PRJ-01251,64740.3,105,14,5,Sistema SaaS,No,Sí,1652.7,2024-02-22
+PRJ-01252,41114.18,204,7,3,App Móvil,Sí,No,997.4,2024-02-22
+PRJ-01253,13798.11,138,6,6,Sistema SaaS,No,No,609.3,2024-02-22
+PRJ-01254,14388.93,212,10,8,E-commerce,No,No,785.9,2024-02-22
+PRJ-01255,56417.4,221,6,4,Sistema SaaS,Sí,Sí,1354.7,2024-02-22
+PRJ-01256,37272.94,94,12,5,App Móvil,Sí,Sí,1135.7,2024-02-22
+PRJ-01257,20039.35,300,3,5,E-commerce,No,Sí,670.9,2024-02-22
+PRJ-01258,41869.59,129,8,4,E-commerce,Sí,Sí,1152.1,2024-02-22
+PRJ-01259,9815.67,61,11,4,App Móvil,No,Sí,488.3,2024-02-22
+PRJ-01260,48647.86,157,9,4,App Móvil,No,Sí,1220.8,2024-02-22
+PRJ-01261,25174.51,72,5,4,App Móvil,No,No,758.5,2024-02-22
+PRJ-01262,64816.93,107,13,4,Sistema SaaS,Sí,Sí,1639.3,2024-02-22
+PRJ-01263,28277.15,343,11,5,Portal Web,No,No,927.6,2024-02-22
+PRJ-01264,39141.51,318,10,2,Sistema SaaS,No,Sí,966.6,2024-02-22
+PRJ-01265,5871.54,299,2,2,Sistema SaaS,No,No,250.8,2024-02-22
+PRJ-01266,10433.52,191,4,9,Portal Web,Sí,Sí,645.8,2024-02-22
+PRJ-01267,34437.02,218,4,2,App Móvil,No,No,831.8,2024-02-22
+PRJ-01268,40995.41,276,13,6,App Móvil,No,No,1234.4,2024-02-22
+PRJ-01269,50001.54,245,4,2,Portal Web,No,Sí,1146.9,2024-02-22
+PRJ-01270,26874.69,344,7,5,Portal Web,Sí,Sí,816.6,2024-02-22
+PRJ-01271,57123.64,197,8,4,Sistema SaaS,No,No,1431.0,2024-02-22
+PRJ-01272,69509.18,222,12,7,E-commerce,No,Sí,1865.6,2024-02-22
+PRJ-01273,63488.82,312,8,7,Portal Web,Sí,Sí,1683.7,2024-02-23
+PRJ-01274,7971.41,42,12,6,Sistema SaaS,Sí,Sí,614.5,2024-02-23
+PRJ-01275,41038.02,269,5,5,E-commerce,No,No,1110.9,2024-02-23
+PRJ-01276,12869.76,349,5,1,App Móvil,No,Sí,385.4,2024-02-23
+PRJ-01277,23153.38,176,8,3,App Móvil,No,No,696.4,2024-02-23
+PRJ-01278,78999.69,233,3,9,Sistema SaaS,Sí,No,2041.7,2024-02-23
+PRJ-01279,15687.17,109,5,1,Sistema SaaS,Sí,Sí,380.4,2024-02-23
+PRJ-01280,42416.61,72,3,5,Portal Web,No,No,1110.2,2024-02-23
+PRJ-01281,51361.68,118,10,2,App Móvil,Sí,Sí,1209.1,2024-02-23
+PRJ-01282,57684.87,177,0,4,Sistema SaaS,No,Sí,1337.2,2024-02-23
+PRJ-01283,46973.65,124,6,1,App Móvil,No,No,1066.1,2024-02-23
+PRJ-01284,5732.81,180,13,3,App Móvil,Sí,No,425.8,2024-02-23
+PRJ-01285,29484.6,31,9,7,Portal Web,No,No,1024.9,2024-02-23
+PRJ-01286,43828.37,51,10,3,E-commerce,Sí,No,1123.1,2024-02-23
+PRJ-01287,11589.99,342,11,4,Portal Web,Sí,No,525.0,2024-02-23
+PRJ-01288,31297.02,357,5,2,Sistema SaaS,No,Sí,717.4,2024-02-23
+PRJ-01289,7490.23,36,8,3,Portal Web,Sí,No,382.5,2024-02-23
+PRJ-01290,10893.39,235,6,9,Portal Web,No,Sí,723.3,2024-02-23
+PRJ-01291,34769.25,143,12,3,App Móvil,Sí,Sí,977.1,2024-02-23
+PRJ-01292,14953.68,301,6,5,Portal Web,No,No,594.0,2024-02-23
+PRJ-01293,47565.56,112,1,2,Sistema SaaS,No,No,1056.9,2024-02-23
+PRJ-01294,56709.87,208,11,4,E-commerce,No,No,1436.5,2024-02-23
+PRJ-01295,65044.0,239,10,7,Portal Web,Sí,No,1740.8,2024-02-23
+PRJ-01296,20011.27,357,14,7,Portal Web,No,No,873.1,2024-02-23
+PRJ-01297,17561.19,153,8,3,E-commerce,Sí,Sí,559.8,2024-02-24
+PRJ-01298,12842.59,142,9,5,Sistema SaaS,Sí,Sí,588.0,2024-02-24
+PRJ-01299,52732.27,41,8,1,Sistema SaaS,Sí,Sí,1193.2,2024-02-24
+PRJ-01300,57985.68,155,5,1,Portal Web,Sí,No,1311.6,2024-02-24
+PRJ-01301,7368.96,82,12,5,App Móvil,Sí,No,496.2,2024-02-24
+PRJ-01302,75215.92,360,2,9,Portal Web,No,Sí,1929.3,2024-02-24
+PRJ-01303,8897.85,312,0,1,E-commerce,Sí,No,216.5,2024-02-24
+PRJ-01304,45597.23,169,3,1,E-commerce,No,No,981.8,2024-02-24
+PRJ-01305,58179.54,126,13,4,E-commerce,No,No,1512.4,2024-02-24
+PRJ-01306,70322.68,34,13,4,Portal Web,Sí,Sí,1798.4,2024-02-24
+PRJ-01307,58556.52,86,2,2,Portal Web,No,No,1277.1,2024-02-24
+PRJ-01308,65129.61,363,13,9,Sistema SaaS,No,Sí,1876.5,2024-02-24
+PRJ-01309,30458.76,98,11,9,App Móvil,Sí,No,1098.4,2024-02-24
+PRJ-01310,66111.88,147,0,2,Portal Web,No,No,1402.4,2024-02-24
+PRJ-01311,11008.61,88,2,9,Sistema SaaS,Sí,Sí,688.1,2024-02-24
+PRJ-01312,72111.25,62,13,6,Portal Web,Sí,No,1866.9,2024-02-24
+PRJ-01313,46069.43,347,13,8,Sistema SaaS,Sí,No,1449.9,2024-02-24
+PRJ-01314,66297.33,79,3,4,Sistema SaaS,No,No,1526.4,2024-02-24
+PRJ-01315,38923.87,48,12,2,App Móvil,No,Sí,1018.9,2024-02-24
+PRJ-01316,53268.33,243,12,2,Portal Web,No,No,1340.2,2024-02-24
+PRJ-01317,44480.2,226,14,9,Sistema SaaS,No,No,1433.6,2024-02-24
+PRJ-01318,59869.21,76,13,1,E-commerce,Sí,No,1453.0,2024-02-24
+PRJ-01319,11122.25,196,7,7,E-commerce,Sí,No,582.8,2024-02-24
+PRJ-01320,9526.41,318,8,3,E-commerce,No,No,409.4,2024-02-24
+PRJ-01321,23532.74,170,2,3,App Móvil,Sí,Sí,608.8,2024-02-25
+PRJ-01322,16965.85,113,5,2,Sistema SaaS,No,Sí,482.5,2024-02-25
+PRJ-01323,70383.77,211,9,6,App Móvil,Sí,No,1764.5,2024-02-25
+PRJ-01324,21441.05,108,10,2,Portal Web,Sí,No,615.7,2024-02-25
+PRJ-01325,78189.89,244,14,4,Portal Web,Sí,Sí,1882.1,2024-02-25
+PRJ-01326,30267.18,43,4,9,Sistema SaaS,Sí,No,1074.4,2024-02-25
+PRJ-01327,18658.84,244,5,9,E-commerce,Sí,No,832.2,2024-02-25
+PRJ-01328,64227.39,157,3,6,Sistema SaaS,No,No,1578.1,2024-02-25
+PRJ-01329,54403.08,339,9,4,Sistema SaaS,No,No,1383.1,2024-02-25
+PRJ-01330,42364.68,277,5,7,Sistema SaaS,Sí,No,1184.9,2024-02-25
+PRJ-01331,46652.27,58,6,1,App Móvil,No,No,1057.7,2024-02-25
+PRJ-01332,58940.13,309,8,4,Portal Web,Sí,No,1452.5,2024-02-25
+PRJ-01333,22134.11,348,9,5,Sistema SaaS,Sí,No,774.1,2024-02-25
+PRJ-01334,79725.04,231,6,8,Sistema SaaS,Sí,Sí,2039.5,2024-02-25
+PRJ-01335,78109.49,86,5,2,Sistema SaaS,Sí,Sí,1753.3,2024-02-25
+PRJ-01336,53774.43,247,0,5,App Móvil,No,No,1308.6,2024-02-25
+PRJ-01337,19965.68,91,1,6,App Móvil,Sí,No,676.3,2024-02-25
+PRJ-01338,56017.12,186,0,5,App Móvil,No,No,1315.8,2024-02-25
+PRJ-01339,10414.88,231,8,9,Sistema SaaS,Sí,No,649.5,2024-02-25
+PRJ-01340,7298.94,46,9,1,E-commerce,Sí,Sí,302.2,2024-02-25
+PRJ-01341,24326.22,351,9,3,E-commerce,No,Sí,698.0,2024-02-25
+PRJ-01342,39696.72,35,8,2,E-commerce,Sí,Sí,916.4,2024-02-25
+PRJ-01343,70120.44,87,6,3,Portal Web,Sí,Sí,1600.6,2024-02-25
+PRJ-01344,59537.68,354,12,9,Sistema SaaS,No,No,1745.7,2024-02-25
+PRJ-01345,60702.99,347,1,9,E-commerce,No,No,1649.7,2024-02-26
+PRJ-01346,36912.0,198,5,2,E-commerce,No,No,914.8,2024-02-26
+PRJ-01347,30945.12,111,10,3,E-commerce,Sí,Sí,895.8,2024-02-26
+PRJ-01348,32827.91,248,3,4,Sistema SaaS,Sí,No,895.1,2024-02-26
+PRJ-01349,79073.72,206,0,9,E-commerce,No,No,1949.8,2024-02-26
+PRJ-01350,8008.19,233,0,3,E-commerce,No,Sí,291.4,2024-02-26
+PRJ-01351,70027.36,100,11,7,Sistema SaaS,Sí,Sí,1862.0,2024-02-26
+PRJ-01352,48400.66,295,4,3,Portal Web,Sí,Sí,1152.2,2024-02-26
+PRJ-01353,37896.16,127,11,7,App Móvil,No,Sí,1201.0,2024-02-26
+PRJ-01354,59394.32,320,1,7,E-commerce,No,Sí,1515.6,2024-02-26
+PRJ-01355,41500.17,237,3,9,App Móvil,No,No,1277.1,2024-02-26
+PRJ-01356,70506.74,31,0,2,Portal Web,No,No,1498.2,2024-02-26
+PRJ-01357,72552.64,153,3,6,Portal Web,Sí,Sí,1735.9,2024-02-26
+PRJ-01358,36629.07,309,10,9,E-commerce,Sí,No,1215.0,2024-02-26
+PRJ-01359,25762.08,103,5,2,Sistema SaaS,Sí,No,660.1,2024-02-26
+PRJ-01360,49426.27,195,9,2,Portal Web,Sí,No,1188.0,2024-02-26
+PRJ-01361,73427.25,51,3,5,App Móvil,No,No,1730.7,2024-02-26
+PRJ-01362,20799.66,183,0,8,App Móvil,Sí,Sí,799.8,2024-02-26
+PRJ-01363,51722.49,324,6,9,App Móvil,No,No,1539.7,2024-02-26
+PRJ-01364,52367.02,248,13,2,App Móvil,Sí,No,1290.7,2024-02-26
+PRJ-01365,59983.48,186,1,5,Portal Web,Sí,No,1434.2,2024-02-26
+PRJ-01366,14867.58,259,8,7,E-commerce,Sí,Sí,722.7,2024-02-26
+PRJ-01367,58686.87,49,12,6,E-commerce,No,No,1598.4,2024-02-26
+PRJ-01368,73177.44,70,2,6,App Móvil,Sí,Sí,1746.5,2024-02-26
+PRJ-01369,18476.23,177,7,7,E-commerce,No,Sí,785.0,2024-02-27
+PRJ-01370,22815.75,137,12,3,App Móvil,No,Sí,731.7,2024-02-27
+PRJ-01371,77854.63,113,7,3,App Móvil,Sí,Sí,1773.0,2024-02-27
+PRJ-01372,18573.27,351,2,9,Sistema SaaS,No,No,811.3,2024-02-27
+PRJ-01373,69078.88,338,3,8,Portal Web,Sí,Sí,1770.0,2024-02-27
+PRJ-01374,41920.84,319,1,5,Portal Web,No,Sí,1077.8,2024-02-27
+PRJ-01375,23542.33,352,3,6,App Móvil,Sí,Sí,784.3,2024-02-27
+PRJ-01376,70306.24,163,10,1,Portal Web,No,Sí,1591.6,2024-02-27
+PRJ-01377,38397.89,236,10,1,E-commerce,No,Sí,951.7,2024-02-27
+PRJ-01378,43611.3,312,10,4,App Móvil,Sí,No,1178.9,2024-02-27
+PRJ-01379,31942.5,295,13,2,Sistema SaaS,Sí,Sí,819.6,2024-02-27
+PRJ-01380,49471.31,102,8,7,E-commerce,Sí,No,1406.5,2024-02-27
+PRJ-01381,17264.29,77,1,2,Sistema SaaS,Sí,No,457.2,2024-02-27
+PRJ-01382,34331.12,355,11,2,Sistema SaaS,No,Sí,923.6,2024-02-27
+PRJ-01383,77705.92,262,11,5,Portal Web,No,No,1887.2,2024-02-27
+PRJ-01384,24360.01,129,12,4,Portal Web,No,No,758.1,2024-02-27
+PRJ-01385,54255.25,88,2,8,App Móvil,No,No,1489.3,2024-02-27
+PRJ-01386,29389.25,287,14,4,Portal Web,Sí,Sí,905.2,2024-02-27
+PRJ-01387,63010.48,94,10,6,Sistema SaaS,No,Sí,1680.8,2024-02-27
+PRJ-01388,14815.52,112,10,5,Sistema SaaS,Sí,Sí,626.8,2024-02-27
+PRJ-01389,77736.58,183,14,2,E-commerce,No,Sí,1787.1,2024-02-27
+PRJ-01390,39034.22,295,3,8,Sistema SaaS,Sí,Sí,1185.4,2024-02-27
+PRJ-01391,22703.78,338,4,2,App Móvil,Sí,Sí,607.5,2024-02-27
+PRJ-01392,10512.26,108,0,9,App Móvil,Sí,Sí,629.2,2024-02-27
+PRJ-01393,17731.84,344,6,9,Portal Web,Sí,No,844.2,2024-02-28
+PRJ-01394,43983.05,179,13,3,Portal Web,Sí,No,1153.0,2024-02-28
+PRJ-01395,30275.24,77,9,4,Portal Web,No,Sí,855.3,2024-02-28
+PRJ-01396,67166.25,277,6,8,App Móvil,Sí,No,1765.6,2024-02-28
+PRJ-01397,37316.56,307,8,9,Sistema SaaS,No,Sí,1218.7,2024-02-28
+PRJ-01398,23653.57,127,3,3,Portal Web,No,Sí,654.9,2024-02-28
+PRJ-01399,51285.87,54,13,5,E-commerce,Sí,Sí,1428.6,2024-02-28
+PRJ-01400,58008.29,313,13,8,Portal Web,No,No,1680.5,2024-02-28
+PRJ-01401,17528.14,330,5,3,App Móvil,No,Sí,545.5,2024-02-28
+PRJ-01402,17571.44,97,10,7,Portal Web,No,Sí,778.7,2024-02-28
+PRJ-01403,7750.36,36,1,8,Sistema SaaS,Sí,Sí,551.5,2024-02-28
+PRJ-01404,60230.15,334,11,3,Portal Web,Sí,Sí,1425.8,2024-02-28
+PRJ-01405,54785.34,166,11,2,App Móvil,Sí,No,1287.6,2024-02-28
+PRJ-01406,40597.32,193,13,7,App Móvil,Sí,Sí,1328.6,2024-02-28
+PRJ-01407,68312.78,112,3,9,E-commerce,No,No,1775.9,2024-02-28
+PRJ-01408,65425.26,167,1,1,App Móvil,No,No,1378.8,2024-02-28
+PRJ-01409,48901.58,102,9,3,E-commerce,No,Sí,1239.5,2024-02-28
+PRJ-01410,70120.35,266,4,5,Sistema SaaS,No,Sí,1627.3,2024-02-28
+PRJ-01411,20438.09,75,14,3,App Móvil,No,No,668.4,2024-02-28
+PRJ-01412,13393.97,135,6,1,Portal Web,No,No,416.5,2024-02-28
+PRJ-01413,25231.22,317,12,7,Sistema SaaS,Sí,No,939.3,2024-02-28
+PRJ-01414,9281.51,291,0,7,Portal Web,No,No,477.0,2024-02-28
+PRJ-01415,44837.71,205,14,8,Portal Web,No,Sí,1411.7,2024-02-28
+PRJ-01416,75245.43,195,9,5,Portal Web,No,No,1813.6,2024-02-28
+PRJ-01417,7950.77,174,9,5,Sistema SaaS,Sí,No,505.2,2024-02-29
+PRJ-01418,14158.24,359,6,5,Sistema SaaS,No,No,550.6,2024-02-29
+PRJ-01419,38914.93,312,9,1,App Móvil,No,No,882.2,2024-02-29
+PRJ-01420,75040.63,83,12,5,Portal Web,Sí,Sí,1898.7,2024-02-29
+PRJ-01421,28711.71,207,5,6,E-commerce,No,Sí,875.9,2024-02-29
+PRJ-01422,43042.61,273,5,1,App Móvil,Sí,Sí,947.1,2024-02-29
+PRJ-01423,8117.96,156,11,7,Sistema SaaS,Sí,No,630.1,2024-02-29
+PRJ-01424,16125.74,300,7,1,E-commerce,No,No,453.3,2024-02-29
+PRJ-01425,78997.26,161,7,2,Sistema SaaS,No,Sí,1781.8,2024-02-29
+PRJ-01426,77383.9,122,5,2,E-commerce,Sí,Sí,1718.8,2024-02-29
+PRJ-01427,5370.5,102,2,5,App Móvil,No,No,345.1,2024-02-29
+PRJ-01428,76385.88,277,4,7,E-commerce,No,Sí,1916.3,2024-02-29
+PRJ-01429,52934.0,302,1,1,App Móvil,Sí,No,1119.9,2024-02-29
+PRJ-01430,70093.87,72,14,1,Sistema SaaS,Sí,No,1599.9,2024-02-29
+PRJ-01431,39105.49,70,13,1,E-commerce,No,No,990.4,2024-02-29
+PRJ-01432,43669.7,199,4,6,Portal Web,Sí,No,1158.7,2024-02-29
+PRJ-01433,41663.49,241,13,2,Portal Web,No,No,1100.1,2024-02-29
+PRJ-01434,55014.82,197,8,1,Sistema SaaS,No,No,1258.9,2024-02-29
+PRJ-01435,15473.84,68,9,6,E-commerce,No,Sí,690.5,2024-02-29
+PRJ-01436,7248.02,274,0,2,Portal Web,No,Sí,187.0,2024-02-29
+PRJ-01437,28094.75,180,9,6,App Móvil,Sí,Sí,968.8,2024-02-29
+PRJ-01438,57851.06,140,4,8,E-commerce,No,No,1575.9,2024-02-29
+PRJ-01439,20139.01,76,11,2,E-commerce,Sí,Sí,624.2,2024-02-29
+PRJ-01440,55507.43,92,5,9,Portal Web,No,No,1570.6,2024-02-29
+PRJ-01441,77743.4,254,13,8,App Móvil,No,No,2057.5,2024-03-01
+PRJ-01442,12042.55,98,10,1,App Móvil,Sí,No,397.2,2024-03-01
+PRJ-01443,55445.16,328,6,7,App Móvil,No,No,1515.1,2024-03-01
+PRJ-01444,38281.27,319,8,6,E-commerce,Sí,Sí,1118.7,2024-03-01
+PRJ-01445,70110.67,325,5,6,Sistema SaaS,Sí,Sí,1725.4,2024-03-01
+PRJ-01446,18286.23,232,4,6,E-commerce,No,Sí,680.5,2024-03-01
+PRJ-01447,56946.95,90,11,6,E-commerce,No,No,1538.4,2024-03-01
+PRJ-01448,67858.65,347,6,7,Portal Web,No,Sí,1728.7,2024-03-01
+PRJ-01449,75846.07,343,12,3,Sistema SaaS,No,Sí,1791.7,2024-03-01
+PRJ-01450,56243.6,190,0,6,App Móvil,Sí,Sí,1403.5,2024-03-01
+PRJ-01451,42288.11,360,10,3,Portal Web,No,No,1078.1,2024-03-01
+PRJ-01452,51338.54,45,13,7,E-commerce,No,Sí,1493.6,2024-03-01
+PRJ-01453,70167.87,123,4,7,Sistema SaaS,No,No,1814.6,2024-03-01
+PRJ-01454,47795.73,333,14,8,App Móvil,No,Sí,1482.3,2024-03-01
+PRJ-01455,7279.03,167,1,2,App Móvil,No,No,224.3,2024-03-01
+PRJ-01456,74821.15,67,3,9,E-commerce,Sí,Sí,1911.2,2024-03-01
+PRJ-01457,56714.51,156,6,5,App Móvil,No,Sí,1399.7,2024-03-01
+PRJ-01458,55738.5,304,4,9,App Móvil,Sí,Sí,1608.4,2024-03-01
+PRJ-01459,21175.64,193,11,5,Sistema SaaS,No,No,805.7,2024-03-01
+PRJ-01460,54416.41,348,5,7,Portal Web,No,Sí,1431.1,2024-03-01
+PRJ-01461,34539.83,106,1,9,Sistema SaaS,No,Sí,1113.1,2024-03-01
+PRJ-01462,53842.47,203,2,4,Portal Web,Sí,No,1311.5,2024-03-01
+PRJ-01463,12994.48,350,6,2,Portal Web,No,No,420.9,2024-03-01
+PRJ-01464,54338.4,120,10,9,Portal Web,Sí,No,1599.5,2024-03-01
+PRJ-01465,79956.03,267,1,2,App Móvil,Sí,No,1757.1,2024-03-02
+PRJ-01466,8615.9,293,11,3,Sistema SaaS,No,Sí,391.7,2024-03-02
+PRJ-01467,78288.06,208,5,2,App Móvil,Sí,Sí,1781.6,2024-03-02
+PRJ-01468,35518.1,238,4,3,E-commerce,No,No,894.9,2024-03-02
+PRJ-01469,70306.51,102,9,6,Sistema SaaS,No,Sí,1816.4,2024-03-02
+PRJ-01470,63678.91,136,0,3,Portal Web,Sí,No,1378.6,2024-03-02
+PRJ-01471,47526.22,324,11,8,App Móvil,No,Sí,1424.4,2024-03-02
+PRJ-01472,60383.69,313,10,6,App Móvil,No,No,1570.7,2024-03-02
+PRJ-01473,70888.67,211,14,7,Sistema SaaS,Sí,Sí,1898.2,2024-03-02
+PRJ-01474,35310.52,66,9,1,Sistema SaaS,Sí,No,866.9,2024-03-02
+PRJ-01475,29527.49,166,10,3,Portal Web,Sí,No,872.2,2024-03-02
+PRJ-01476,55069.5,85,3,3,Portal Web,Sí,Sí,1229.6,2024-03-02
+PRJ-01477,65588.45,216,10,2,E-commerce,Sí,Sí,1525.7,2024-03-02
+PRJ-01478,62171.39,287,1,7,Portal Web,Sí,Sí,1592.8,2024-03-02
+PRJ-01479,64836.02,87,3,9,App Móvil,No,No,1764.8,2024-03-02
+PRJ-01480,37668.75,152,0,4,E-commerce,Sí,Sí,922.4,2024-03-02
+PRJ-01481,66337.57,217,1,5,E-commerce,Sí,No,1553.0,2024-03-02
+PRJ-01482,14015.68,259,12,3,E-commerce,No,Sí,557.0,2024-03-02
+PRJ-01483,45836.68,197,7,9,Sistema SaaS,No,Sí,1410.4,2024-03-02
+PRJ-01484,5431.9,143,5,4,Portal Web,Sí,No,381.2,2024-03-02
+PRJ-01485,29343.94,281,1,5,E-commerce,Sí,No,793.6,2024-03-02
+PRJ-01486,32484.62,136,11,1,Sistema SaaS,No,Sí,807.0,2024-03-02
+PRJ-01487,34712.95,66,14,2,Sistema SaaS,Sí,No,919.0,2024-03-02
+PRJ-01488,57160.04,364,5,9,E-commerce,Sí,No,1618.9,2024-03-02
+PRJ-01489,34141.86,121,9,2,E-commerce,No,Sí,908.4,2024-03-03
+PRJ-01490,38652.02,47,8,5,App Móvil,Sí,No,1058.5,2024-03-03
+PRJ-01491,22815.81,92,6,8,E-commerce,No,Sí,890.5,2024-03-03
+PRJ-01492,32993.88,179,8,3,App Móvil,Sí,Sí,916.6,2024-03-03
+PRJ-01493,22045.22,168,4,6,E-commerce,No,No,778.5,2024-03-03
+PRJ-01494,10489.69,215,6,4,E-commerce,No,Sí,481.1,2024-03-03
+PRJ-01495,50258.64,214,10,7,Portal Web,No,No,1410.4,2024-03-03
+PRJ-01496,55115.96,234,14,3,E-commerce,Sí,Sí,1424.6,2024-03-03
+PRJ-01497,51461.78,289,13,6,E-commerce,No,No,1450.6,2024-03-03
+PRJ-01498,39762.05,243,6,9,App Móvil,Sí,No,1299.0,2024-03-03
+PRJ-01499,33483.93,285,11,1,App Móvil,No,No,857.9,2024-03-03
+PRJ-01500,69750.02,164,11,3,Portal Web,No,No,1641.6,2024-03-03
+PRJ-01501,43931.13,90,2,2,E-commerce,No,No,999.6,2024-03-03
+PRJ-01502,40938.64,339,6,8,E-commerce,Sí,Sí,1271.2,2024-03-03
+PRJ-01503,6923.15,117,0,7,App Móvil,Sí,Sí,440.8,2024-03-03
+PRJ-01504,30593.59,353,8,2,Sistema SaaS,No,No,801.1,2024-03-03
+PRJ-01505,33514.67,236,9,6,Sistema SaaS,Sí,Sí,1014.9,2024-03-03
+PRJ-01506,34911.71,158,12,3,Sistema SaaS,Sí,No,991.0,2024-03-03
+PRJ-01507,48512.93,340,5,8,App Móvil,Sí,No,1388.9,2024-03-03
+PRJ-01508,45020.19,32,4,3,App Móvil,No,Sí,1106.3,2024-03-03
+PRJ-01509,50592.88,271,6,9,Sistema SaaS,Sí,Sí,1501.9,2024-03-03
+PRJ-01510,62366.24,150,4,1,Sistema SaaS,No,No,1330.1,2024-03-03
+PRJ-01511,65973.93,131,9,5,E-commerce,No,No,1631.3,2024-03-03
+PRJ-01512,58859.23,67,4,3,App Móvil,No,No,1333.3,2024-03-03
+PRJ-01513,76664.28,162,10,6,App Móvil,Sí,No,1910.6,2024-03-04
+PRJ-01514,6367.44,231,9,2,Sistema SaaS,No,No,347.5,2024-03-04
+PRJ-01515,19683.35,50,10,9,Sistema SaaS,Sí,No,874.8,2024-03-04
+PRJ-01516,5567.22,271,6,6,Portal Web,Sí,Sí,427.5,2024-03-04
+PRJ-01517,53560.6,138,9,7,App Móvil,No,No,1515.7,2024-03-04
+PRJ-01518,72352.29,332,14,5,Portal Web,No,No,1873.3,2024-03-04
+PRJ-01519,23261.17,113,6,9,E-commerce,No,Sí,917.6,2024-03-04
+PRJ-01520,74527.59,112,12,1,Portal Web,Sí,No,1653.4,2024-03-04
+PRJ-01521,9520.05,320,10,5,Sistema SaaS,Sí,No,570.6,2024-03-04
+PRJ-01522,75082.7,98,14,6,App Móvil,No,Sí,1936.6,2024-03-04
+PRJ-01523,31371.7,158,2,7,App Móvil,No,No,944.1,2024-03-04
+PRJ-01524,12606.56,225,2,4,Portal Web,Sí,Sí,482.2,2024-03-04
+PRJ-01525,41440.38,169,9,1,Portal Web,Sí,No,994.4,2024-03-04
+PRJ-01526,24258.24,312,11,8,E-commerce,No,Sí,995.6,2024-03-04
+PRJ-01527,26365.47,341,12,4,E-commerce,Sí,Sí,830.2,2024-03-04
+PRJ-01528,28046.75,263,14,3,Sistema SaaS,Sí,Sí,873.3,2024-03-04
+PRJ-01529,65226.94,52,2,7,Sistema SaaS,Sí,No,1674.7,2024-03-04
+PRJ-01530,45437.1,182,5,2,Sistema SaaS,Sí,No,1074.8,2024-03-04
+PRJ-01531,28348.08,306,11,8,Portal Web,Sí,Sí,1082.0,2024-03-04
+PRJ-01532,50775.03,90,14,6,Portal Web,Sí,Sí,1488.6,2024-03-04
+PRJ-01533,58711.3,348,5,7,App Móvil,No,No,1559.9,2024-03-04
+PRJ-01534,25446.8,81,12,5,Sistema SaaS,Sí,No,863.8,2024-03-04
+PRJ-01535,36016.18,182,12,9,Portal Web,No,No,1291.3,2024-03-04
+PRJ-01536,14141.46,266,2,5,App Móvil,No,No,504.2,2024-03-04
+PRJ-01537,18586.2,340,2,5,Sistema SaaS,Sí,No,615.2,2024-03-05
+PRJ-01538,56083.84,331,7,3,E-commerce,No,Sí,1355.4,2024-03-05
+PRJ-01539,18607.88,61,7,1,E-commerce,No,No,420.7,2024-03-05
+PRJ-01540,44387.25,84,6,2,Portal Web,No,Sí,1056.1,2024-03-05
+PRJ-01541,58178.47,65,9,8,App Móvil,Sí,No,1639.1,2024-03-05
+PRJ-01542,13015.77,139,3,1,E-commerce,No,Sí,312.9,2024-03-05
+PRJ-01543,47548.42,206,14,7,App Móvil,Sí,Sí,1442.1,2024-03-05
+PRJ-01544,24242.21,343,3,5,App Móvil,No,No,750.6,2024-03-05
+PRJ-01545,77219.52,324,2,3,E-commerce,No,Sí,1704.2,2024-03-05
+PRJ-01546,41265.92,126,4,7,App Móvil,No,Sí,1218.1,2024-03-05
+PRJ-01547,65449.44,242,2,9,E-commerce,No,Sí,1760.0,2024-03-05
+PRJ-01548,46266.99,346,12,2,Portal Web,Sí,Sí,1175.3,2024-03-05
+PRJ-01549,8255.94,166,7,8,Sistema SaaS,No,No,583.5,2024-03-05
+PRJ-01550,52486.35,35,6,9,Sistema SaaS,No,Sí,1526.3,2024-03-05
+PRJ-01551,76355.25,138,12,3,Portal Web,Sí,No,1835.7,2024-03-05
+PRJ-01552,50120.89,64,2,2,E-commerce,Sí,Sí,1111.1,2024-03-05
+PRJ-01553,66439.16,68,8,7,E-commerce,Sí,No,1778.6,2024-03-05
+PRJ-01554,71315.48,179,11,5,E-commerce,No,No,1800.0,2024-03-05
+PRJ-01555,22105.98,147,13,5,E-commerce,Sí,No,865.9,2024-03-05
+PRJ-01556,20903.36,290,12,5,Portal Web,Sí,Sí,760.4,2024-03-05
+PRJ-01557,50823.57,116,4,4,Sistema SaaS,Sí,No,1240.6,2024-03-05
+PRJ-01558,35827.14,105,8,5,App Móvil,Sí,No,1036.0,2024-03-05
+PRJ-01559,67989.6,342,6,4,App Móvil,Sí,Sí,1626.9,2024-03-05
+PRJ-01560,72501.73,243,14,6,Sistema SaaS,Sí,No,1869.6,2024-03-05
+PRJ-01561,31506.6,314,6,4,Portal Web,No,Sí,841.9,2024-03-06
+PRJ-01562,22765.29,268,5,2,App Móvil,Sí,Sí,614.8,2024-03-06
+PRJ-01563,63539.41,194,1,9,Sistema SaaS,No,No,1678.6,2024-03-06
+PRJ-01564,25610.45,116,8,2,Portal Web,Sí,Sí,686.4,2024-03-06
+PRJ-01565,66696.07,170,5,9,App Móvil,Sí,Sí,1781.6,2024-03-06
+PRJ-01566,36780.37,189,7,6,E-commerce,Sí,Sí,1092.7,2024-03-06
+PRJ-01567,55066.24,75,0,9,E-commerce,No,No,1479.4,2024-03-06
+PRJ-01568,12165.15,141,4,9,Portal Web,Sí,Sí,691.4,2024-03-06
+PRJ-01569,51789.45,74,11,3,E-commerce,Sí,Sí,1282.1,2024-03-06
+PRJ-01570,38882.58,276,0,1,Portal Web,Sí,Sí,807.4,2024-03-06
+PRJ-01571,48995.63,133,9,1,Sistema SaaS,Sí,No,1141.8,2024-03-06
+PRJ-01572,17601.07,114,10,3,Sistema SaaS,No,Sí,623.3,2024-03-06
+PRJ-01573,60265.53,163,13,5,App Móvil,No,No,1578.7,2024-03-06
+PRJ-01574,69709.78,137,7,3,Portal Web,No,Sí,1637.4,2024-03-06
+PRJ-01575,21255.49,47,7,9,App Móvil,No,No,889.8,2024-03-06
+PRJ-01576,12178.59,123,0,9,App Móvil,No,No,610.6,2024-03-06
+PRJ-01577,6772.89,179,8,3,Sistema SaaS,Sí,No,333.0,2024-03-06
+PRJ-01578,53147.86,275,1,3,App Móvil,Sí,Sí,1183.1,2024-03-06
+PRJ-01579,50532.05,318,11,5,E-commerce,Sí,Sí,1334.8,2024-03-06
+PRJ-01580,46002.31,238,8,2,App Móvil,No,Sí,1156.6,2024-03-06
+PRJ-01581,22396.03,155,0,6,Portal Web,Sí,No,679.2,2024-03-06
+PRJ-01582,34317.95,264,11,7,E-commerce,No,Sí,1156.8,2024-03-06
+PRJ-01583,49585.73,151,9,9,Sistema SaaS,Sí,Sí,1504.1,2024-03-06
+PRJ-01584,42257.51,167,13,6,Portal Web,No,No,1276.8,2024-03-06
+PRJ-01585,79083.91,144,13,3,E-commerce,Sí,Sí,1850.0,2024-03-07
+PRJ-01586,15232.98,191,8,5,Portal Web,Sí,Sí,633.8,2024-03-07
+PRJ-01587,57135.84,230,3,4,E-commerce,Sí,No,1335.9,2024-03-07
+PRJ-01588,35323.91,263,8,5,Portal Web,Sí,No,1050.5,2024-03-07
+PRJ-01589,37114.97,57,6,8,Portal Web,No,Sí,1199.4,2024-03-07
+PRJ-01590,58819.83,40,10,8,E-commerce,Sí,No,1653.0,2024-03-07
+PRJ-01591,56932.71,235,5,6,Sistema SaaS,Sí,Sí,1466.9,2024-03-07
+PRJ-01592,79344.2,196,14,1,Sistema SaaS,Sí,Sí,1810.7,2024-03-07
+PRJ-01593,14629.57,276,4,8,Portal Web,No,Sí,710.1,2024-03-07
+PRJ-01594,12808.22,76,10,8,Portal Web,Sí,Sí,761.8,2024-03-07
+PRJ-01595,59325.41,275,8,2,Sistema SaaS,Sí,Sí,1397.4,2024-03-07
+PRJ-01596,48379.02,156,1,4,Sistema SaaS,Sí,No,1158.9,2024-03-07
+PRJ-01597,25562.05,176,13,2,App Móvil,Sí,No,745.3,2024-03-07
+PRJ-01598,10956.45,147,12,4,Sistema SaaS,Sí,Sí,563.4,2024-03-07
+PRJ-01599,11424.37,181,10,7,Portal Web,No,No,659.6,2024-03-07
+PRJ-01600,72064.32,101,13,9,E-commerce,No,No,2005.1,2024-03-07
+PRJ-01601,19390.05,166,11,8,Sistema SaaS,No,Sí,893.1,2024-03-07
+PRJ-01602,29252.87,204,1,9,App Móvil,Sí,No,1026.4,2024-03-07
+PRJ-01603,21999.23,318,10,8,App Móvil,No,No,926.5,2024-03-07
+PRJ-01604,31624.72,48,11,2,App Móvil,Sí,Sí,839.8,2024-03-07
+PRJ-01605,10206.79,224,14,7,E-commerce,Sí,Sí,732.1,2024-03-07
+PRJ-01606,43929.48,359,8,2,Sistema SaaS,Sí,Sí,1102.8,2024-03-07
+PRJ-01607,10070.94,204,11,2,Sistema SaaS,Sí,Sí,398.0,2024-03-07
+PRJ-01608,65026.74,170,2,4,Sistema SaaS,No,Sí,1481.7,2024-03-07
+PRJ-01609,22528.41,275,7,1,E-commerce,No,Sí,559.9,2024-03-08
+PRJ-01610,45500.89,122,10,5,E-commerce,No,Sí,1276.2,2024-03-08
+PRJ-01611,71005.93,268,14,6,Portal Web,Sí,No,1904.0,2024-03-08
+PRJ-01612,53815.8,234,8,9,App Móvil,No,Sí,1564.7,2024-03-08
+PRJ-01613,44971.83,77,7,8,App Móvil,No,No,1347.7,2024-03-08
+PRJ-01614,29325.03,274,3,2,Sistema SaaS,Sí,No,693.7,2024-03-08
+PRJ-01615,29975.14,349,11,1,E-commerce,No,Sí,819.0,2024-03-08
+PRJ-01616,55211.52,346,0,2,E-commerce,Sí,No,1214.9,2024-03-08
+PRJ-01617,79560.45,324,3,7,Sistema SaaS,No,No,1921.6,2024-03-08
+PRJ-01618,54637.94,157,13,4,Sistema SaaS,No,No,1376.2,2024-03-08
+PRJ-01619,46833.76,311,8,5,Portal Web,No,Sí,1283.6,2024-03-08
+PRJ-01620,59798.79,46,1,7,App Móvil,Sí,No,1508.7,2024-03-08
+PRJ-01621,39890.42,100,2,3,App Móvil,No,No,977.9,2024-03-08
+PRJ-01622,9510.68,298,9,2,App Móvil,No,Sí,395.6,2024-03-08
+PRJ-01623,47172.26,354,7,7,Portal Web,No,No,1296.6,2024-03-08
+PRJ-01624,76821.9,311,5,5,Sistema SaaS,No,No,1801.3,2024-03-08
+PRJ-01625,18147.72,334,7,1,Sistema SaaS,Sí,No,483.1,2024-03-08
+PRJ-01626,56750.37,36,6,1,App Móvil,Sí,No,1235.1,2024-03-08
+PRJ-01627,20070.03,343,13,9,App Móvil,No,No,965.3,2024-03-08
+PRJ-01628,45187.08,334,12,5,Portal Web,No,Sí,1282.8,2024-03-08
+PRJ-01629,12250.73,132,12,1,E-commerce,No,No,478.7,2024-03-08
+PRJ-01630,38777.82,338,4,7,E-commerce,Sí,Sí,1150.4,2024-03-08
+PRJ-01631,61712.25,222,8,9,App Móvil,No,No,1772.5,2024-03-08
+PRJ-01632,31067.86,270,3,1,Portal Web,No,Sí,690.4,2024-03-08
+PRJ-01633,54868.38,91,5,4,App Móvil,Sí,Sí,1366.5,2024-03-09
+PRJ-01634,64658.75,46,1,3,E-commerce,Sí,Sí,1430.6,2024-03-09
+PRJ-01635,74538.34,200,14,5,App Móvil,Sí,No,1860.8,2024-03-09
+PRJ-01636,22598.16,54,1,7,E-commerce,No,No,755.0,2024-03-09
+PRJ-01637,34948.69,280,1,8,E-commerce,Sí,No,1004.9,2024-03-09
+PRJ-01638,16431.2,282,9,2,E-commerce,Sí,No,548.0,2024-03-09
+PRJ-01639,79436.26,236,6,7,Sistema SaaS,No,No,1943.5,2024-03-09
+PRJ-01640,74525.07,58,12,1,Sistema SaaS,Sí,Sí,1714.7,2024-03-09
+PRJ-01641,45496.78,146,1,7,App Móvil,No,Sí,1232.6,2024-03-09
+PRJ-01642,68152.5,311,14,8,E-commerce,No,Sí,1852.2,2024-03-09
+PRJ-01643,44071.85,173,14,2,Sistema SaaS,Sí,No,1111.5,2024-03-09
+PRJ-01644,51768.93,54,11,9,App Móvil,No,No,1577.1,2024-03-09
+PRJ-01645,11684.33,339,14,1,App Móvil,Sí,Sí,399.7,2024-03-09
+PRJ-01646,61645.28,185,12,6,App Móvil,Sí,No,1661.7,2024-03-09
+PRJ-01647,14578.51,102,1,1,App Móvil,Sí,No,310.7,2024-03-09
+PRJ-01648,66955.07,149,14,3,App Móvil,No,Sí,1623.6,2024-03-09
+PRJ-01649,63652.11,341,8,6,Portal Web,Sí,Sí,1644.0,2024-03-09
+PRJ-01650,58155.85,350,6,3,E-commerce,No,No,1381.8,2024-03-09
+PRJ-01651,7712.03,122,10,8,App Móvil,No,No,654.2,2024-03-09
+PRJ-01652,27734.63,115,2,5,Portal Web,No,Sí,771.0,2024-03-09
+PRJ-01653,24733.44,147,2,2,E-commerce,Sí,No,601.0,2024-03-09
+PRJ-01654,32010.23,262,6,4,Sistema SaaS,No,Sí,919.5,2024-03-09
+PRJ-01655,11573.21,228,4,9,App Móvil,No,Sí,676.8,2024-03-09
+PRJ-01656,75271.84,235,9,4,Portal Web,Sí,Sí,1800.8,2024-03-09
+PRJ-01657,46535.17,176,13,8,Sistema SaaS,Sí,No,1450.8,2024-03-10
+PRJ-01658,27914.32,300,13,5,Portal Web,No,Sí,971.8,2024-03-10
+PRJ-01659,34773.61,168,5,1,E-commerce,No,Sí,788.8,2024-03-10
+PRJ-01660,38540.19,210,12,7,E-commerce,Sí,No,1195.1,2024-03-10
+PRJ-01661,50044.58,59,11,3,Sistema SaaS,No,Sí,1243.7,2024-03-10
+PRJ-01662,43675.96,86,7,8,Portal Web,No,No,1322.2,2024-03-10
+PRJ-01663,73954.4,261,8,3,App Móvil,No,No,1670.8,2024-03-10
+PRJ-01664,42272.26,175,0,1,App Móvil,No,No,876.8,2024-03-10
+PRJ-01665,79411.85,77,2,5,Sistema SaaS,Sí,Sí,1839.1,2024-03-10
+PRJ-01666,68856.87,223,10,2,Sistema SaaS,No,Sí,1568.0,2024-03-10
+PRJ-01667,20638.29,253,6,4,Sistema SaaS,Sí,No,672.9,2024-03-10
+PRJ-01668,74794.64,165,5,1,Portal Web,No,No,1619.0,2024-03-10
+PRJ-01669,13727.48,51,6,9,App Móvil,Sí,No,762.9,2024-03-10
+PRJ-01670,66308.73,35,7,6,App Móvil,No,Sí,1641.5,2024-03-10
+PRJ-01671,33546.75,233,5,8,App Móvil,Sí,No,1092.9,2024-03-10
+PRJ-01672,70848.07,268,2,4,Sistema SaaS,No,No,1624.9,2024-03-10
+PRJ-01673,70104.25,214,1,9,App Móvil,Sí,No,1809.6,2024-03-10
+PRJ-01674,65444.41,321,11,2,E-commerce,No,Sí,1538.7,2024-03-10
+PRJ-01675,64252.28,364,6,9,Sistema SaaS,No,No,1769.0,2024-03-10
+PRJ-01676,27850.94,249,11,5,App Móvil,Sí,Sí,911.7,2024-03-10
+PRJ-01677,11068.95,145,11,6,Portal Web,Sí,Sí,598.3,2024-03-10
+PRJ-01678,35223.51,342,11,3,Sistema SaaS,Sí,No,970.8,2024-03-10
+PRJ-01679,18014.34,78,10,4,E-commerce,Sí,No,707.0,2024-03-10
+PRJ-01680,57121.33,202,0,6,E-commerce,Sí,No,1402.6,2024-03-10
+PRJ-01681,30957.48,111,2,7,Portal Web,No,Sí,984.3,2024-03-11
+PRJ-01682,78170.77,351,11,1,Portal Web,Sí,Sí,1741.4,2024-03-11
+PRJ-01683,53072.91,362,10,7,Sistema SaaS,Sí,Sí,1476.4,2024-03-11
+PRJ-01684,66686.04,74,3,1,Sistema SaaS,No,No,1407.3,2024-03-11
+PRJ-01685,14939.35,364,12,5,E-commerce,Sí,Sí,667.4,2024-03-11
+PRJ-01686,69651.09,49,13,6,Portal Web,Sí,No,1835.4,2024-03-11
+PRJ-01687,74206.79,250,0,2,Sistema SaaS,Sí,No,1633.6,2024-03-11
+PRJ-01688,41529.64,152,4,9,E-commerce,No,No,1285.0,2024-03-11
+PRJ-01689,50468.97,263,9,6,Portal Web,Sí,Sí,1356.6,2024-03-11
+PRJ-01690,62360.74,250,2,7,E-commerce,No,Sí,1544.9,2024-03-11
+PRJ-01691,18112.9,352,1,8,App Móvil,No,Sí,723.7,2024-03-11
+PRJ-01692,42692.46,32,14,1,Portal Web,Sí,No,1038.6,2024-03-11
+PRJ-01693,34899.73,211,2,8,Sistema SaaS,No,Sí,1095.9,2024-03-11
+PRJ-01694,15978.05,235,7,4,Sistema SaaS,Sí,Sí,597.7,2024-03-11
+PRJ-01695,32565.08,349,5,8,App Móvil,Sí,No,1067.7,2024-03-11
+PRJ-01696,10112.92,69,12,6,Portal Web,Sí,No,632.7,2024-03-11
+PRJ-01697,6935.89,88,13,9,E-commerce,Sí,Sí,701.3,2024-03-11
+PRJ-01698,15137.47,91,6,4,Sistema SaaS,Sí,No,601.4,2024-03-11
+PRJ-01699,77233.63,161,11,2,App Móvil,No,Sí,1782.3,2024-03-11
+PRJ-01700,46214.72,89,5,2,App Móvil,No,No,1096.7,2024-03-11
+PRJ-01701,77436.66,360,5,5,Portal Web,No,No,1797.5,2024-03-11
+PRJ-01702,37437.34,151,11,9,Portal Web,No,Sí,1256.5,2024-03-11
+PRJ-01703,28386.21,136,2,3,Sistema SaaS,Sí,No,738.7,2024-03-11
+PRJ-01704,42960.64,125,11,8,App Móvil,Sí,No,1312.5,2024-03-11
+PRJ-01705,37963.38,264,12,4,E-commerce,No,No,1067.7,2024-03-12
+PRJ-01706,12924.85,91,13,6,App Móvil,Sí,Sí,714.0,2024-03-12
+PRJ-01707,53061.97,285,7,6,E-commerce,No,No,1399.1,2024-03-12
+PRJ-01708,21202.86,78,11,3,E-commerce,No,No,660.8,2024-03-12
+PRJ-01709,51469.1,188,6,5,Sistema SaaS,No,Sí,1343.1,2024-03-12
+PRJ-01710,53765.08,153,6,3,App Móvil,No,Sí,1334.1,2024-03-12
+PRJ-01711,16401.86,346,5,1,E-commerce,Sí,No,412.8,2024-03-12
+PRJ-01712,9601.22,236,4,7,Portal Web,Sí,No,585.6,2024-03-12
+PRJ-01713,63557.12,77,9,4,E-commerce,No,No,1535.8,2024-03-12
+PRJ-01714,39485.03,165,7,7,Portal Web,No,Sí,1185.9,2024-03-12
+PRJ-01715,9362.28,230,4,3,Portal Web,No,No,368.5,2024-03-12
+PRJ-01716,79614.97,279,8,5,App Móvil,No,Sí,1893.7,2024-03-12
+PRJ-01717,9333.54,343,8,5,Portal Web,No,Sí,529.6,2024-03-12
+PRJ-01718,57127.64,347,0,2,E-commerce,Sí,No,1194.1,2024-03-12
+PRJ-01719,78775.92,324,5,2,Portal Web,No,No,1730.4,2024-03-12
+PRJ-01720,22938.51,343,6,4,App Móvil,No,Sí,737.6,2024-03-12
+PRJ-01721,15668.7,238,2,4,Sistema SaaS,Sí,No,537.2,2024-03-12
+PRJ-01722,14103.87,240,6,4,E-commerce,Sí,No,546.4,2024-03-12
+PRJ-01723,27745.64,221,10,6,E-commerce,Sí,Sí,984.5,2024-03-12
+PRJ-01724,12578.44,73,10,2,App Móvil,Sí,No,456.1,2024-03-12
+PRJ-01725,56912.1,58,6,6,App Móvil,Sí,Sí,1442.1,2024-03-12
+PRJ-01726,9671.88,88,13,7,App Móvil,Sí,No,667.8,2024-03-12
+PRJ-01727,43206.66,100,12,3,App Móvil,Sí,Sí,1140.0,2024-03-12
+PRJ-01728,79752.26,121,10,8,E-commerce,Sí,Sí,2022.1,2024-03-12
+PRJ-01729,66047.77,294,1,2,Sistema SaaS,Sí,No,1394.8,2024-03-13
+PRJ-01730,51141.46,249,6,8,Portal Web,No,Sí,1423.5,2024-03-13
+PRJ-01731,27969.02,244,14,5,Portal Web,Sí,Sí,932.0,2024-03-13
+PRJ-01732,51792.19,306,0,2,Sistema SaaS,No,No,1117.1,2024-03-13
+PRJ-01733,44528.11,93,4,7,Sistema SaaS,No,No,1245.7,2024-03-13
+PRJ-01734,36956.25,321,8,2,Sistema SaaS,No,No,905.7,2024-03-13
+PRJ-01735,14803.28,274,6,6,App Móvil,No,Sí,606.7,2024-03-13
+PRJ-01736,71495.32,91,6,3,E-commerce,No,Sí,1646.3,2024-03-13
+PRJ-01737,38733.85,361,10,9,E-commerce,No,Sí,1302.6,2024-03-13
+PRJ-01738,19596.69,199,12,3,E-commerce,No,No,674.6,2024-03-13
+PRJ-01739,32581.95,298,11,3,App Móvil,No,Sí,963.1,2024-03-13
+PRJ-01740,36059.73,296,1,5,E-commerce,Sí,Sí,962.3,2024-03-13
+PRJ-01741,67065.34,83,7,7,App Móvil,No,No,1731.1,2024-03-13
+PRJ-01742,60021.08,45,2,8,E-commerce,No,Sí,1581.8,2024-03-13
+PRJ-01743,62697.87,37,14,7,Sistema SaaS,No,No,1739.4,2024-03-13
+PRJ-01744,5827.34,133,7,9,Portal Web,No,No,620.9,2024-03-13
+PRJ-01745,36211.55,88,2,5,Portal Web,Sí,No,972.1,2024-03-13
+PRJ-01746,41100.81,342,9,3,App Móvil,No,Sí,1016.4,2024-03-13
+PRJ-01747,6439.42,69,6,6,E-commerce,Sí,Sí,459.9,2024-03-13
+PRJ-01748,24485.99,266,1,5,Portal Web,Sí,Sí,726.8,2024-03-13
+PRJ-01749,62021.74,123,3,4,Sistema SaaS,No,No,1489.0,2024-03-13
+PRJ-01750,15283.23,251,10,2,Sistema SaaS,No,No,496.0,2024-03-13
+PRJ-01751,45148.26,233,5,7,Sistema SaaS,Sí,No,1237.1,2024-03-13
+PRJ-01752,21140.14,167,10,5,App Móvil,No,Sí,769.4,2024-03-13
+PRJ-01753,5909.06,329,8,4,App Móvil,No,Sí,415.8,2024-03-14
+PRJ-01754,23090.11,236,4,8,E-commerce,Sí,Sí,860.0,2024-03-14
+PRJ-01755,78190.53,110,12,9,Sistema SaaS,Sí,Sí,2172.4,2024-03-14
+PRJ-01756,65115.28,247,8,9,E-commerce,No,Sí,1857.0,2024-03-14
+PRJ-01757,76968.25,31,14,3,E-commerce,No,No,1840.6,2024-03-14
+PRJ-01758,41589.05,207,4,3,Sistema SaaS,No,Sí,1019.4,2024-03-14
+PRJ-01759,13230.21,308,9,5,E-commerce,Sí,No,631.8,2024-03-14
+PRJ-01760,46096.96,175,7,5,Portal Web,No,No,1228.7,2024-03-14
+PRJ-01761,39078.3,347,12,2,App Móvil,Sí,Sí,995.5,2024-03-14
+PRJ-01762,68326.78,253,12,1,E-commerce,Sí,No,1577.8,2024-03-14
+PRJ-01763,12356.19,91,0,8,Sistema SaaS,No,Sí,618.7,2024-03-14
+PRJ-01764,41618.09,323,6,3,App Móvil,Sí,Sí,1019.2,2024-03-14
+PRJ-01765,16253.65,268,3,1,App Móvil,No,No,413.1,2024-03-14
+PRJ-01766,29350.69,224,4,1,E-commerce,No,Sí,676.0,2024-03-14
+PRJ-01767,60301.78,195,5,2,Portal Web,Sí,Sí,1346.4,2024-03-14
+PRJ-01768,40701.36,251,4,6,E-commerce,No,No,1112.4,2024-03-14
+PRJ-01769,33191.62,90,11,6,Portal Web,Sí,No,1068.9,2024-03-14
+PRJ-01770,34585.72,158,0,3,App Móvil,Sí,No,820.1,2024-03-14
+PRJ-01771,39458.51,202,11,4,E-commerce,No,No,1108.3,2024-03-14
+PRJ-01772,63876.24,185,8,2,Sistema SaaS,No,No,1484.0,2024-03-14
+PRJ-01773,71906.35,139,1,2,E-commerce,No,No,1545.9,2024-03-14
+PRJ-01774,76650.1,298,8,7,Portal Web,No,Sí,1950.2,2024-03-14
+PRJ-01775,64017.75,307,9,1,Portal Web,Sí,Sí,1419.8,2024-03-14
+PRJ-01776,28655.52,103,1,7,E-commerce,Sí,Sí,929.5,2024-03-14
+PRJ-01777,56610.1,236,8,1,Portal Web,Sí,No,1252.0,2024-03-15
+PRJ-01778,37820.23,308,5,6,App Móvil,No,Sí,1046.1,2024-03-15
+PRJ-01779,24100.3,355,10,3,E-commerce,Sí,No,710.2,2024-03-15
+PRJ-01780,68065.37,233,8,8,Portal Web,Sí,Sí,1843.2,2024-03-15
+PRJ-01781,7881.98,190,12,6,E-commerce,No,No,583.1,2024-03-15
+PRJ-01782,72632.15,57,5,2,E-commerce,No,Sí,1635.4,2024-03-15
+PRJ-01783,39610.81,286,5,8,Sistema SaaS,No,No,1179.1,2024-03-15
+PRJ-01784,52790.11,194,12,5,E-commerce,Sí,No,1482.8,2024-03-15
+PRJ-01785,54451.54,92,10,8,Sistema SaaS,No,No,1561.9,2024-03-15
+PRJ-01786,72133.83,51,13,8,Portal Web,Sí,No,1914.7,2024-03-15
+PRJ-01787,52750.23,99,1,6,Sistema SaaS,Sí,Sí,1391.9,2024-03-15
+PRJ-01788,51045.02,125,7,2,Sistema SaaS,Sí,Sí,1162.1,2024-03-15
+PRJ-01789,9998.9,192,2,8,Sistema SaaS,Sí,No,574.0,2024-03-15
+PRJ-01790,43880.6,108,6,6,App Móvil,Sí,No,1214.5,2024-03-15
+PRJ-01791,16262.68,34,4,6,Sistema SaaS,No,No,654.4,2024-03-15
+PRJ-01792,60307.53,345,2,8,E-commerce,Sí,Sí,1570.4,2024-03-15
+PRJ-01793,43416.64,149,0,1,Sistema SaaS,No,No,939.3,2024-03-15
+PRJ-01794,56017.08,331,7,2,E-commerce,Sí,No,1313.2,2024-03-15
+PRJ-01795,8125.47,207,2,9,Sistema SaaS,Sí,Sí,592.0,2024-03-15
+PRJ-01796,11359.4,205,1,8,App Móvil,No,No,632.3,2024-03-15
+PRJ-01797,58724.25,246,0,7,Portal Web,Sí,No,1487.8,2024-03-15
+PRJ-01798,10406.33,85,3,7,Sistema SaaS,Sí,Sí,552.2,2024-03-15
+PRJ-01799,10344.25,216,12,5,Sistema SaaS,No,No,625.8,2024-03-15
+PRJ-01800,5908.14,261,7,2,App Móvil,No,No,299.6,2024-03-15
+PRJ-01801,76737.6,284,12,6,Sistema SaaS,Sí,Sí,1924.1,2024-03-16
+PRJ-01802,60313.13,133,2,3,E-commerce,Sí,No,1344.0,2024-03-16
+PRJ-01803,31493.86,106,13,4,Sistema SaaS,Sí,Sí,966.4,2024-03-16
+PRJ-01804,27240.17,259,0,2,Sistema SaaS,No,No,574.9,2024-03-16
+PRJ-01805,31227.74,287,3,2,Portal Web,Sí,No,734.7,2024-03-16
+PRJ-01806,63099.01,293,8,8,Portal Web,No,No,1715.5,2024-03-16
+PRJ-01807,54602.8,360,12,8,Sistema SaaS,No,No,1591.9,2024-03-16
+PRJ-01808,18889.67,211,0,6,App Móvil,Sí,No,616.4,2024-03-16
+PRJ-01809,18058.2,285,11,5,Portal Web,No,Sí,707.0,2024-03-16
+PRJ-01810,12379.67,67,13,8,Sistema SaaS,Sí,No,793.1,2024-03-16
+PRJ-01811,54522.7,205,10,4,Portal Web,Sí,No,1414.8,2024-03-16
+PRJ-01812,62327.95,56,1,4,Sistema SaaS,No,Sí,1440.9,2024-03-16
+PRJ-01813,24878.48,305,8,5,Portal Web,No,Sí,816.8,2024-03-16
+PRJ-01814,6570.87,169,1,1,Portal Web,No,No,184.4,2024-03-16
+PRJ-01815,11162.88,328,12,1,E-commerce,No,Sí,418.2,2024-03-16
+PRJ-01816,77589.5,316,2,2,Sistema SaaS,No,No,1668.4,2024-03-16
+PRJ-01817,27158.36,120,6,8,Sistema SaaS,No,Sí,983.3,2024-03-16
+PRJ-01818,62691.74,90,2,7,Sistema SaaS,Sí,Sí,1605.4,2024-03-16
+PRJ-01819,51849.77,192,8,9,Sistema SaaS,Sí,No,1507.7,2024-03-16
+PRJ-01820,33645.47,172,5,5,Portal Web,Sí,Sí,950.2,2024-03-16
+PRJ-01821,20426.54,282,2,2,E-commerce,No,No,527.5,2024-03-16
+PRJ-01822,14103.98,298,8,7,E-commerce,No,Sí,668.9,2024-03-16
+PRJ-01823,51125.97,320,0,8,App Móvil,No,Sí,1365.7,2024-03-16
+PRJ-01824,63097.53,216,9,7,Sistema SaaS,Sí,Sí,1679.5,2024-03-16
+PRJ-01825,53292.82,333,2,7,App Móvil,Sí,No,1400.6,2024-03-17
+PRJ-01826,44772.66,320,0,5,Portal Web,No,No,1125.9,2024-03-17
+PRJ-01827,8146.34,115,1,2,App Móvil,No,Sí,243.7,2024-03-17
+PRJ-01828,77636.66,195,11,6,Sistema SaaS,No,No,1978.9,2024-03-17
+PRJ-01829,64903.56,143,7,4,E-commerce,No,No,1557.6,2024-03-17
+PRJ-01830,26961.65,212,6,2,E-commerce,Sí,No,704.9,2024-03-17
+PRJ-01831,78497.77,236,1,9,Sistema SaaS,Sí,Sí,1977.7,2024-03-17
+PRJ-01832,50141.12,285,1,7,Portal Web,Sí,No,1335.7,2024-03-17
+PRJ-01833,48681.7,264,8,6,Sistema SaaS,No,Sí,1381.4,2024-03-17
+PRJ-01834,61105.49,32,12,5,Portal Web,Sí,Sí,1581.6,2024-03-17
+PRJ-01835,65882.73,237,12,3,E-commerce,No,Sí,1583.0,2024-03-17
+PRJ-01836,54235.9,226,5,4,Portal Web,No,Sí,1304.0,2024-03-17
+PRJ-01837,14607.18,154,4,3,Sistema SaaS,No,Sí,473.7,2024-03-17
+PRJ-01838,30370.06,167,9,8,Sistema SaaS,Sí,No,1073.6,2024-03-17
+PRJ-01839,74606.27,54,5,3,Sistema SaaS,Sí,No,1688.4,2024-03-17
+PRJ-01840,21846.17,97,8,7,Portal Web,No,Sí,859.6,2024-03-17
+PRJ-01841,32912.53,90,10,7,Portal Web,Sí,No,1101.8,2024-03-17
+PRJ-01842,37405.77,58,6,7,Portal Web,No,No,1134.6,2024-03-17
+PRJ-01843,37955.37,48,14,7,E-commerce,No,No,1291.0,2024-03-17
+PRJ-01844,50970.47,200,9,2,App Móvil,No,No,1234.7,2024-03-17
+PRJ-01845,75730.69,103,9,3,App Móvil,Sí,No,1730.4,2024-03-17
+PRJ-01846,23051.95,90,13,9,Sistema SaaS,Sí,No,983.4,2024-03-17
+PRJ-01847,14112.6,182,8,3,E-commerce,No,No,495.9,2024-03-17
+PRJ-01848,19810.29,305,3,2,Portal Web,Sí,Sí,526.0,2024-03-17
+PRJ-01849,71519.37,77,1,9,Sistema SaaS,Sí,Sí,1827.9,2024-03-18
+PRJ-01850,53435.81,240,11,9,E-commerce,Sí,Sí,1590.0,2024-03-18
+PRJ-01851,26443.01,168,7,4,Sistema SaaS,Sí,No,793.5,2024-03-18
+PRJ-01852,66196.02,139,3,9,E-commerce,No,No,1756.4,2024-03-18
+PRJ-01853,69602.75,212,12,3,E-commerce,Sí,Sí,1619.9,2024-03-18
+PRJ-01854,68488.58,57,8,7,App Móvil,No,No,1807.7,2024-03-18
+PRJ-01855,73919.49,226,14,7,Sistema SaaS,No,No,1982.5,2024-03-18
+PRJ-01856,23918.08,220,14,8,Portal Web,Sí,Sí,974.2,2024-03-18
+PRJ-01857,61628.14,344,3,4,App Móvil,No,Sí,1450.0,2024-03-18
+PRJ-01858,39540.46,80,14,3,App Móvil,No,Sí,1065.9,2024-03-18
+PRJ-01859,68149.89,178,7,3,Portal Web,Sí,No,1566.8,2024-03-18
+PRJ-01860,59636.8,297,8,5,E-commerce,No,No,1525.9,2024-03-18
+PRJ-01861,63233.56,79,12,1,Portal Web,No,No,1473.9,2024-03-18
+PRJ-01862,54212.14,275,8,3,Sistema SaaS,Sí,Sí,1334.9,2024-03-18
+PRJ-01863,18307.16,142,9,6,Portal Web,Sí,Sí,750.3,2024-03-18
+PRJ-01864,45877.02,199,3,3,E-commerce,Sí,No,1120.4,2024-03-18
+PRJ-01865,78850.23,195,0,5,Portal Web,Sí,Sí,1786.7,2024-03-18
+PRJ-01866,75304.1,43,14,9,E-commerce,Sí,Sí,2069.4,2024-03-18
+PRJ-01867,8238.03,232,2,2,E-commerce,No,No,213.9,2024-03-18
+PRJ-01868,17361.11,317,8,2,Sistema SaaS,No,Sí,530.9,2024-03-18
+PRJ-01869,14879.66,218,3,6,Portal Web,Sí,Sí,618.1,2024-03-18
+PRJ-01870,59448.49,184,4,6,Portal Web,Sí,Sí,1514.1,2024-03-18
+PRJ-01871,66333.9,84,6,8,Sistema SaaS,No,No,1743.1,2024-03-18
+PRJ-01872,21013.35,211,4,2,E-commerce,Sí,No,579.4,2024-03-18
+PRJ-01873,42938.95,239,3,9,Portal Web,Sí,Sí,1297.9,2024-03-19
+PRJ-01874,68052.73,104,14,2,Sistema SaaS,No,No,1638.2,2024-03-19
+PRJ-01875,59960.12,306,1,1,E-commerce,No,No,1268.4,2024-03-19
+PRJ-01876,45667.79,162,14,2,Sistema SaaS,No,No,1207.0,2024-03-19
+PRJ-01877,49276.08,88,1,7,Portal Web,Sí,Sí,1321.0,2024-03-19
+PRJ-01878,43127.04,211,12,8,Sistema SaaS,No,No,1381.8,2024-03-19
+PRJ-01879,27316.13,350,12,5,App Móvil,Sí,Sí,913.4,2024-03-19
+PRJ-01880,47376.65,93,3,6,E-commerce,No,Sí,1241.0,2024-03-19
+PRJ-01881,56666.4,356,9,1,App Móvil,Sí,No,1298.6,2024-03-19
+PRJ-01882,70499.22,289,12,6,App Móvil,Sí,Sí,1861.6,2024-03-19
+PRJ-01883,52721.85,222,9,8,E-commerce,Sí,No,1507.0,2024-03-19
+PRJ-01884,62084.12,172,12,3,E-commerce,No,No,1514.5,2024-03-19
+PRJ-01885,17005.37,133,14,1,Sistema SaaS,No,Sí,553.8,2024-03-19
+PRJ-01886,39616.81,243,8,4,E-commerce,No,Sí,1085.5,2024-03-19
+PRJ-01887,5699.87,271,7,1,App Móvil,Sí,No,251.6,2024-03-19
+PRJ-01888,23500.91,238,2,8,App Móvil,No,No,876.8,2024-03-19
+PRJ-01889,59484.63,122,14,5,Portal Web,No,No,1632.0,2024-03-19
+PRJ-01890,79385.75,171,13,1,E-commerce,Sí,No,1772.7,2024-03-19
+PRJ-01891,12438.36,141,8,8,App Móvil,Sí,Sí,720.0,2024-03-19
+PRJ-01892,35112.07,88,13,9,Portal Web,No,Sí,1271.3,2024-03-19
+PRJ-01893,65005.32,72,4,2,Portal Web,No,Sí,1438.6,2024-03-19
+PRJ-01894,20302.67,236,10,9,Sistema SaaS,No,No,946.2,2024-03-19
+PRJ-01895,46631.37,297,2,8,App Móvil,Sí,Sí,1310.0,2024-03-19
+PRJ-01896,59980.35,325,4,7,Sistema SaaS,No,Sí,1570.7,2024-03-19
+PRJ-01897,51198.91,147,12,3,App Móvil,Sí,Sí,1270.3,2024-03-20
+PRJ-01898,19101.86,49,9,2,Sistema SaaS,Sí,Sí,566.6,2024-03-20
+PRJ-01899,31653.84,251,12,7,Sistema SaaS,No,No,1118.3,2024-03-20
+PRJ-01900,63784.38,195,3,5,E-commerce,No,Sí,1561.9,2024-03-20
+PRJ-01901,46566.99,160,7,6,Sistema SaaS,Sí,Sí,1291.8,2024-03-20
+PRJ-01902,5392.22,185,12,4,E-commerce,Sí,Sí,420.5,2024-03-20
+PRJ-01903,62074.31,213,11,2,Portal Web,No,Sí,1484.1,2024-03-20
+PRJ-01904,7648.35,119,4,9,App Móvil,No,No,636.9,2024-03-20
+PRJ-01905,60930.03,123,9,3,Portal Web,No,No,1451.3,2024-03-20
+PRJ-01906,20186.04,42,11,7,App Móvil,Sí,Sí,814.3,2024-03-20
+PRJ-01907,76855.51,351,7,8,Portal Web,Sí,No,1992.3,2024-03-20
+PRJ-01908,32595.56,322,8,2,App Móvil,No,No,860.8,2024-03-20
+PRJ-01909,29519.87,259,3,6,Sistema SaaS,Sí,No,911.1,2024-03-20
+PRJ-01910,16166.6,351,6,8,App Móvil,Sí,No,794.5,2024-03-20
+PRJ-01911,27920.32,321,1,7,App Móvil,No,Sí,924.6,2024-03-20
+PRJ-01912,70748.81,55,5,3,Portal Web,Sí,No,1602.3,2024-03-20
+PRJ-01913,79725.08,104,7,1,Portal Web,No,No,1728.5,2024-03-20
+PRJ-01914,32623.21,328,11,6,Portal Web,No,Sí,1042.1,2024-03-20
+PRJ-01915,38645.8,179,6,8,E-commerce,Sí,Sí,1179.4,2024-03-20
+PRJ-01916,59155.32,177,6,6,E-commerce,Sí,Sí,1501.0,2024-03-20
+PRJ-01917,71464.68,37,7,5,App Móvil,No,Sí,1756.2,2024-03-20
+PRJ-01918,49478.33,58,6,8,App Móvil,Sí,No,1429.1,2024-03-20
+PRJ-01919,34364.43,325,4,2,Sistema SaaS,No,Sí,847.5,2024-03-20
+PRJ-01920,35946.64,238,6,1,Sistema SaaS,Sí,No,899.2,2024-03-20
+PRJ-01921,57171.36,157,12,1,App Móvil,Sí,No,1344.9,2024-03-21
+PRJ-01922,5241.37,145,13,4,E-commerce,Sí,Sí,421.1,2024-03-21
+PRJ-01923,51469.2,173,9,6,App Móvil,No,Sí,1433.3,2024-03-21
+PRJ-01924,31661.98,347,2,9,Sistema SaaS,Sí,No,1042.1,2024-03-21
+PRJ-01925,64564.8,264,4,1,E-commerce,No,No,1428.0,2024-03-21
+PRJ-01926,11974.3,36,6,1,E-commerce,No,Sí,307.2,2024-03-21
+PRJ-01927,49115.17,74,14,5,Sistema SaaS,No,Sí,1361.6,2024-03-21
+PRJ-01928,41072.97,268,8,5,App Móvil,Sí,Sí,1158.0,2024-03-21
+PRJ-01929,53174.41,184,14,5,Portal Web,No,No,1485.9,2024-03-21
+PRJ-01930,9864.02,210,1,6,App Móvil,No,No,462.4,2024-03-21
+PRJ-01931,48498.78,244,3,8,App Móvil,Sí,Sí,1344.5,2024-03-21
+PRJ-01932,47111.34,117,11,3,Sistema SaaS,No,No,1212.9,2024-03-21
+PRJ-01933,47049.51,285,6,9,E-commerce,No,Sí,1465.7,2024-03-21
+PRJ-01934,50261.57,102,0,1,Sistema SaaS,Sí,No,1011.8,2024-03-21
+PRJ-01935,55735.1,208,12,4,App Móvil,No,No,1430.8,2024-03-21
+PRJ-01936,65374.17,241,1,9,Portal Web,Sí,Sí,1731.0,2024-03-21
+PRJ-01937,25236.55,322,8,8,Portal Web,No,Sí,940.8,2024-03-21
+PRJ-01938,66878.71,263,12,9,Portal Web,No,Sí,1866.6,2024-03-21
+PRJ-01939,42369.18,268,9,1,Sistema SaaS,Sí,No,994.5,2024-03-21
+PRJ-01940,10779.37,252,6,9,E-commerce,No,No,699.9,2024-03-21
+PRJ-01941,9391.32,148,11,3,Sistema SaaS,No,Sí,449.9,2024-03-21
+PRJ-01942,30067.87,342,9,9,Portal Web,No,No,1151.0,2024-03-21
+PRJ-01943,63867.27,293,6,1,App Móvil,Sí,Sí,1409.2,2024-03-21
+PRJ-01944,58076.07,236,5,1,E-commerce,Sí,No,1276.1,2024-03-21
+PRJ-01945,64146.12,124,2,9,Sistema SaaS,Sí,Sí,1737.6,2024-03-22
+PRJ-01946,43795.18,251,9,6,Sistema SaaS,Sí,No,1263.9,2024-03-22
+PRJ-01947,38014.92,305,2,4,E-commerce,Sí,No,953.2,2024-03-22
+PRJ-01948,16058.94,260,1,7,E-commerce,No,No,641.6,2024-03-22
+PRJ-01949,29614.46,338,10,5,App Móvil,Sí,No,909.1,2024-03-22
+PRJ-01950,37551.45,148,5,7,E-commerce,Sí,Sí,1176.2,2024-03-22
+PRJ-01951,11645.03,297,3,8,App Móvil,Sí,No,652.2,2024-03-22
+PRJ-01952,21545.9,302,4,8,Portal Web,No,Sí,774.9,2024-03-22
+PRJ-01953,49866.9,93,2,1,Portal Web,No,Sí,1099.7,2024-03-22
+PRJ-01954,60174.73,327,5,8,Sistema SaaS,Sí,Sí,1586.8,2024-03-22
+PRJ-01955,79876.06,40,10,6,Portal Web,No,Sí,2000.5,2024-03-22
+PRJ-01956,74983.5,127,11,4,Portal Web,No,No,1756.6,2024-03-22
+PRJ-01957,53192.39,100,2,8,App Móvil,No,Sí,1437.1,2024-03-22
+PRJ-01958,36593.6,87,13,3,Sistema SaaS,No,No,1056.4,2024-03-22
+PRJ-01959,52713.3,319,14,4,E-commerce,Sí,No,1437.2,2024-03-22
+PRJ-01960,63923.87,280,13,6,Sistema SaaS,Sí,No,1712.1,2024-03-22
+PRJ-01961,13875.21,305,7,7,Portal Web,No,No,696.2,2024-03-22
+PRJ-01962,35742.87,79,8,4,E-commerce,No,Sí,955.5,2024-03-22
+PRJ-01963,67985.17,245,3,4,Sistema SaaS,No,No,1589.2,2024-03-22
+PRJ-01964,33787.47,81,14,7,Sistema SaaS,No,Sí,1180.0,2024-03-22
+PRJ-01965,47890.42,300,8,6,Sistema SaaS,Sí,No,1388.1,2024-03-22
+PRJ-01966,49082.7,113,11,8,Sistema SaaS,No,No,1458.1,2024-03-22
+PRJ-01967,18835.72,322,6,1,App Móvil,Sí,Sí,494.1,2024-03-22
+PRJ-01968,32167.66,155,2,7,Sistema SaaS,No,No,984.3,2024-03-22
+PRJ-01969,30088.35,325,6,7,Portal Web,Sí,No,1006.2,2024-03-23
+PRJ-01970,6964.75,101,13,7,Portal Web,No,No,632.3,2024-03-23
+PRJ-01971,6814.38,325,0,7,App Móvil,Sí,No,477.8,2024-03-23
+PRJ-01972,67377.28,265,2,8,E-commerce,Sí,No,1756.2,2024-03-23
+PRJ-01973,25480.31,85,5,9,E-commerce,Sí,Sí,937.6,2024-03-23
+PRJ-01974,43855.91,139,3,9,Portal Web,No,No,1252.8,2024-03-23
+PRJ-01975,27404.42,221,6,2,Portal Web,Sí,No,697.2,2024-03-23
+PRJ-01976,75550.94,122,13,7,App Móvil,No,Sí,1981.1,2024-03-23
+PRJ-01977,24447.26,85,2,7,E-commerce,Sí,No,812.6,2024-03-23
+PRJ-01978,37224.26,89,0,4,E-commerce,Sí,Sí,913.0,2024-03-23
+PRJ-01979,70454.77,167,8,9,Sistema SaaS,No,No,1901.7,2024-03-23
+PRJ-01980,68145.02,68,14,8,Sistema SaaS,Sí,No,1905.3,2024-03-23
+PRJ-01981,18957.61,57,5,1,Sistema SaaS,No,Sí,458.3,2024-03-23
+PRJ-01982,65198.25,78,7,2,App Móvil,No,No,1476.0,2024-03-23
+PRJ-01983,39364.02,154,2,2,Portal Web,No,No,899.5,2024-03-23
+PRJ-01984,41222.67,42,7,8,App Móvil,No,Sí,1282.3,2024-03-23
+PRJ-01985,15011.0,65,1,1,E-commerce,Sí,Sí,386.3,2024-03-23
+PRJ-01986,11045.11,130,11,4,Portal Web,Sí,No,575.0,2024-03-23
+PRJ-01987,59595.45,311,3,5,Sistema SaaS,No,Sí,1434.3,2024-03-23
+PRJ-01988,42234.59,115,2,9,App Móvil,Sí,No,1223.7,2024-03-23
+PRJ-01989,37763.8,33,9,7,App Móvil,Sí,Sí,1172.2,2024-03-23
+PRJ-01990,59713.12,252,0,8,Sistema SaaS,No,No,1514.5,2024-03-23
+PRJ-01991,62413.47,195,14,9,App Móvil,Sí,Sí,1889.6,2024-03-23
+PRJ-01992,16918.11,307,12,7,Sistema SaaS,No,Sí,775.5,2024-03-23
+PRJ-01993,50766.89,159,12,5,E-commerce,Sí,Sí,1398.4,2024-03-24
+PRJ-01994,15151.56,60,6,5,Portal Web,Sí,Sí,623.4,2024-03-24
+PRJ-01995,61353.13,40,10,6,E-commerce,No,Sí,1625.6,2024-03-24
+PRJ-01996,54271.64,331,9,5,E-commerce,Sí,Sí,1470.4,2024-03-24
+PRJ-01997,76746.1,125,1,9,Sistema SaaS,Sí,Sí,1946.9,2024-03-24
+PRJ-01998,10171.85,219,3,3,App Móvil,No,Sí,353.6,2024-03-24
+PRJ-01999,9279.1,221,8,3,E-commerce,Sí,Sí,394.4,2024-03-24
+PRJ-02000,26164.03,295,5,7,E-commerce,No,No,917.0,2024-03-24
